@@ -1,0 +1,25 @@
+{
+    "name": "ssrg-discord-bot",
+    "version": "1.0.0",
+    "description": "A Discord bot for querying SSRG world record rankings",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "extract": "node extract_mappings.js"
+    },
+    "dependencies": {
+        "axios": "^1.6.0",
+        "discord.js": "^14.14.1",
+        "dotenv": "^16.5.0"
+    },
+    "keywords": [
+        "discord",
+        "bot",
+        "ssrg",
+        "rhythm-game",
+        "rankings"
+    ],
+    "author": "Happles",
+    "license": "MIT"
+}
