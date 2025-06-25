@@ -56,10 +56,7 @@ client.on("messageCreate", async (message) => {
 
     //
     else if (command === "test") {
-        test(
-            "testing",
-            "/Users/swislar/Desktop/SSRG Bot/albumCover/boa+emptiness_thumbnail.png"
-        );
+        test(message, args);
     }
 });
 

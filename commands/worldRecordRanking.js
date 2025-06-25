@@ -61,6 +61,7 @@ const getWorldRecordRanking = async (group, title) => {
                 rank: user.rank,
                 name: user.nickname,
                 score: user.highscore.toLocaleString(),
+                cards: user.cards.length,
                 time: new Date(user.updatedAt).toLocaleString("ko-KR", {
                     year: "2-digit",
                     month: "2-digit",
@@ -245,35 +246,12 @@ export const worldRecordRanking = async (message, args) => {
                 )
                 .setColor("#0099ff");
 
-            const MAX_RANK_WIDTH = 4; // Adjust based on max rank digits
-            const MAX_SCORE_WIDTH = 9; // Adjust based on max score digits
-            const MAX_NAME_WIDTH = 20; // Adjust based on max name length
-
             let tableContent = [];
 
             if (recordsToShow.length === 0) {
                 tableContent.push("No records found.");
             } else {
                 recordsToShow.forEach((record, index) => {
-                    const formattedTime = record.time
-                        .replace(/\(CST\)/g, "")
-                        .trim()
-                        .replace(
-                            /(\d{2})\. (\d{2})\. (\d{2})\. (오전|오후) (\d{2}:\d{2}:\d{2})/,
-                            (match, day, month, year, period, time) => {
-                                let [hours, minutes, seconds] = time.split(":");
-                                if (period === "오후" && hours !== "12") {
-                                    hours = String(Number(hours) + 12);
-                                } else if (
-                                    period === "오전" &&
-                                    hours === "12"
-                                ) {
-                                    hours = "00";
-                                }
-                                return `${year}/${month}/${day} ${hours}:${minutes}:${seconds}`;
-                            }
-                        );
-
                     // First line: Rank, Name, and Score
                     tableContent.push(
                         `${String(record.rank).padStart(3)} ${String(
@@ -284,8 +262,35 @@ export const worldRecordRanking = async (message, args) => {
                     //Second line: Score
                     tableContent.push(`    ${String(record.score)}`);
 
-                    // Third line: Time
-                    tableContent.push(`    ${formattedTime}`);
+                    if (
+                        (
+                            record.cards * 15_000 +
+                            6_313_000 +
+                            6 * 15_000
+                        ).toLocaleString() === record.score
+                    ) {
+                        const formattedTime = record.time
+                            .replace(/\(CST\)/g, "")
+                            .trim()
+                            .replace(
+                                /(\d{2})\. (\d{2})\. (\d{2})\. (오전|오후) (\d{2}:\d{2}:\d{2})/,
+                                (match, day, month, year, period, time) => {
+                                    let [hours, minutes, seconds] =
+                                        time.split(":");
+                                    if (period === "오후" && hours !== "12") {
+                                        hours = String(Number(hours) + 12);
+                                    } else if (
+                                        period === "오전" &&
+                                        hours === "12"
+                                    ) {
+                                        hours = "00";
+                                    }
+                                    return `${year}/${month}/${day} ${hours}:${minutes}:${seconds}`;
+                                }
+                            );
+                        // Third line: Time
+                        tableContent.push(`    ${formattedTime}`);
+                    }
 
                     // Add divider after each record (except the last one)
                     if (index < recordsToShow.length - 1) {
