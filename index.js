@@ -1,6 +1,12 @@
 import { Client, GatewayIntentBits } from "discord.js";
 import dotenv from "dotenv";
-import { ping, hello, catfact, worldRecordRanking } from "./commands/index.js";
+import {
+    ping,
+    hello,
+    catfact,
+    worldRecordRanking,
+    test,
+} from "./commands/index.js";
 dotenv.config();
 
 // Create a new client instance with necessary intents
@@ -46,6 +52,14 @@ client.on("messageCreate", async (message) => {
     // Command: !lb <artist> <song_title>
     else if (command === "lb") {
         worldRecordRanking(message, args);
+    }
+
+    //
+    else if (command === "test") {
+        test(
+            "testing",
+            "/Users/swislar/Desktop/SSRG Bot/albumCover/boa+emptiness_thumbnail.png"
+        );
     }
 });
 

@@ -8,18 +8,18 @@ import axios from "axios";
 import fs from "fs";
 import path from "path";
 import { getCache, setCache } from "../rankingCache.js";
-import { musicMappings, emblemMappings } from "../maps/index.js";
+import {
+    musicMappings,
+    emblemMappings,
+    albumCoverMappings,
+} from "../maps/index.js";
+import {
+    capitalizeFirstLetter,
+    resizeThumbnail,
+    resizeAuthorImage,
+} from "../util/index.js";
+import { url } from "inspector";
 const CACHE_DURATION = 5 * 60 * 1000;
-
-function capitalizeFirstLetter(string) {
-    if (!string || typeof string !== "string") {
-        return ""; // Handle null, undefined, or non-string inputs
-    }
-    if (string.length === 0) {
-        return ""; // Handle empty string
-    }
-    return string.charAt(0).toUpperCase() + string.slice(1);
-}
 
 const getWorldRecordRanking = async (group, title) => {
     const cacheKey = `${group}:${title}`;
@@ -28,12 +28,20 @@ const getWorldRecordRanking = async (group, title) => {
 
     if (cacheEntry && now - cacheEntry.timestamp < CACHE_DURATION) {
         console.log(`Serving from CACHE: ${cacheKey}`);
-        return cacheEntry.response; // Return the cached data
+        return {
+            ranking: cacheEntry.response,
+            albumKey: typeof musicEntry === "object" ? musicEntry.album : null,
+        }; // Return the cached data
     }
 
     try {
         const wrEndPoint = process.env.WR_ENDPOINT;
-        const musicId = musicMappings[group]?.[title];
+        // Use new format: { id, album }
+        const musicEntry = musicMappings[group]?.[title];
+        const musicId =
+            typeof musicEntry === "object" ? musicEntry.id : musicEntry;
+        const albumKey =
+            typeof musicEntry === "object" ? musicEntry.album : null;
 
         if (!musicId) {
             throw new Error(
@@ -69,7 +77,8 @@ const getWorldRecordRanking = async (group, title) => {
             response: formattedRanking,
         });
 
-        return formattedRanking;
+        // Return both ranking and albumKey for album cover
+        return { ranking: formattedRanking, albumKey };
     } catch (error) {
         console.error("Error fetching world record ranking:", error.message);
         throw error;
@@ -118,17 +127,63 @@ const getArtistEmblem = async (group) => {
     }
 };
 
+const getAlbumCover = async (artist, albumTitle) => {
+    // Normalize keys to match mapping (lowercase, underscores)
+    const artistKey = artist.toLowerCase().replace(/ /g, "_");
+    const albumKey = albumTitle.toLowerCase().replace(/ /g, "_");
+    const coverUrl = albumCoverMappings[artistKey]?.[albumKey];
+    if (!coverUrl) {
+        console.log(`No album cover found for ${artistKey} - ${albumKey}`);
+        return null;
+    }
+    const filename = `${artistKey}_${albumKey}.png`;
+    const albumCoverDir = path.join(process.cwd(), "albumCover");
+    const localPath = path.join(albumCoverDir, filename);
+    // Check if album cover already exists locally
+    if (fs.existsSync(localPath)) {
+        console.log(`Using cached album cover for ${artistKey}: ${filename}`);
+        return localPath;
+    }
+    // Download and cache the album cover
+    try {
+        console.log(`Downloading album cover for ${artistKey}: ${coverUrl}`);
+        const response = await axios.get(coverUrl, {
+            responseType: "arraybuffer",
+        });
+        // Ensure albumCover directory exists
+        if (!fs.existsSync(albumCoverDir)) {
+            fs.mkdirSync(albumCoverDir, { recursive: true });
+        }
+        fs.writeFileSync(localPath, response.data);
+        console.log(`Cached album cover for ${artistKey}: ${filename}`);
+        return localPath;
+    } catch (error) {
+        console.error(
+            `Error downloading album cover for ${artistKey}:`,
+            error.message
+        );
+        return null;
+    }
+};
+
 export const worldRecordRanking = async (message, args) => {
     if (args.length < 2) {
         message.channel.send("Usage: !ranking <artist> <song_title>");
         return;
     }
 
-    const artist = args[0];
-    const songTitle = args.slice(1).join(" "); // Join remaining args as song title
+    // Normalize artist and song title for lookup
+    const artistRaw = args[0];
+    const songTitleRaw = args.slice(1).join(" ");
+    const artist = artistRaw.toLowerCase().replace(/ /g, "_");
+    const songTitle = songTitleRaw.toLowerCase().replace(/ /g, "_");
 
     try {
-        const ranking = await getWorldRecordRanking(artist, songTitle);
+        // Get both ranking and albumKey
+        const { ranking, albumKey } = await getWorldRecordRanking(
+            artist,
+            songTitle
+        );
 
         if (!ranking || ranking.length === 0) {
             message.channel.send(
@@ -139,16 +194,26 @@ export const worldRecordRanking = async (message, args) => {
 
         // Get emblem file for attachment
         let emblemPath = null;
-        let files = [];
+        let albumCoverPath = null;
         try {
-            emblemPath = await getArtistEmblem(artist);
-            files.push({
-                attachment: emblemPath,
-                name: path.basename(emblemPath),
-            });
+            emblemPath = await resizeAuthorImage(await getArtistEmblem(artist));
+            console.log(emblemPath);
+            // Do not push emblemPath to files
         } catch (error) {
             console.error(
                 `Error preparing emblem for ${artist}:`,
+                error.message
+            );
+        }
+        try {
+            // Use albumKey if available, else fallback to songTitle
+            albumCoverPath = await resizeThumbnail(
+                await getAlbumCover(artist, albumKey || songTitle)
+            );
+            console.log(albumCoverPath);
+        } catch (error) {
+            console.error(
+                `Error preparing album cover for ${artist} - ${songTitle}:`,
                 error.message
             );
         }
@@ -165,18 +230,20 @@ export const worldRecordRanking = async (message, args) => {
         const createEmbed = () => {
             const recordsToShow = pages[currentPage];
             const embed = new EmbedBuilder()
-                // .setTitle(`${artist} - ${songTitle}\nLeaderboard`)
                 .setAuthor({
                     name: `${capitalizeFirstLetter(
                         artist
                     )} - ${capitalizeFirstLetter(songTitle)}\nLeaderboard`,
+                    iconURL: emblemPath
+                        ? `attachment://${path.basename(emblemPath)}`
+                        : undefined,
                 })
+                .setThumbnail(
+                    albumCoverPath
+                        ? `attachment://${path.basename(albumCoverPath)}`
+                        : undefined
+                )
                 .setColor("#0099ff");
-
-            // Set the artist emblem if available
-            if (emblemPath) {
-                embed.setThumbnail(`attachment://${path.basename(emblemPath)}`);
-            }
 
             const MAX_RANK_WIDTH = 4; // Adjust based on max rank digits
             const MAX_SCORE_WIDTH = 9; // Adjust based on max score digits
@@ -261,7 +328,24 @@ export const worldRecordRanking = async (message, args) => {
         const msg = await message.channel.send({
             embeds: [createEmbed()],
             components: [row],
-            files: files,
+            files: [
+                ...(emblemPath
+                    ? [
+                          {
+                              attachment: emblemPath,
+                              name: path.basename(emblemPath),
+                          },
+                      ]
+                    : []),
+                ...(albumCoverPath
+                    ? [
+                          {
+                              attachment: albumCoverPath,
+                              name: path.basename(albumCoverPath),
+                          },
+                      ]
+                    : []),
+            ],
         });
 
         // Create button collector
