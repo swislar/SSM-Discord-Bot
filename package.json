@@ -5,8 +5,7 @@
     "type": "module",
     "main": "index.js",
     "scripts": {
-        "start": "node index.js",
-        "extract": "node extract_mappings.js"
+        "start": "nodemon index.js"
     },
     "dependencies": {
         "axios": "^1.6.0",
