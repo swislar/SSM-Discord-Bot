@@ -7,7 +7,11 @@ import {
     worldRecordRanking,
     interactiveWorldRecordRanking,
 } from "./commands/index.js";
-import { musicMappings, artistMappings } from "./maps/index.js";
+import {
+    musicMappings,
+    artistMappings,
+    musicNameMappings,
+} from "./maps/index.js";
 dotenv.config();
 
 // Create a new client instance with necessary intents
@@ -73,14 +77,58 @@ client.on("interactionCreate", async (interaction) => {
                 await interaction.respond([]);
                 return;
             }
+
             const focusedValue = focusedOption.value.toLowerCase().trim();
-            const songTitles = Object.keys(songsForArtist).filter((title) =>
-                title.toLowerCase().startsWith(focusedValue)
+
+            // Get alternative names from musicNameMappings
+            const alternativeNames = musicNameMappings[selectedArtist] || {};
+
+            // Create a mapping of searchable terms to canonical titles
+            const searchToCanonical = new Map();
+
+            // Add canonical song titles from musicMappings (search by canonical name, show canonical name)
+            Object.keys(songsForArtist).forEach((title) => {
+                searchToCanonical.set(title.toLowerCase(), title);
+            });
+
+            // Add alternative names as searchable keys, mapping to canonical values
+            Object.entries(alternativeNames).forEach(
+                ([altName, canonicalName]) => {
+                    searchToCanonical.set(altName.toLowerCase(), canonicalName);
+                }
             );
+
+            // Filter searchable terms that match the focused value
+            const matchingSearchTerms = Array.from(
+                searchToCanonical.keys()
+            ).filter((searchTerm) => searchTerm.includes(focusedValue));
+
+            // Sort by relevance (exact matches first, then partial matches)
+            const sortedSearchTerms = matchingSearchTerms.sort((a, b) => {
+                const aStartsWith = a.startsWith(focusedValue);
+                const bStartsWith = b.startsWith(focusedValue);
+
+                if (aStartsWith && !bStartsWith) return -1;
+                if (!aStartsWith && bStartsWith) return 1;
+                return a.localeCompare(b);
+            });
+
+            // Get unique canonical titles from matching search terms
+            const uniqueCanonicalResults = new Set();
+            sortedSearchTerms.forEach((searchTerm) => {
+                const canonicalTitle = searchToCanonical.get(searchTerm);
+                if (canonicalTitle) {
+                    uniqueCanonicalResults.add(canonicalTitle);
+                }
+            });
+
             await interaction.respond(
-                songTitles
+                Array.from(uniqueCanonicalResults)
                     .slice(0, 25)
-                    .map((title) => ({ name: title, value: title }))
+                    .map((canonicalTitle) => ({
+                        name: canonicalTitle,
+                        value: canonicalTitle,
+                    }))
             );
         }
         return; // Important: Return after responding to autocomplete

@@ -13,9 +13,9 @@ import {
     emblemMappings,
     albumCoverMappings,
     artistMappings,
+    musicNameMappings,
 } from "../maps/index.js";
 import {
-    capitalizeFirstLetter,
     resizeThumbnail,
     resizeAuthorImage,
     sanitizeFilename,
@@ -30,6 +30,8 @@ const getWorldRecordRanking = async (artist, title) => {
     const musicEntry = musicMappings[artist]?.[title];
     const albumKey = typeof musicEntry === "object" ? musicEntry.album : null;
     const musicTitle = typeof musicEntry === "object" ? musicEntry.title : null;
+    const artistName =
+        typeof musicEntry === "object" ? musicEntry.artist : null;
 
     if (cacheEntry && now - cacheEntry.timestamp < CACHE_DURATION) {
         console.log(`Serving from CACHE: ${cacheKey}`);
@@ -37,6 +39,7 @@ const getWorldRecordRanking = async (artist, title) => {
             ranking: cacheEntry.response,
             albumKey: albumKey,
             musicTitle: musicTitle,
+            artistName: artistName,
         };
     }
 
@@ -48,6 +51,8 @@ const getWorldRecordRanking = async (artist, title) => {
         const musicId = typeof musicEntry === "object" ? musicEntry.id : null;
         const albumKey =
             typeof musicEntry === "object" ? musicEntry.album : null;
+        const artistName =
+            typeof musicEntry === "object" ? musicEntry.artist : null;
 
         if (!musicId) {
             throw new Error(
@@ -84,6 +89,7 @@ const getWorldRecordRanking = async (artist, title) => {
             ranking: formattedRanking,
             albumKey: albumKey,
             musicTitle: musicTitle,
+            artistName: artistName,
         };
     } catch (error) {
         console.error("Error fetching world record ranking:", error.message);
@@ -172,17 +178,16 @@ export const interactiveWorldRecordRanking = async (interaction) => {
     const songTitleRaw = interaction.options.getString("title");
 
     const artistOriginal = artistRaw.toLowerCase();
-    const songTitle = songTitleRaw.toLowerCase();
+    const titleOriginal = songTitleRaw.toLowerCase();
 
     const artist = artistMappings[artistOriginal] ?? artistOriginal;
+    const songTitle = musicNameMappings[artist][titleOriginal] ?? titleOriginal;
 
     await interaction.deferReply({ ephemeral: false });
 
     try {
-        const { ranking, albumKey, musicTitle } = await getWorldRecordRanking(
-            artist,
-            songTitle
-        );
+        const { ranking, albumKey, musicTitle, artistName } =
+            await getWorldRecordRanking(artist, songTitle);
 
         if (!ranking || ranking.length === 0) {
             await interaction.editReply(
@@ -229,20 +234,28 @@ export const interactiveWorldRecordRanking = async (interaction) => {
             const recordsToShow = pages[currentPage];
             const embed = new EmbedBuilder().setColor("#0099ff");
 
-            if (emblemPath) {
+            if (emblemPath && artistName.length + musicTitle.length > 25) {
                 embed.setAuthor({
-                    name: `${capitalizeFirstLetter(
-                        artist
-                    )} - ${capitalizeFirstLetter(musicTitle)}\nLeaderboard`,
+                    name: `${artistName}\n${musicTitle}\nLeaderboard`,
                     iconURL: emblemPath
                         ? `attachment://${path.basename(emblemPath)}`
                         : undefined,
                 });
+            } else if (emblemPath) {
+                embed.setAuthor({
+                    name: `${artistName} - ${musicTitle}\nLeaderboard`,
+                    iconURL: emblemPath
+                        ? `attachment://${path.basename(emblemPath)}`
+                        : undefined,
+                });
+            } else if (artistName.length + musicTitle.length > 25) {
+                embed.setAuthor({
+                    name: `${artistName} - ${musicTitle}\nLeaderboard`,
+                });
+                console.log("Unable to set icon image.");
             } else {
                 embed.setAuthor({
-                    name: `${capitalizeFirstLetter(
-                        artist
-                    )} - ${capitalizeFirstLetter(musicTitle)}\nLeaderboard`,
+                    name: `${artistName} - ${musicTitle}\nLeaderboard`,
                 });
                 console.log("Unable to set icon image.");
             }
