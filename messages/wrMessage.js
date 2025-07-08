@@ -91,9 +91,9 @@ export const wrMessage = async (
                         );
                     ranks += `**${String(record.rank)}** | **${String(
                         record.score.toLocaleString()
-                    )}** | **${String(record.name)}**`;
-                    if ([0, 1, 2].includes(index)) {
-                        ranks += `\n⏱️ ${formattedTime}\n`;
+                    )}** | **${String(record.name)}**\n`;
+                    if (record.rank >= 1 && record.rank <= 3) {
+                        ranks += `⏱️ ${formattedTime}\n`;
                     }
                 } else {
                     ranks += `${String(record.rank)} | ${String(
