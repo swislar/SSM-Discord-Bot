@@ -1,12 +1,10 @@
-import { ButtonBuilder, ButtonStyle, ActionRowBuilder } from "discord.js";
-import path from "path";
 import { artistMappings, musicNameMappings } from "../maps/index.js";
 import {
     getWorldRecordRanking,
     getArtistEmblem,
     getAlbumCover,
 } from "../helpers/index.js";
-import { wrEmbed } from "../embeds/index.js";
+import { wrMessage } from "../messages/index.js";
 import { resizeThumbnail, resizeAuthorImage } from "../util/index.js";
 
 export const interactiveWorldRecordRanking = async (interaction) => {
@@ -34,8 +32,7 @@ export const interactiveWorldRecordRanking = async (interaction) => {
 
         let emblemPath = null;
         let albumCoverPath = null;
-        // const artistEmblem = await getArtistEmblem(artist);
-        // emblemPath = await resizeAuthorImage(artistEmblem);
+
         try {
             const artistEmblem = await getArtistEmblem(artist);
             emblemPath = await resizeAuthorImage(artistEmblem);
@@ -46,8 +43,6 @@ export const interactiveWorldRecordRanking = async (interaction) => {
             );
         }
 
-        // const albumCover = await getAlbumCover(artist, albumKey);
-        // albumCoverPath = await resizeThumbnail(albumCover);
         try {
             const albumCover = await getAlbumCover(artist, albumKey);
             albumCoverPath = await resizeThumbnail(albumCover);
@@ -58,112 +53,14 @@ export const interactiveWorldRecordRanking = async (interaction) => {
             );
         }
 
-        // Split rankings into pages of 10 entries each
-        const pages = [];
-        for (let i = 0; i < ranking.length; i += 10) {
-            pages.push(ranking.slice(i, i + 10));
-        }
-
-        let currentPage = 0;
-
-        const previousButton = new ButtonBuilder()
-            .setCustomId("previous")
-            .setLabel("⬅️")
-            .setStyle(ButtonStyle.Primary)
-            .setDisabled(currentPage === 0);
-
-        const nextButton = new ButtonBuilder()
-            .setCustomId("next")
-            .setLabel("➡️")
-            .setStyle(ButtonStyle.Primary)
-            .setDisabled(currentPage === pages.length - 1);
-
-        const row = new ActionRowBuilder().addComponents(
-            previousButton,
-            nextButton
+        wrMessage(
+            { slashCommand: true, message: interaction },
+            ranking,
+            emblemPath,
+            albumCoverPath,
+            artistName,
+            musicTitle
         );
-
-        const msg = await interaction.editReply({
-            embeds: [
-                wrEmbed(
-                    pages,
-                    currentPage,
-                    emblemPath,
-                    albumCoverPath,
-                    artistName,
-                    musicTitle
-                ),
-            ],
-            components: [row],
-            files: [
-                ...(emblemPath
-                    ? [
-                          {
-                              attachment: emblemPath,
-                              name: path.basename(emblemPath),
-                          },
-                      ]
-                    : []),
-                ...(albumCoverPath
-                    ? [
-                          {
-                              attachment: albumCoverPath,
-                              name: path.basename(albumCoverPath),
-                          },
-                      ]
-                    : []),
-            ],
-        });
-
-        const collector = msg.createMessageComponentCollector({
-            time: 60000, // 60 seconds
-        });
-
-        collector.on("collect", async (btnInteraction) => {
-            // Rename interaction to btnInteraction to avoid conflict
-            if (
-                btnInteraction.customId === "next" &&
-                currentPage < pages.length - 1
-            ) {
-                currentPage++;
-            } else if (
-                btnInteraction.customId === "previous" &&
-                currentPage > 0
-            ) {
-                currentPage--;
-            }
-
-            // Update buttons state
-            previousButton.setDisabled(currentPage === 0);
-            nextButton.setDisabled(currentPage === pages.length - 1);
-
-            // Update the message with the new embed and button states
-            await btnInteraction.update({
-                embeds: [
-                    wrEmbed(
-                        pages,
-                        currentPage,
-                        emblemPath,
-                        albumCoverPath,
-                        artistName,
-                        musicTitle
-                    ),
-                ],
-                components: [
-                    new ActionRowBuilder().addComponents(
-                        previousButton,
-                        nextButton
-                    ),
-                ],
-            });
-        });
-
-        collector.on("end", () => {
-            // Remove buttons when collector ends (e.g., after 60 seconds)
-            msg.edit({ components: [] }).catch((error) =>
-                console.error("Failed to remove buttons:", error)
-            );
-        });
     } catch (error) {
         console.error("Error getting ranking:", error);
         await interaction.editReply(
