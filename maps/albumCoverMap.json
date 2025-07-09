@@ -1,0 +1,790 @@
+{
+    "aespa": {
+        "armageddon": "update/2024/240626/20240624_120513/album_armageddon_r179_g207_b158.png?v=2406241205",
+        "black_mamba": "album/aespa/aespa_blackmamba.png?v=20111701",
+        "dirty_work": "update/2025/250702/20250630_104401/album_dirty_work_000000.png?v=2506301044",
+        "drama": "update/2023/231115/music/3aspdr/album_drama_r231_g0_b18.png?v=23111501",
+        "forever": "album/aespa/album_forever.png?v=21021001",
+        "girls": "album/aespa/album_girls.png?v=22071301",
+        "jingle_bell_rock": "update/2023/231220/20231218_104342/album_jingle_bell_rock_r35_g138_b82.png?v=23122001",
+        "my_world": "album/aespa/album_spicy.png?v=23051001",
+        "next_level": "album/aespa/album_next_level.png?v=21052601",
+        "savage": "album/aespa/album_savage.png?v=21101301",
+        "spicy": "album/aespa/album_spicy.png?v=23051001",
+        "synk_parallel_line": "update/2024/241106/20241101_111106/album_synk_parallel_line_r7_g7_b9.png?v=2411011111",
+        "whiplash": "update/2024/241023/20241017_114020/album_whiplash_r255_g255_b255.png?v=2410171140",
+        "smcu_express": "album/station/smcu_express/album_smcu_express_220105.png?v=22010501",
+        "supernova": "update/2024/240529/20240527_103553/album_armageddon_r247_g0_b209.png?v=2405271035",
+        "시대유감": "update/2024/240117/20240115_104842/album_regret_of_the_times_r219_g159_b39.png?v=2401151048"
+    },
+    "amber": {
+        "beautiful": "album/am/album_am_bea.png?v=1",
+        "countdown": "album/am/album_am_cou.png?v=18120301",
+        "need_to_feel_needed": "album/am/album_am_nee.png?v=1",
+        "white_noise": "album/am/album_am_whi_blk7ewi8k.png?v=18092101"
+    },
+    "baekhyun": {
+        "amusement_park": "album/baekhyun/album_baekhyun_amusement_park_201222.png?v=20122201",
+        "bambi": "album/baekhyun/album_baekhyun_bambi_210331.png?v=21033102",
+        "candy": "album/baekhyun/album_baekhyun_candy_200525.png?v=20052501",
+        "garden_in_the_air": "album/baekhyun/album_baekhyun_garden_in_the_air_200812.png?v=20081201",
+        "city_lights": "album/baekhyun/album_baekhyun_un_village_190710.png?v=19071002",
+        "bambi_brllnt_remix": "album/iscream/album_iscream_bambi.png?v=22101201",
+        "our_beloved_boa": "album/red_velvet/album_red_velvet_our_beloved_boa_4_200923.png?v=20092301"
+    },
+    "boa": {
+        "summer_vacation_in_smtown": "album/boa/album_boa_amazing_kiss_200812.png?v=20081201",
+        "atlantis_princess": "album/bo/album_bo_atl.png?v=1",
+        "better": "album/boa/album_boa_better_201202.png?v=20120205",
+        "camo": "album/bo/album_bo_cmo_WfPNBNDC.png?v=170710",
+        "christmas_paradise": "album/bo/album_bo_par.png?v=1",
+        "copy_and_paste": "album/bo/album_bo_cop.png?v=1",
+        "disturbance": "album/bo/album_bo_dis.png?v=1",
+        "eat_you_up": "album/boa/album_eat_you_up_220720.png?v=22072001",
+        "ehe": "album/bo/album_bo_ehe.png?v=2",
+        "emptiness": "update/2024/240403/20240328_170037/album_r58_g43_b32.png?v=2403281700",
+        "feedback": "album/bo/album_bo_fee_190612.png?v=19061201",
+        "forgive_me": "album/boa/album_forgive_me_221123.png?v=22112301",
+        "hurricane_venus": "album/bo/album_bo_hur.png?v=1",
+        "id_peace_b": "album/bo/album_bo_idp.png?v=1",
+        "kiss_my_lips": "album/bo/album_bo_kis.png?v=1",
+        "merry_chri": "album/bo/album_bo_mer_gvVm53k0.png?v=18121701",
+        "miracle": "album/bo/album_bo_mir.png?v=1",
+        "rock_with_you": "album/boa/album_boa_moon_n_sunrise_220907.png?v=22090701",
+        "girls_on_top": "album/bo/album_bo_mot.png?v=1",
+        "my_name": "album/bo/album_bo_myn.png?v=1",
+        "nega_dola": "album/bo/album_bo_ndo_REew87hd.png?v=180209",
+        "no_matter_what": "album/boa/album_boa_no_matter_what_201202.png?v=20120205",
+        "number_one": "album/bo/album_bo_num.png?v=1",
+        "one_dream": "album/bo/album_bo_one.png?v=1",
+        "one_shot_two_shot": "album/bo/album_bo_ots_ssdf873L.png?v=180223",
+        "only_one": "album/bo/album_bo_onl.png?v=1",
+        "spring_rain": "album/bo/album_bo_sra.png?v=170522",
+        "starry_night": "album/boa/album_boa_starry_night_191211.png?v=19121101",
+        "woman": "album/bo/album_bo_wom_gvVm53k0.png?v=18102401"
+    },
+    "chanyeol": {
+        "black_out": "update/2025/250326/20250321_112823/album_black_out.png?v=2503211128",
+        "good_enough": "update/2025/250212/20250210_113453/album_like_a_flower_r15_g13_b16.png?v=2502101135"
+    },
+    "chen": {
+        "april_and_a_flower": "album/ch/album_ch_bea_190401.png?v=19040101",
+        "hello": "album/chen/album_hello_r179_g141_b159.png?v=20113001",
+        "last_scene": "album/chen/album_chen_last_scene_221102.png?v=22110201",
+        "shall_we": "album/chen/album_chen_shall_we_191001.png?v=19100101"
+    },
+    "d.o.": {
+        "rose": "album/do/album_do_rose_210728.png?v=21072802",
+        "somebody": "album/do/album_somebody_230920.png?v=23092001"
+    },
+    "donghae": {
+        "california_love": "album/donghae/album_california_love_211208.png?v=21120801"
+    },
+    "doyoung": {
+        "the_story": "update/2024/241204/20241202_110117/album_thestory_r80_g165_b255.png?v=2412021101",
+        "youth": "update/2024/240424/20240422_101703/album_r219_g238_b252.png?v=2404221017"
+    },
+    "eunhyuk": {
+        "be": "album/eunhyuk/album_be_211208.png?v=21120801"
+    },
+    "exo": {
+        "exology": "album/ek/album_ek_dec.png?v=1",
+        "exist": "album/exo/album_cream_soda_230712.png?v=23071201",
+        "let_me_in": "album/exo/album_let_me_in_230621.png?v=230621",
+        "love_shot": "album/ex/album_ex_lov_e1GseN0B.png?v=18121301",
+        "the_power_of_music": "album/ex/album_ex_tpo_nYiSIIJi.png?v=170922",
+        "tpc": "album/ex/album_ex_tpc_nYiSIIJi.png?v=170922",
+        "universe": "update/2024/240320/20240314_162453/album_universe_r23_g23_b21.png?v=23032001",
+        "tempo": "album/ek/album_ek_tem_e1GseN0B.png?v=18110201",
+        "the_elyxion": "album/cb/album_cb_kac_190225.png?v=19042901",
+        "the_war": "album/ek/album_ek_thw_e1GseN0B.png?v=1800220",
+        "the_war_c": "album/em/album_em_thw_e1GseN0B.png?v=180220"
+    },
+    "exo-sc": {
+        "1_billion_views": "album/exo-sc/album_1billionviews_200713.png?v=20071302",
+        "telephone": "album/exo-sc/album_telephone_200819.png?v=20081901",
+        "what_a_life": "album/exo-sc/album_exosc_what_a_life_190722.png?v=19072201",
+        "1_billion_views_remix": "album/iscream/album_iscream_1billion_views.png?v=22101201"
+    },
+    "exo-cbx": {
+        "blooming_days": "album/cb/album_cb_blo_cb0410US.png?v=180409",
+        "hey_mama": "album/cb/album_cb_hmm.png?v=170807",
+        "the_elyxion": "album/cb/album_cb_kac_190225.png?v=19042901"
+    },
+    "exo (don't fight the feeling)": {
+        "dont_fight_the_feeling": "album/exo_dftf/album_exo_dftf_dftf_210607.png?v=21060703"
+    },
+    "exo-k": {
+        "exology": "album/em/album_em_dec.png?v=1",
+        "ex_act": "album/ek/album_ek_mon.png?v=170308",
+        "exodus": "album/ek/album_ek_cal.png?v=180508",
+        "ffy": "album/ek/album_ek_ffy.png?v=170104",
+        "for_life": "album/ek/album_ek_fli.png?v=170104",
+        "growl": "album/ek/album_ek_gro.png?v=1",
+        "history": "album/ek/album_ek_his.png?v=1",
+        "lightsaber": "album/ek/album_ek_lig.png?v=1",
+        "lotto": "album/ek/album_ek_lto.png?v=1",
+        "love_me_right": "album/ek/album_ek_lov.png?v=1",
+        "mama": "album/ek/album_ek_mam.png?v=1",
+        "miracles_in_december": "album/ek/album_ek_mir.png?v=1",
+        "overdose": "album/ek/album_ek_ove.png?v=1",
+        "sing_for_you": "album/ek/album_ek_sin.png?v=19121801",
+        "tempo": "album/ek/album_ek_tem_e1GseN0B.png?v=18110201",
+        "the_war": "album/ek/album_ek_thw_e1GseN0B.png?v=1800220",
+        "xoxo": "album/ek/album_ek_xox.png?v=1"
+    },
+    "exo-m": {
+        "exology": "album/em/album_em_dec.png?v=1",
+        "ex_act": "album/em/album_em_mon.png?v=170308",
+        "exodus": "album/em/album_em_cal.png?v=180508",
+        "ffy": "album/em/album_em_ffy.png?v=170104",
+        "for_life": "album/em/album_em_fli.png?v=170104",
+        "growl": "album/em/album_em_gro.png?v=1",
+        "history": "album/em/album_em_his.png?v=1",
+        "lightsaber": "album/em/album_em_lig.png?v=1",
+        "lotto": "album/em/album_em_lto.png?v=1",
+        "love_me_right": "album/em/album_em_lov.png?v=1",
+        "mama": "album/em/album_em_mam.png?v=1",
+        "miracles_in_december": "album/em/album_em_mir.png?v=1",
+        "overdose": "album/em/album_em_ove.png?v=1",
+        "sing_for_you": "album/em/album_em_sin.png?v=19121801",
+        "the_war": "album/em/album_em_thw_e1GseN0B.png?v=180220",
+        "tempo": "album/ek/album_ek_tem_e1GseN0B.png?v=18110201",
+        "xoxo": "album/em/album_em_xox.png?v=1"
+    },
+    "exo (obsession)": {
+        "obsession": "album/exo_obsession/album_exo_obsession_191127.png?v=19112701"
+    },
+    "f(x)": {
+        "4_walls": "album/fx/album_fx_wal.png?v=1",
+        "all_mine": "album/fx/album_fx_all_xldflkew.png?v=18071101",
+        "chu": "album/fx/album_fx_chu.png?v=1",
+        "diamond": "album/fx/album_fx_dia.png?v=161227",
+        "electric_shock": "album/fx/album_fx_ele.png?v=2",
+        "hot_summer": "album/fx/album_fx_hot.png?v=1",
+        "la_cha_ta": "album/fx/album_fx_lac.png?v=1",
+        "nu_abo": "album/fx/album_fx_nua.png?v=1",
+        "pinocchio": "album/fx/album_fx_pin.png?v=1",
+        "pink_tape": "album/fx/album_fx_air.png?v=170222",
+        "red_light": "album/fx/album_fx_dcu.png?v=201611011",
+        "wish_list": "album/fx/album_fx_wis.png?v=1"
+    },
+    "girls' generation": {
+        "catch_me_if_you_can": "album/gg/album_gg_cat.png?v=1",
+        "forever_1": "album/gg/album_gg_forever_1.png?v=22081701",
+        "gee": "album/gg/album_gg_gee.png?v=1",
+        "genie": "album/gg/album_gg_gen.png?v=1",
+        "girls_generation": "album/gg/album_gg_gir.png?v=1",
+        "holiday_night": "album/gg/album_gg_hdn_YCPB50X7.png?v=180209",
+        "hoot": "album/gg/album_gg_hoo.png?v=1",
+        "i_got_a_boy": "album/gg/album_gg_igo.png?v=1",
+        "into_the_new_world": "album/gg/album_gg_int.png?v=180209",
+        "lion_heart": "album/gg/album_gg_lio.png?v=170330",
+        "mr_mr": "album/gg/album_gg_mrm.png?v=1",
+        "oh": "album/gg/album_gg_ooh.png?v=1",
+        "party": "album/gg/album_gg_par.png?v=1",
+        "run_devil_run": "album/gg/album_gg_rdr.png?v=1",
+        "the_boys": "album/gg/album_gg_boy.png?v=180430"
+    },
+    "got the beat": {
+        "stamp_on_it": "album/got_the_beat/album_stamp_on_it_230118.png?v=23011802",
+        "step_back": "album/got_the_beat/album_step_back_220119.png?v=22011901"
+    },
+    "hearts2hearts": {
+        "style": "update/2025/250702/20250630_104401/album_style.png?v=2506301044",
+        "the_chase": "update/2025/250226/20250224_102412/album_the_chase_r255_g255_b255.png?v=2502241024"
+    },
+    "henry": {
+        "fantastic": "album/he/album_he_fan.png?v=1",
+        "im_good": "album/ty/album_he_igo_YCPB50X7.png?v=170828",
+        "monster": "album/he/album_he_mon_khs879IO.png?v=180319",
+        "real_love": "album/he/album_he_rlo.png?v=170515",
+        "trap": "album/he/album_he_tra.png?v=1"
+    },
+    "hidden": {
+        "love_story": "album/hidden/ses/album_hidden_ses_love_story_190814.png?v=19081401",
+        "power_r3hab_remix": "album/hidden/exo/album_hidden_exo_power_r3hab_remix_190807.png?v=19080701"
+    },
+    "hyo": {
+        "badster": "album/hyo/album_hyo_badster_190828.png?v=19082801",
+        "deep": "album/hyo/album_hyo_deep_220518.png?v=22051801",
+        "dessert": "album/hyo/album_hyo_dessert_200826.png?v=20082602",
+        "picture": "album/hyo/album_hyo_picture_230906.png?v=23090601",
+        "punk_right_now": "album/hy/album_hy_pun_hy121001TT.png?v=18121001",
+        "second": "album/hyo/album_second.png?v=210818",
+        "sober": "album/hy/album_hy_sob_hy0418TT.png?v=180417",
+        "wannabe": "album/hy/album_hy_wnb_hy0418TT.png?v=180417"
+    },
+    "i_scream": {
+        "1billion_views": "album/iscream/album_iscream_1billion_views.png?v=22101201",
+        "badboy": "album/iscream/iscream2/album_iscream_badboy.png?v=22110901",
+        "bambi": "album/iscream/album_iscream_bambi.png?v=22101201",
+        "criminal": "album/iscream/album_iscream_criminal.png?v=22101201",
+        "dont_call_me": "album/iscream/album_iscream_dont_call_me.png?v=22101201",
+        "glitch_mode": "album/iscream/iscream2/album_iscream_glitch_mode.png?v=22110901",
+        "hot_sauce": "album/iscream/iscream2/album_iscream_hot_sauce.png?v=22110901",
+        "invu": "album/iscream/iscream2/album_iscream_invu.png?v=22110901",
+        "kick_it": "album/iscream/album_iscream_kick_it.png?v=22101201",
+        "make_a_wish": "album/iscream/album_iscream_make_a_wish.png?v=22110901",
+        "naughty": "album/iscream/album_iscream_naughty.png?v=22101201",
+        "next_level": "album/iscream/iscream2/album_iscream_nextlevel.png?v=22110901",
+        "peaches": "album/iscream/iscream2/album_iscream_peaches.png?v=22110901",
+        "queendom": "album/iscream/iscream2/album_iscream_queendom.png?v=22110901",
+        "ridin": "album/iscream/album_iscream_ridin.png?v=22101201",
+        "sticker": "album/iscream/iscream2/album_iscream_sticker.png?v=22110901"
+    },
+    "irene": {
+        "like_a_flower": "update/2024/241218/20241213_184657/album_like_a_flower_r190_g215_b215.png?v=2412131847"
+    },
+    "red velvet - irene & seulgi": {
+        "monster": "album/irene_seulgi/album_monster_200706.png?v=20070601",
+        "naughty_remix": "album/iscream/album_iscream_naughty.png?v=22101201"
+    },
+    "jaehyun": {
+        "j": "update/2024/240828/20240823_161113/album_smoke_r57_g65_b73.png?v=2408231611",
+        "unconditional": "update/2025/250219/20250214_114948/album_unconditional_r116_g134_b154.png?v=2502141151"
+    },
+    "joy": {
+        "hello": "album/joy/album_joy_hello_210602.png?v=21060202"
+    },
+    "jonghyun": {
+        "base": "album/jh/album_jh_bas.png?v=1",
+        "she_is": "album/jh/album_jh_she.png?v=170323",
+        "story_op1": "album/jh/album_jh_end.png?v=1",
+        "story_op2": "album/jh/album_jh_op2_kplo625a.png?v=170529"
+    },
+    "kai": {
+        "kai": "album/kai/album_mmmh_r6_g6_b6.png?v=20113002",
+        "peaches": "album/kai/album_peaches_211201.png?v=21120101",
+        "rover": "album/kai/album_rover_230315.png?v=23031501",
+        "wait_on_me": "update/2025/250423/20250417_175434/album_wait_on_me.png?v=2504171754"
+    },
+    "kangta": {
+        "cfy": "album/kt/album_kt_cfy.png?v=170113",
+        "cough_syrup": "album/kangta/album_cough_syrup_210224.png?v=21022401",
+        "eyes_on_you": "album/kangta/album_eyes_on_you_220914.png?v=22091401",
+        "free_to_fly": "album/kangta/album_free_to_fly_210721.png?v=21072101",
+        "freezing": "album/kangta/album_freezing_210407.png?v=21040701",
+        "home": "album/kt/album_kt_din.png?v=170904",
+        "polaris": "album/kt/album_kangta_buggeugseong_190717.png?v=19071702"
+    },
+    "key": {
+        "bad_love": "album/key/album_bad_love_211013.png?v=21101301",
+        "cold": "album/ke/album_ke_col_190222.png?v=19022201",
+        "face": "album/ke/album_ke_one_du7qlkel.png?v=18112601",
+        "forever_yours": "album/ke/album_ke_for_du7qlkel.png?v=18112601",
+        "gasoline": "album/key/album_gasoline_220831.png?v=23031501",
+        "good_and_great": "album/key/album_good_great_230913.png?v=23091301",
+        "hate_that": "album/key/album_hate_that_210908.png?v=21090801",
+        "i_wanna_be": "album/ke/album_ke_iwa_190318.png?v=19031801",
+        "killer": "album/key/album_killer_230215.png?v=23021501",
+        "pleasure_shop": "update/2024/241002/20240926_152354/album_pleasure_shop_r12_g10_b20.png?v=2409261524"
+    },
+    "kyuhyun": {
+        "coffee": "album/kyuhyun/album_coffee_210421.png?v=21042101",
+        "daystar": "album/kyuhyun/album_kyuhyun_daystar_201111.png?v=20111101",
+        "dreaming": "album/kyuhyun/album_kyuhyun_dreaming_200826.png?v=20082601",
+        "fall_once_again": "album/kh/album_kh_mil.png?v=1",
+        "goodbye_for_now": "album/kh/album_kh_gfn_re5e8a6z.png?v=170609",
+        "gwanghwamun": "album/kh/album_kh_gwa.png?v=1",
+        "love_story": "album/kyuhyun/album_love_story_220126.png?v=22012601",
+        "moving_on": "album/kyuhyun/album_moving_on_210218.png?v=21021801",
+        "the_day_we_meet_again": "album/kh/album_kh_aew_190520.png?v=19052003",
+        "together": "album/kyuhyun/album_together_210714.png?v=21071401",
+        "waiting_still": "album/kh/album_kh_bbl.png?v=161128"
+    },
+    "lay": {
+        "honey": "album/ay/album_lay_honey_190624.png?v=19062401",
+        "lose_control": "album/ay/album_ay_lco.png?v=170118",
+        "namanana": "album/ay/album_ay_nam_nieC5Ppx.png?v=18101901",
+        "sheep": "album/ay/album_ay_sep_nieC5Ppx.png?v=171026"
+    },
+    "lucas": {
+        "renegade": "update/2024/240516/20240509_184740/album_r6_g15_b22.png?v=2405091847"
+    },
+    "luna": {
+        "even_so": "album/ln/album_ln_eve_190121.png?v=19012101",
+        "free_somebody": "album/ln/album_ln_fre.png?v=170911",
+        "night_reminiscin": "album/ln/album_ln_nig_tv0424PP.png?v=180423"
+    },
+    "mark": {
+        "child": "album/mark/album_mark_child_220316.png?v=22031601",
+        "fraktsiya": "update/2024/241231/20241226_144542/album_fraktsiya_r255_g255_b255.png?v=2412261445",
+        "golden_hour": "album/mark/album_mark_golden_hour_230412.png?v=23041201",
+        "the_firstfruit": "update/2025/250416/20250411_155830/album_1999_2d3022.png?v=2504111558",
+        "200": "update/2024/240529/20240527_103553/album_r254_g242_b0.png?v=2405271035"
+    },
+    "max changmin": {
+        "all_that_love": "album/max/album_station_r247_g247_b247.png?v=20112501",
+        "chocolate": "album/max/album_max_chocolate_200416.png?v=20041603",
+        "devil": "album/max/album_devil_220119.png?v=22011901"
+    },
+    "m&d": {
+        "diy": "album/md/album_md_iwi.png?v=1",
+        "goody_bag": "album/md/album_md_goo.png?v=1",
+        "old_movie": "album/md/album_md_old_190520.png?v=19052003"
+    },
+    "minho": {
+        "call_back": "update/2024/241113/20241107_142908/album_call_back_r52_g67_b78.png?v=2411071429",
+        "chase": "album/minho/album_chase_221214.png?v=22121401",
+        "heartbreak": "album/minho/album_heartbreak_220105.png?v=22010501",
+        "stay_for_a_night": "update/2024/240110/20240105_155123/album_stay_for_a_night_r144_g144_b145.png?v=2401051551"
+    },
+    "naevis": {
+        "done": "update/2024/240925/20240920_170949/album_done_r80_g165_b255.png?v=2409201709"
+    },
+    "nct 127 (fact check)": {
+        "2_baddies": "album/nct_127/2_baddies/album_2baddies_220916.png?v=22092101",
+        "ay_yo": "album/nct_127/2_baddies/album_ay_yo_230201.png?v=23020101",
+        "be_there_for_me": "update/2023/231227/20231226_110755/album_be_there_for_me_r33_g33_b33.png?v=2312261107",
+        "empathy": "album/nl/album_nl_nte_66vt55RT.png?v=180313",
+        "fact_check": "album/nct_127/fact_check/album_fact_check_r0_g0_b0.png?v=23101101",
+        "favourite": "album/nct_127/sticker/album_favorite_211103.png?v=21110301",
+        "kick_it": "album/nct_127_superhuman/kick_it_200306.png?v=20030601",
+        "neo_zone": "album/nct_127/neo_zone_repackage/nct_127_neo_zone_repackage_20519.png?v=20051901",
+        "regulate": "album/nr/album_nr_reg_xldflkew.png?v=18101201",
+        "sticker": "album/nct_127/sticker/album_sticker_211006.png?v=21100601",
+        "superhuman": "album/nc/album_nct127_superhuman_highway_to_heaven_190719.png?v=19071901",
+        "kick_it_remix": "album/iscream/album_iscream_kick_it.png?v=22101201"
+    },
+    "nct 127 (walk)": {
+        "walk": "update/2024/240717/20240712_160210/album_walk_r29_g44_b55.png?v=2407121602"
+    },
+    "nct 127 (touch)": {
+        "empathy": "album/nl/album_nl_nte_66vt55RT.png?v=180313",
+        "cherry_bomb": "album/nl/album_nl_chb_20190211.png?v=19021101",
+        "limitless": "album/nl/album_nl_lss.png?v=170118"
+    },
+    "nct 127 (fire truck)": {
+        "fire_truck": "album/no/album_no_fir.png?v=180115",
+        "mci": "album/no/album_no_mci.png?v=1"
+    },
+    "nct 127 (regular)": {
+        "regulate": "album/nr/album_nr_reg_xldflkew.png?v=18101201",
+        "simon_says": "album/nr/album_nr_sim_xldflkew.png?v=18112301"
+    },
+    "nct dojaejung": {
+        "perfume": "album/nct_dojaejung/album_perfume_230419.png?v=23041901"
+    },
+    "nct dream (dreamscape)": {
+        "beatbox": "album/nct_dream/beatbox/album_nct_dream_beatbox.png?v=22053101",
+        "black_on_black": "album/nd/album_nd_nte_66vt55RT.png?v=180313",
+        "broken_melodies": "album/nct_dream/glitch_mode/album_nct_dream_broken_melodies.png?v=23062801",
+        "candle_light": "album/nd/album_nd_can_sta4ewi8j.png?v=19010701",
+        "candy": "album/nct_dream/glitch_mode/album_nct_dream_candy.png?v=22122101",
+        "chewing_gum": "album/nd/album_nd_gum.png?v=170828",
+        "dream()scape": "update/2024/240327/20240322_153356/album_wish_you_hell_r109_g130_b148.png?v=2403221534",
+        "dreamscape": "update/2024/241113/20241107_142908/album_when_im_with_you_r199_g238_b140.png?v=2411071429",
+        "empathy": "album/nl/album_nl_nte_66vt55RT.png?v=180313",
+        "glitch_mode": "album/nct_dream/glitch_mode/album_nct_dream_glitch_mode.png?v=22033001",
+        "hello_future": "album/nct_dream/hot_sauce/album_nct_dream_hello_future.png?v=21063001",
+        "hot_sauce": "album/nct_dream/hot_sauce/album_nct_dream_hot_sauce.png?v=21051801",
+        "istj": "album/nct_dream/istj/album_istj_230719.png?v=23071901",
+        "the_first": "album/nd/album_nd_tfi.png?v=170918",
+        "we_go_up": "album/nd/album_nd_goup_alk4ewi8j.png?v=18090301",
+        "ridin": "album/iscream/album_iscream_ridin.png?v=22101201",
+        "resonance": "album/nct_2020/album_resonance_201021.png?v=20102101"
+    },
+    "nct dream (my first)": {
+        "we_young": "album/nd/album_nd_wyo_YCPB50X7.png?v=170918",
+        "the_first": "album/nd/album_nd_tfi.png?v=170918",
+        "joy": "album/nd/album_nd_joy_YCPB50X7.png?v=18121702"
+    },
+    "nct dream (reload)": {
+        "we_boom": "album/nct_dream/we_boom/album_nct_dream_we_boom_boom_190729.png?v=19101601",
+        "reload": "album/nct_dream/reload/album_reload_200429.png?v=20042901",
+        "ridin_remix": "album/iscream/album_iscream_ridin.png?v=22101201"
+    },
+    "nct u (90's love)": {
+        "90'slove,workit": "album/nct_2020/album_90'slove,workit_r247_g247_b247.png?v=20112501",
+        "resonance": "album/nct_2020/album_resonance_201021.png?v=20102101",
+        "the_seventh_sense": "album/nu/album_nu_sev.png?v=1"
+    },
+    "nct u (baby don't stop)": {
+        "empathy": "album/nl/album_nl_nte_66vt55RT.png?v=180313",
+        "90'slove,workit": "album/nct_2020/album_90'slove,workit_r247_g247_b247.png?v=20112501",
+        "resonance": "album/nct_2020/album_resonance_201021.png?v=20102101",
+        "the_seventh_sense": "album/nu/album_nu_sev.png?v=1"
+    },
+    "nct u (baggy jeans)": {
+        "golden_age": "album/nct_2023/album_golden_age_230906.png?v=23090601",
+        "90'slove,workit": "album/nct_2020/album_90'slove,workit_r247_g247_b247.png?v=20112501",
+        "resonance": "album/nct_2020/album_resonance_201021.png?v=20102101",
+        "the_seventh_sense": "album/nu/album_nu_sev.png?v=1"
+    },
+    "nct u (from home)": {
+        "90'slove,workit": "album/nct_2020/album_90'slove,workit_r247_g247_b247.png?v=20112501",
+        "resonance": "album/nct_2020/album_resonance_201021.png?v=20102101",
+        "the_seventh_sense": "album/nu/album_nu_sev.png?v=1"
+    },
+    "nct u (i.o.u)": {
+        "90'slove,workit": "album/nct_2020/album_90'slove,workit_r247_g247_b247.png?v=20112501",
+        "resonance": "album/nct_2020/album_resonance_201021.png?v=20102101",
+        "the_seventh_sense": "album/nu/album_nu_sev.png?v=1"
+    },
+    "nct u (make a wish)": {
+        "make_a_wish_remix": "album/iscream/album_iscream_make_a_wish.png?v=22110901",
+        "90'slove,workit": "album/nct_2020/album_90'slove,workit_r247_g247_b247.png?v=20112501",
+        "resonance": "album/nct_2020/album_resonance_201021.png?v=20102101",
+        "the_seventh_sense": "album/nu/album_nu_sev.png?v=1"
+    },
+    "nct u (misfit)": {
+        "90'slove,workit": "album/nct_2020/album_90'slove,workit_r247_g247_b247.png?v=20112501",
+        "resonance": "album/nct_2020/album_resonance_201021.png?v=20102101",
+        "the_seventh_sense": "album/nu/album_nu_sev.png?v=1"
+    },
+    "nct u (volcano)": {
+        "empathy": "album/nl/album_nl_nte_66vt55RT.png?v=180313",
+        "90'slove,workit": "album/nct_2020/album_90'slove,workit_r247_g247_b247.png?v=20112501",
+        "resonance": "album/nct_2020/album_resonance_201021.png?v=20102101",
+        "the_seventh_sense": "album/nu/album_nu_sev.png?v=1"
+    },
+    "nct u (yestoday)": {
+        "empathy": "album/nl/album_nl_nte_66vt55RT.png?v=180313",
+        "90'slove,workit": "album/nct_2020/album_90'slove,workit_r247_g247_b247.png?v=20112501",
+        "resonance": "album/nct_2020/album_resonance_201021.png?v=20102101",
+        "the_seventh_sense": "album/nu/album_nu_sev.png?v=1"
+    },
+    "nct u (work it)": {
+        "90'slove,workit": "album/nct_2020/album_90'slove,workit_r247_g247_b247.png?v=20112501",
+        "resonance": "album/nct_2020/album_resonance_201021.png?v=20102101",
+        "the_seventh_sense": "album/nu/album_nu_sev.png?v=1"
+    },
+    "nct u (universe)": {
+        "universe": "album/nct_2021/album_nct_2021.png?v=21121501"
+    },
+    "nct u (without you)": {
+        "timeless": "album/nw/album_nw_tim_28YTdf87.png?v=1802051",
+        "without_you": "album/nw/album_nw_wit.png?v=1"
+    },
+    "nct wish": {
+        "poppop": "update/2025/250416/20250411_155830/album_poppop.png?v=2504111558",
+        "songbird": "update/2024/240703/20240701_135951/album_songbird_r169_g233_b255.png?v=2407011359",
+        "steady": "update/2024/241002/20240926_152354/album_steady_r158_g0_b32.png?v=2409261524",
+        "wish": "update/2024/240306/20240304_104330/album_wish_r215_g248_b144.png?v=2403041043"
+    },
+    "girls' generation-oh!gg": {
+        "lil_touch": "album/oh/album_oh_lil_alk4ewi8j.png?v=18090502",
+        "smcu_express": "album/station/smcu_express/album_smcu_express_220105.png?v=22010501"
+    },
+    "onew": {
+        "circle": "album/onew/album_circle_230308.png?v=23030801",
+        "dice": "album/onew/album_onew_dice_220413.png?v=22041301",
+        "voice": "album/on/album_on_blu.png?v=18120701"
+    },
+    "red velvet": {
+        "bdc": "album/rv/album_rv_bdc.png?v=161212",
+        "be_natural": "album/rv/album_rv_ben.png?v=1",
+        "birthday": "album/red_velvet/album_red_velvet_birthday_221130.png?v=24092001",
+        "chill_kill": "update/2023/231115/music/2rdeclki/album_chill_kill_r0_g0_b0.png?v=23111502",
+        "cosmic": "update/2024/240626/20240624_120513/album_cosmic_r205_g149_b153.png?v=2406241205",
+        "feel_my_rhythm": "album/red_velvet/album_red_velvet_feel_my_rhythm_220323.png?v=22032301",
+        "happiness": "album/rv/album_rv_hap.png?v=1",
+        "ice_cream_cake": "album/rv/album_rv_ice.png?v=1",
+        "our_beloved_boa": "album/red_velvet/album_red_velvet_our_beloved_boa_4_200923.png?v=20092301",
+        "perfect_velvet": "album/rv/album_rv_pve_rzJXDPfO.png?v=171226",
+        "finale": "album/red_velvet/album_red_velvet_psycho_191223.png?v=19122301",
+        "queendom": "album/red_velvet/album_queendom_210816.png?v=21081801",
+        "rbb": "album/rv/album_rv_rbb_alk4ewi8j.png?v=18113001",
+        "rookie": "album/rv/album_rv_rki.png?v=170214",
+        "russian_roulette": "album/rv/album_rv_rus.png?v=1",
+        "summer_magic": "album/rv/album_rv_pow_alk4ewi8j.png?v=18080601",
+        "the_perfect_red_velvet": "album/rv/album_rv_thp_1_28YTdf87.png?v=180330",
+        "the_red": "album/rv/album_rv_red.png?v=1",
+        "the_red_summer": "album/rv/album_rv_rfl_OQLRAcDD.png?v=171023",
+        "the_velvet": "album/rv/album_rv_otn.png?v=22102601",
+        "day_2": "album/red_velvet/album_red_velvet_umpah_umpah_190821.png?v=19082102",
+        "wish_tree": "album/rv/album_rv_wis.png?v=1",
+        "would_u": "album/rv/album_rv_wu.png?v=170418",
+        "day_1": "album/rv/album_red_velvet_zimzalabim_190619.png?v=19080702"
+    },
+    "riize": {
+        "riizing": "update/2024/240619/20240617_105752/album_boom_boom_bass_r120_g106_b226.png?v=2406171058",
+        "epilogue": "update/2024/241204/20241202_110117/album_combo_r64_g78_b28.png?v=2412021101",
+        "get_a_guitar": "album/riize/album_get_a_guitar_230913.png?v=23091301",
+        "hug": "update/2025/250212/20250210_113453/album_hug_r255_g137_b172.png?v=2502101135",
+        "impossible": "update/2024/240424/20240419_161225/album_impossible_r188_g241_b255.png?v=2404191612",
+        "love_119": "update/2024/240110/20240105_155123/album_love119_r211_g205_b213.png?v=24011001",
+        "lucky": "update/2024/241106/20241101_111106/album_lucky_r159_g188_b184.png?v=2411011111",
+        "memories": "album/riize/album_memories_230821.png?v=23083001",
+        "odyssey": "update/2025/250521/20250515_114612/album_fly_up_002650.png?v=2505151146",
+        "siren": "update/2024/240430/20240429_103326/album_siren_r255_g62_b44.png?v=2404291033",
+        "talk_saxy": "update/2023/231101/music/riztalsax/album_talk_saxy_r0_g0_b0.png?v=23110101"
+    },
+    "ryeowook": {
+        "a_wild_rose": "album/ryeowook/album_hiding_words_220504.png?v=22050401",
+        "drunk_on_love": "album/rw/album_rw_iam_190114.png?v=19011401",
+        "its_okay": "update/2023/231129/music/2ryoki/album_its_okay_r70_g103_b105.png?v=23112901",
+        "lingering": "update/2024/240103/20240102_113452/album_lingering_r10_g17_b31.png?v=24010401",
+        "the_little_prince": "album/rw/album_rw_pri.png?v=170313",
+        "one_and_only": "album/rw/album_rw_one_190114.png?v=19011401"
+    },
+    "seohyun": {
+        "dont_say_no": "album/se/album_se_dsn.png?v=170410",
+        "hel": "album/se/album_se_hel_tc1rka4d.png?v=170706"
+    },
+    "seulgi": {
+        "28_reasons": "album/seulgi/album_28reasons_221005.png?v=22100501",
+        "accidentally_on_purpose": "update/2025/250319/20250313_114143/album_baby_not_baby_ffffff.png?v=2503131142"
+    },
+    "shinee": {
+        "amigo": "album/sh/album_sh_ami.png?v=1",
+        "atlantis": "album/shinee/album_atlantis_210421.png?v=21042101",
+        "dont_call_me": "album/shinee/album_dont_call_me_210224.png?v=21022401",
+        "dream_girl": "album/sh/album_sh_dre.png?v=1",
+        "everybody": "album/sh/album_sh_eve.png?v=1",
+        "hard": "album/shinee/album_hard_230628.png?v=23062801",
+        "hello": "album/sh/album_sh_hel.png?v=1",
+        "romeo": "album/sh/album_sh_jul.png?v=1",
+        "lucifer": "album/sh/album_sh_luc.png?v=1",
+        "married_to_the_music": "album/sh/album_sh_mam.png?v=1",
+        "odd": "album/sh/album_sh_odd.png?v=1",
+        "1_and_1": "album/sh/album_sh_ttd.png?v=161205",
+        "1_of_1": "album/sh/album_sh_ooo.png?v=1",
+        "replay": "album/sh/album_sh_rep.png?v=1",
+        "sherlock": "album/sh/album_sh_she.png?v=1",
+        "the_story_of_light_1": "album/sh/album_sh_goo_cb0410US.png?v=18052801",
+        "the_story_of_light_2": "album/sh/album_sh_iwa_tr2kvd1t.png?v=18061101",
+        "the_story_of_light_3": "album/sh/album_sh_our_tr2kvd1t.png?v=18062501",
+        "the_story_of_light_4": "album/sh/album_sh_cou_tr2kvd1t.png?v=18091001",
+        "why_so_serious": "album/sh/album_sh_why.png?v=1",
+        "the_shinee_world": "album/sh/album_sh_wor.png?v=1",
+        "xma": "album/sh/album_sh_xma.png?v=1",
+        "year_of_us": "album/sh/album_sh_rin.png?v=1",
+        "dont_call_me_remix": "album/iscream/album_iscream_dont_call_me.png?v=22101201"
+    },
+    "station": {
+        "a_day_without_you": "album/st/album_st_day.png?v=1",
+        "around": "album/hh/album_hh_aro_kwoKhAAb.png?v=170622",
+        "beautiful_christmas": "album/station/smcu_express/album_beautiful_christmas_221221.png?v=22122101",
+        "black_on_black": "album/nb/album_nb_nte_66vt55RT.png?v=180313",
+        "breath": "album/st/album_st_whe.png?v=1",
+        "carpet": "album/st/album_st_car_hwY4ewi8k.png?v=19020101",
+        "cheer_man": "album/st/album_st_che_190308.png?v=19030801",
+        "coffee_break": "album/st/album_st_cof_hwY4ewi8k.png?v=18120702",
+        "coming_home": "album/station/nct_u/album_station_coming_home_191226.png?v=19122602",
+        "dear_dairy": "album/st/album_st_dea_190325.png?v=19032502",
+        "dont_need_your_love": "album/st/album_station_don_190614.png?v=19061401",
+        "dreamworks": "album/st/album_st_hai_190513.png?v=19051302",
+        "eleven": "album/hh/album_hh_ele.png?v=1",
+        "golden_age": "album/nct_2023/album_golden_age_230906.png?v=23090601",
+        "hope": "album/oz/album_oz_ozo_kwoKhAAb.png?v=170623",
+        "im_home": "album/st/album_st_imh_190405.png?v=19040502",
+        "miss_you": "album/st/album_st_hot.png?v=1",
+        "new_heroes": "album/st/album_st_new_190304.png?v=19030401",
+        "page_0": "album/st/album_st_pag_alk4ewi8j.png?v=18081702",
+        "paint_me_naked": "album/st/album_paint_me_naked.png?v=21081801",
+        "school_oz": "album/oz/album_oz_ozo_kwoKhAAb.png?v=170623",
+        "smcu_express": "album/station/smcu_express/album_smcu_express_220105.png?v=22010501",
+        "smcu_palace": "album/station/smcu_express/album_smcu_palace_230104.png?v=23010401",
+        "ssfw": "album/st/album_st_bom_190507.png?v=19050701",
+        "stay_for_a_night": "update/2024/240110/20240105_155123/album_stay_for_a_night_r144_g144_b145.png?v=2401051551",
+        "still_standing": "album/station/yesung_suran/yesung_suran_still_standing_20513.png?v=20051301",
+        "sugar": "album/station/hitchhiker/album_station_sugar_200528.png?v=20052801",
+        "long_flight": "album/station/taeyong/album_station_taeyong_long_flight_190802.png?v=19080201",
+        "thats_okay": "album/st/album_st_thats_okay_190717.png?v=19071702",
+        "the_warmest_gift": "album/st/album_st_win.png?v=1",
+        "this_is_your_day": "album/station/station_this_is_your_day/album_station_this_is_your_day_191204.png?v=19120402",
+        "time": "album/hh/album_hh_time.png?v=18102901",
+        "we_young": "album/st/album_st_wey_blk7ewi8k.png?v=18092101",
+        "white_winter": "album/station/woojoo_jjokkomi/album_woojoo_jjokkomi_white_winter_200102.png?v=20010201",
+        "wow_thing": "album/st/album_st_wow_blk7ewi8k.png?v=18100501",
+        "written_in_the_stars": "album/st/album_st_wri_hwY4ewi8k.png?v=18102601",
+        "you": "album/st/album_st_you_190527.png?v=19052701"
+    },
+    "suho": {
+        "1_to_3": "update/2024/240605/20240603_155155/album_cheese_r191_g164_b138.png?v=2406031551",
+        "grey_suit": "album/suho/album_suho_grey_suit_v2_220406.png?v=22040602",
+        "lets_love": "album/suho/album_suho_lets_love_200330.png?v=20033001"
+    },
+    "sungmin": {
+        "goodnight_summer": "album/sungmin/album_goodnightsummer_211006.png?v=21100601",
+        "lovesick": "album/sungmin/album_lovesick_230517.png?v=23051701"
+    },
+    "super junior": {
+        "a_cha": "album/sj/album_sj_ach.png?v=22071301",
+        "bonamana": "album/sj/album_sj_noo.png?v=1?v=1",
+        "bonamana_4": "album/sj/album_sj_bon.png?v=1",
+        "devil": "album/sj/album_sj_dev.png?v=1",
+        "dont_don": "album/sj/album_dont_don_r7_g7_b7.png?v=1",
+        "its_you": "album/sj/album_sj_its.png?v=1",
+        "magic": "album/sj/album_sj_mac.png?v=1",
+        "mamacita": "album/sj/album_sj_mam.png?v=1",
+        "mr_simple": "album/sj/album_sj_mrs.png?v=1",
+        "sexy_free_single": "album/sj/album_sj_sex.png?v=1",
+        "sorry_sorry": "album/sj/album_sj_sor.png?v=1",
+        "spy": "album/sj/album_sj_spy.png?v=1",
+        "super_junior": "album/sj/album_miracle_r227_g59_b106.png?v=1",
+        "this_is_love": "album/sj/album_sj_thi.png?v=1",
+        "u": "album/sj/album_super_junior_u_200805.png?v=20080501"
+    },
+    "super junior-d&e": {
+        "bad_blood": "album/super_junior_de/album_super_junior_de_bad_blood_200916.png?v=20091601",
+        "bad_liar": "album/super_junior_de/album_super_junior_de_bad_liar_201015.png?v=20101501",
+        "bout_you": "album/de/album_de_bou_alk4ewi8j.png?v=18081601",
+        "countdown": "album/super_junior_de/album_super_junior_de_countdown_211110.png?v=21111001",
+        "danger": "album/de/album_de_dan_190415.png?v=19041503",
+        "oppa_oppa": "album/de/album_de_opo_YCPB50X7.png?v=170814",
+        "the_beat_goes_on": "album/de/album_de_gro.png?v=170118"
+    },
+    "super junior-k.r.y.": {
+        "when_we_were_us": "album/super_junior_kry/Album_super_junior_kry_when_we_were_us_200608.png?v=20060801"
+    },
+    "super junior-l.s.s.": {
+        "suit_up": "update/2024/240131/20240129_150038/album_suit_up_r25_g26_b28.png?v=2401291500"
+    },
+    "super junior-m": {
+        "break_down": "album/sm/album_sm_bre.png?v=1",
+        "me": "album/sm/album_sm_mee.png?v=1",
+        "perfection": "album/sm/album_sm_per.png?v=1",
+        "super_girl": "album/sm/album_sm_sup.png?v=1",
+        "swing": "album/sm/album_sm_swi.png?v=1"
+    },
+    "super junior (one more time)": {
+        "one_more_time": "album/so/album_so_one_xldflkew.png?v=18100802"
+    },
+    "super junior (play)": {
+        "play": "album/sb/album_sb_pla_rzJXDPfO.png?v=171208",
+        "replay": "album/sb/album_sb_rpl_sb0412EW.png?v=180411"
+    },
+    "super junior (super junior25)": {
+        "timeless": "album/super_junior_time_slip/super_junior_2ya2yao_200129.png?v=20012901",
+        "celebration": "album/super_junior_the_road/album_celebrate_221221.png?v=22122101",
+        "keep_on_going": "album/super_junior_the_road/album_the_road_220720.png?v=22072001",
+        "replay": "album/hidden/super_junior/album_hidden_super_junior_super_duper_190821.png?v=19082101",
+        "time_slip": "album/super_junior_time_slip/super_junior_super_clap_191014.png?v=19101401",
+        "the_melody": "album/super_junior_time_slip/super_junior_super_the_melody_201111.png?v=20111101",
+        "the_renaissance": "album/super_junior_the_renaissance/super_junior_the_renaissance_house_party_210317.png?v=21031701",
+        "show_time": "update/2024/240619/20240617_105752/album_show_time_r255_g100_b40.png?v=2406171058",
+        "super junior25": "update/2025/250709/20250703_142611/album_express_mode_000000.png?v=2507031427",
+        "winter_for_spring": "album/super_junior_the_renaissance/super_junior_the_road_winter_for_spring_220302.png?v=22030201"
+    },
+    "superm": {
+        "100": "album/superm/album_superm_100_201015.png?v=20101501",
+        "superm": "album/superm/superm_jopping_191004.png?v=19100403",
+        "super_one": "album/superm/album_superm_super_one_200928.png?v=20092801",
+        "tiger_inside": "album/superm/album_superm_tiger_inside_201015.png?v=20101501"
+    },
+    "taemin": {
+        "ace": "album/ta/album_ta_ace.png?v=1",
+        "advice": "album/taemin/album_taemin_advice_210526.png?v=21052602",
+        "criminal_remix": "album/iscream/album_iscream_criminal.png?v=22101201",
+        "guilty": "update/2023/231101/music/tmingity/album_guilty_r154_g100_b73.png?v=23110101",
+        "move": "album/ta/album_ta_mov_JfTOiCH6.png?v=171117",
+        "move_ing": "album/ta/album_ta_day_wlkejsigk.png?v=18072501",
+        "never_gonna_dance_again_act1": "album/taemin/album_taemin_never_gonna_dance_again_act1_200909.png?v=20090902",
+        "never_gonna_dance_again_act2": "album/taemin/album_taemin_never_gonna_dance_again_act2_201109.png?v=20110902",
+        "never_gonna_dance_again_prologue": "album/taemin/album_taemin_never_gonna_dance_again_prologue_200909.png?v=20090902",
+        "press_it": "album/ta/album_ta_pyn.png?v=1",
+        "want": "album/ta/album_ta_wan_wlkejsigk.png?v=19091802",
+        "criminal": "album/iscream/album_iscream_criminal.png?v=22101201"
+    },
+    "taeyeon": {
+        "11:11": "album/ty/album_ty_een.png?v=161118",
+        "cant_control_myself": "album/taeyeon/album_cant_control_myself_220126.png?v=22012601",
+        "purpose": "album/taeyeon/taeyeon_dear_me_200122.png?v=20012201",
+        "four_seasons": "album/ty/album_ty_fou_190325.png?v=19101601",
+        "happy": "album/taeyeon/taeyeon_happy_20513.png?v=20051301",
+        "heaven": "update/2024/240717/20240712_160210/album_heaven_r77_g78_b39.png?v=2407121602",
+        "i": "album/ty/album_ty_iii.png?v=170118",
+        "invu": "album/taeyeon/album_invu_220216.png?v=22021601",
+        "letter_to_myself": "update/2024/241127/20241123_141826/album_letter_to_myself_r173_g175_b173.png?v=2411231418",
+        "my_voice": "album/ty/album_ty_mvo.png?v=19031201",
+        "my_voice_deluxe": "album/ty/album_ty_mvodl.png?v=170417",
+        "rain": "album/ty/album_ty_rai.png?v=1",
+        "something_new": "album/ty/album_ty_som_v3h53zef.png?v=18061801",
+        "spark": "album/taeyeon/taeyeon_spark_191101.png?v=19110101",
+        "this_christmas": "album/ty/album_ty_tch_G0yCUlYn.png?v=171226",
+        "to_x": "update/2023/231129/music/1taytx/album_tox_r24_g22_b22.png?v=23112901",
+        "weekend": "album/taeyeon/album_taeyeon_weekend_210714.png?v=21071401",
+        "what_do_i_call_you": "album/taeyeon/album_whatdoicallyou_r244_g222_b196.png?v=20121601",
+        "why": "album/ty/album_ty_why.png?v=1"
+    },
+    "taeyong": {
+        "shalala": "album/taeyong/album_shalala_230607.png?v=23060701",
+        "tap": "update/2024/240228/20240226_103134/album_tap_r166_g231_b52.png?v=2402261031"
+    },
+    "ten": {
+        "ten": "update/2024/240214/20240209_010738/album_nightwalker_r160_g174_b181.png?v=2402090107",
+        "stunner": "update/2025/250402/20250327_121528/album_stunner.png?v=2503271215"
+    },
+    "tiffany": {
+        "i_just_wanna_dance": "album/tf/album_tf_iju.png?v=170118"
+    },
+    "girls' generation-tts": {
+        "dear_santa": "album/tt/album_tt_san.png?v=1",
+        "holler": "album/tt/album_tt_hol.png?v=170118",
+        "twinkle": "album/tt/album_tt_twi.png?v=1"
+    },
+    "tvxq!": {
+        "catch_me": "album/tv/album_tv_cat.png?v=23083001",
+        "drop": "album/tv/album_tv_drop_tw8AL73d.png?v=171010",
+        "humanoids": "album/tv/album_tv_hum.png?v=1",
+        "keep_your_head_down": "album/tv/album_tv_kee.png?v=1",
+        "in_a_different_life": "album/tv/album_tv_life_U232A4mK.png?v=171016",
+        "mirotic": "album/tv/album_tv_mir.png?v=1",
+        "20&2": "update/2023/231227/20231226_110755/album_rebel_r0_g0_b0.png?v=23122701",
+        "regret_of_the_times": "update/2024/240117/20240115_104842/album_regret_of_the_times_r219_g159_b39.png?v=2401151048",
+        "rise_as_god": "album/tv/album_tv_rao.png?v=1",
+        "spellbound": "album/tv/album_tv_spe.png?v=1",
+        "tense": "album/tv/album_tv_ten.png?v=1",
+        "the_chance_of_love": "album/tv/album_tv_tcl_PU00RU9T.png?v=19110601",
+        "the_truth_of_love": "album/tv/album_tv_tru_PU00RU9T.png?v=18122601"
+    },
+    "u-know": {
+        "eeny_meeny": "album/uknow/album_eeny_meeny_r007_g007_b007.png?v=21020301",
+        "reality_show": "album/uknow/album_vuja_de_230830.png?v=23083001",
+        "noir": "album/uknow/album_thanku_r50_g50_b50.png?v=21012001",
+        "true_colors": "album/uknow/album_uknow_fol_190612.png?v=19061202"
+    },
+    "wayv": {
+        "awaken_the_world": "album/wayv/album_wayv_bad_alive_200902.png?v=20090201",
+        "frequency": "update/2024/241211/20241209_114647/album_frequency_r0_g0_b0.png?v=2412091146",
+        "give_me_that": "update/2024/240605/20240603_101337/album_give_me_that_r206_g231_b255.png?v=2406031014",
+        "kick_back": "album/wayv/Album_wayv_kick_back_210310.png?v=21031002",
+        "on_my_youth": "update/2023/231108/music/wvomyout/album_on_my_youth_r215_g214_b210.png?v=23110801",
+        "turn_back_time": "album/wayv/Album_wayv_turn_back_time_20061501.png?v=20061502",
+        "phantom": "album/wayv_phantom/album_phantom_230104.png?v=23010401"
+    },
+    "wayv-kun&xiaojun": {
+        "back_to_you": "album/kun_xiaojun/album_kun_xiaojun_back_to_you_210623.png?v=21062303"
+    },
+    "wayv (frequency)": {
+        "frequency": "update/2024/241211/20241209_114647/album_frequency_r0_g0_b0.png?v=2412091146",
+        "give_me_that": "update/2024/240605/20240603_101337/album_give_me_that_r206_g231_b255.png?v=2406031014",
+        "phantom": "album/wayv_phantom/album_phantom_230104.png?v=23010401"
+    },
+    "wendy": {
+        "like_water": "album/wendy/album_wendy_like_water_210407.png?v=21040702",
+        "wish_you_hell": "update/2024/240313/20240311_120148/album_wish_you_hell_r50_g98_b172.png?v=2403111201"
+    },
+    "xiumin": {
+        "brand_new": "album/xiumin/album_brand_new_220928.png?v=22092801"
+    },
+    "yesung": {
+        "beautiful_night": "album/yesung/album_yesung_beautiful_night_210512.png?v=21051202",
+        "floral_sense": "album/yesung/album_yesung_floral_sense_230302.png?v=23030201",
+        "here_i_am": "album/ys/album_ys_her.png?v=170118",
+        "its_complicated": "update/2024/241120/20241114_162320/album_its_complicated_r241_g236_b240.png?v=2411141623",
+        "pink_magic": "album/ys/album_yesung_pink_magic_190703.png?v=19070301",
+        "unfading_sense": "album/yesung/album_scented_things_r54_g43_b39.png?v=23101101",
+        "sensory_flows": "album/yesung/album_yesung_small_things_230201.png?v=23020101",
+        "spring_falling": "album/ys/album_ys_sfa_sa45reab.png?v=180122",
+        "whatcha_doin": "album/ys/album_ys_wha_190114.png?v=19011401"
+    },
+    "yoona": {
+        "a_walk_to_remember": "album/ya/album_ya_sum_190603.png?v=19060301",
+        "to_you": "album/ya/album_ya_toy_ya0514KG.png?v=180511",
+        "when_the_wind_blows": "album/ya/album_ya_whe_c11rjait.png?v=18053001"
+    },
+    "yuri": {
+        "the_first_scene": "album/yr/album_yr_int_blk7ewi8k.png?v=18100401"
+    },
+    "zhoumi": {
+        "manana": "album/zhoumi/album_manana_230607.png?v=23060701",
+        "rewind": "album/zh/album_zh_rew.png?v=1",
+        "starry_night": "album/zh/album_zh_starry_night_200701.png?v=20070101",
+        "the_lonely_flame": "album/zh/album_zh_the_190114.png?v=19011401",
+        "whats_your_number": "album/zh/album_zh_wyn.png?v=1"
+    }
+}
