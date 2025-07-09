@@ -1,7 +1,6 @@
 node_modules/
 emblems/
 albumCover/
-maps/
 .env
 .DS_Store 
 README.md
