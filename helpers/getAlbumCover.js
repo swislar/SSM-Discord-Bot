@@ -5,10 +5,11 @@ import axios from "axios";
 import path from "path";
 
 export const getAlbumCover = async (artist, album) => {
+    const albumCoverEndPoint = process.env.ALBUM_COVER_ENDPOINT;
     const artistKey = artist.toLowerCase();
     const albumKey = album.toLowerCase();
-    const coverUrl = albumCoverMappings[artistKey]?.[albumKey];
-    if (!coverUrl) {
+    const coverPath = albumCoverMappings[artistKey]?.[albumKey];
+    if (!coverPath) {
         console.log(`No album cover found for ${artistKey} - ${albumKey}`);
         return null;
     }
@@ -20,8 +21,8 @@ export const getAlbumCover = async (artist, album) => {
         return localPath;
     }
     try {
-        console.log(`Downloading album cover for ${artistKey}: ${coverUrl}`);
-        const response = await axios.get(coverUrl, {
+        console.log(`Downloading album cover for ${artistKey}: ${coverPath}`);
+        const response = await axios.get(`${albumCoverEndPoint}${coverPath}`, {
             responseType: "arraybuffer",
         });
         if (!fs.existsSync(albumCoverDir)) {
