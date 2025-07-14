@@ -155,10 +155,8 @@ export const wrMessage = async (
     let msg;
 
     if (messageContext.slashCommand) {
-        console.log("Interactive");
         msg = await messageContext.message.editReply(messagePayload);
     } else {
-        console.log("Legacy");
         msg = await messageContext.message.channel.send(messagePayload);
     }
 
