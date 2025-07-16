@@ -91,14 +91,20 @@ export const wrMessage = async (
                         );
                     ranks += `**${String(record.rank)}** | **${String(
                         record.score.toLocaleString()
-                    )}** | **${String(record.name)}**\n`;
+                    )}** | **${String(record.name).replace(
+                        /[^a-zA-Z0-9\uAC00-\uD7AF]/g,
+                        ""
+                    )}**\n`;
                     if (record.rank >= 1 && record.rank <= 3) {
                         ranks += `⏱️ ${formattedTime}\n`;
                     }
                 } else {
                     ranks += `${String(record.rank)} | ${String(
                         record.score.toLocaleString()
-                    )} | ${String(record.name)}\n`;
+                    )} | ${String(record.name).replace(
+                        /[^a-zA-Z0-9\uAC00-\uD7AF]/g,
+                        ""
+                    )}\n`;
                 }
             });
         }
