@@ -4947,14 +4947,12 @@
             "bonus_to": "03-17"
         },
         "without you": {
-            "without you": {
-                "artist": "NCT U (WITHOUT YOU)",
-                "title": "WITHOUT YOU",
-                "album": "without_you",
-                "id": "263",
-                "bonus_from": "04-07",
-                "bonus_to": "04-13"
-            }
+            "artist": "NCT U (WITHOUT YOU)",
+            "title": "WITHOUT YOU",
+            "album": "without_you",
+            "id": "263",
+            "bonus_from": "04-07",
+            "bonus_to": "04-13"
         }
     },
     "nct u (work it)": {
