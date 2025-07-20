@@ -17,7 +17,7 @@ export const interactiveWorldRecordRanking = async (interaction) => {
     const artist = artistMappings[artistOriginal] ?? artistOriginal;
     const songTitle = musicNameMappings[artist][titleOriginal] ?? titleOriginal;
 
-    await interaction.deferReply({ ephemeral: false });
+    await interaction.deferReply({ ephemeral: true });
 
     try {
         const { ranking, albumKey, musicTitle, artistName } =

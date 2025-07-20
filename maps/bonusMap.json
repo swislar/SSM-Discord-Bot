@@ -1,0 +1,5816 @@
+{
+    "aespa": {
+        "04-08": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Karina",
+            "bonusTo": "04-14",
+            "date": "04-11"
+        },
+        "10-20": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ningning",
+            "bonusTo": "10-26",
+            "date": "10-23"
+        },
+        "10-27": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Giselle",
+            "bonusTo": "11-02",
+            "date": "10-30"
+        },
+        "12-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Winter",
+            "bonusTo": "01-04",
+            "date": "01-01"
+        },
+        "10-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "savage",
+            "artist": "æspa",
+            "bonusTo": "10-08"
+        },
+        "05-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "supernova",
+            "artist": "æspa",
+            "bonusTo": "05-29"
+        },
+        "11-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "black_mamba",
+            "artist": "æspa",
+            "bonusTo": "11-20"
+        },
+        "10-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "synk_parallel_line",
+            "artist": "æspa",
+            "bonusTo": "10-12"
+        },
+        "06-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dirty_work",
+            "artist": "æspa",
+            "bonusTo": "06-30"
+        },
+        "11-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "drama",
+            "artist": "æspa",
+            "bonusTo": "11-13"
+        },
+        "12-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "smcu_express",
+            "artist": "æspa",
+            "bonusTo": "12-30"
+        },
+        "10-18": {
+            "type": "album",
+            "bonus": 3,
+            "album": "whiplash",
+            "artist": "æspa",
+            "bonusTo": "10-24"
+        },
+        "02-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "forever",
+            "artist": "æspa",
+            "bonusTo": "02-08"
+        },
+        "07-05": {
+            "type": "album",
+            "bonus": 3,
+            "album": "girls",
+            "artist": "æspa",
+            "bonusTo": "07-11"
+        },
+        "05-05": {
+            "type": "album",
+            "bonus": 3,
+            "album": "my_world",
+            "artist": "æspa",
+            "bonusTo": "05-11"
+        },
+        "11-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "jingle_bell_rock",
+            "artist": "æspa",
+            "bonusTo": "11-27"
+        },
+        "05-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "armageddon",
+            "artist": "æspa",
+            "bonusTo": "05-30"
+        },
+        "07-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "girls",
+            "artist": "æspa",
+            "bonusTo": "07-10"
+        },
+        "05-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "next_level",
+            "artist": "æspa",
+            "bonusTo": "05-20"
+        },
+        "01-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "시대유감",
+            "artist": "æspa",
+            "bonusTo": "01-18"
+        }
+    },
+    "amber": {
+        "11-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "countdown",
+            "artist": "AMBER",
+            "bonusTo": "12-03"
+        },
+        "02-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "beautiful",
+            "artist": "AMBER",
+            "bonusTo": "02-16"
+        },
+        "05-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "need_to_feel_needed",
+            "artist": "AMBER",
+            "bonusTo": "05-28"
+        },
+        "09-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "white_noise",
+            "artist": "AMBER",
+            "bonusTo": "10-01"
+        }
+    },
+    "baekhyun": {
+        "12-18": {
+            "type": "album",
+            "bonus": 3,
+            "album": "amusement_park",
+            "artist": "BAEKHYUN",
+            "bonusTo": "12-24"
+        },
+        "03-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "bambi",
+            "artist": "BAEKHYUN",
+            "bonusTo": "04-02"
+        },
+        "04-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "bambi_brllnt_remix",
+            "artist": "BAEKHYUN",
+            "bonusTo": "04-25"
+        },
+        "07-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "city_lights",
+            "artist": "BAEKHYUN",
+            "bonusTo": "07-13"
+        },
+        "05-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "candy",
+            "artist": "BAEKHYUN",
+            "bonusTo": "05-28"
+        },
+        "07-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "our_beloved_boa",
+            "artist": "BAEKHYUN",
+            "bonusTo": "08-03"
+        }
+    },
+    "boa": {
+        "11-02": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "BoA",
+            "bonusTo": "11-08",
+            "date": "11-05"
+        },
+        "11-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "forgive_me",
+            "artist": "BoA",
+            "bonusTo": "11-25"
+        },
+        "06-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "summer_vacation_in_smtown",
+            "artist": "BoA",
+            "bonusTo": "06-15"
+        },
+        "11-29": {
+            "type": "album",
+            "bonus": 3,
+            "album": "better",
+            "artist": "BoA",
+            "bonusTo": "12-05"
+        },
+        "12-08": {
+            "type": "album",
+            "bonus": 3,
+            "album": "starry_night",
+            "artist": "BoA",
+            "bonusTo": "12-14"
+        },
+        "06-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "camo",
+            "artist": "BoA",
+            "bonusTo": "06-29"
+        },
+        "12-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "christmas_paradise",
+            "artist": "BoA",
+            "bonusTo": "12-25"
+        },
+        "09-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "copy_and_paste",
+            "artist": "BoA",
+            "bonusTo": "09-27"
+        },
+        "08-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "hurricane_venus",
+            "artist": "BoA",
+            "bonusTo": "08-08"
+        },
+        "10-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "eat_you_up",
+            "artist": "BoA",
+            "bonusTo": "10-25"
+        },
+        "03-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "emptiness",
+            "artist": "BoA",
+            "bonusTo": "03-29"
+        },
+        "08-29": {
+            "type": "album",
+            "bonus": 3,
+            "album": "miracle",
+            "artist": "BoA",
+            "bonusTo": "09-04"
+        },
+        "06-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "feedback",
+            "artist": "BoA",
+            "bonusTo": "06-07"
+        },
+        "05-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "kiss_my_lips",
+            "artist": "BoA",
+            "bonusTo": "05-15"
+        },
+        "06-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "girls_on_top",
+            "artist": "BoA",
+            "bonusTo": "06-27"
+        },
+        "11-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "merry_chri",
+            "artist": "BoA",
+            "bonusTo": "12-04"
+        },
+        "08-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "id_peace_b",
+            "artist": "BoA",
+            "bonusTo": "08-28"
+        },
+        "05-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "atlantis_princess",
+            "artist": "BoA",
+            "bonusTo": "06-03"
+        },
+        "12-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "rock_with_you",
+            "artist": "BoA",
+            "bonusTo": "12-09"
+        },
+        "06-08": {
+            "type": "album",
+            "bonus": 3,
+            "album": "my_name",
+            "artist": "BoA",
+            "bonusTo": "06-14"
+        },
+        "06-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "no_matter_what",
+            "artist": "BoA",
+            "bonusTo": "06-20"
+        },
+        "04-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "number_one",
+            "artist": "BoA",
+            "bonusTo": "04-15"
+        },
+        "03-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "only_one",
+            "artist": "BoA",
+            "bonusTo": "03-21"
+        },
+        "02-17": {
+            "type": "album",
+            "bonus": 3,
+            "album": "one_shot_two_shot",
+            "artist": "BoA",
+            "bonusTo": "02-23"
+        },
+        "07-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "only_one",
+            "artist": "BoA",
+            "bonusTo": "07-25"
+        },
+        "10-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "woman",
+            "artist": "BoA",
+            "bonusTo": "10-27"
+        },
+        "01-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "disturbance",
+            "artist": "BoA",
+            "bonusTo": "01-31"
+        },
+        "01-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "nega_dola",
+            "artist": "BoA",
+            "bonusTo": "02-03"
+        },
+        "04-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "spring_rain",
+            "artist": "BoA",
+            "bonusTo": "05-01"
+        }
+    },
+    "chanyeol": {
+        "11-24": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Chanyeol",
+            "bonusTo": "11-30",
+            "date": "11-27"
+        },
+        "08-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "black_out",
+            "artist": "CHANYEOL",
+            "bonusTo": "08-31"
+        },
+        "10-17": {
+            "type": "album",
+            "bonus": 3,
+            "album": "good_enough",
+            "artist": "CHANYEOL",
+            "bonusTo": "10-23"
+        }
+    },
+    "chen": {
+        "10-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "hello",
+            "artist": "Chen",
+            "bonusTo": "10-18"
+        },
+        "11-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "last_scene",
+            "artist": "CHEN",
+            "bonusTo": "11-17"
+        },
+        "03-29": {
+            "type": "album",
+            "bonus": 3,
+            "album": "april_and_a_flower",
+            "artist": "CHEN",
+            "bonusTo": "04-04"
+        },
+        "09-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "shall_we",
+            "artist": "CHEN",
+            "bonusTo": "10-04"
+        }
+    },
+    "d.o.": {
+        "09-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "somebody",
+            "artist": "D.O.",
+            "bonusTo": "09-21"
+        },
+        "07-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "rose",
+            "artist": "D.O.",
+            "bonusTo": "07-29"
+        }
+    },
+    "donghae": {
+        "10-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "california_love",
+            "artist": "DONGHAE",
+            "bonusTo": "10-16"
+        }
+    },
+    "doyoung": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "04-18": {
+            "type": "album",
+            "bonus": 3,
+            "album": "youth",
+            "artist": "DOYOUNG",
+            "bonusTo": "04-24"
+        },
+        "04-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "youth",
+            "artist": "DOYOUNG",
+            "bonusTo": "04-25"
+        },
+        "06-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "soar",
+            "artist": "DOYOUNG",
+            "bonusTo": "06-12"
+        },
+        "11-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_story",
+            "artist": "DOYOUNG",
+            "bonusTo": "11-09"
+        }
+    },
+    "eunhyuk": {
+        "10-17": {
+            "type": "album",
+            "bonus": 3,
+            "album": "be",
+            "artist": "EUNHYUK",
+            "bonusTo": "10-23"
+        }
+    },
+    "exo": {
+        "01-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Kai",
+            "bonusTo": "01-17",
+            "date": "01-14"
+        },
+        "04-09": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Sehun",
+            "bonusTo": "04-15",
+            "date": "04-12"
+        },
+        "05-19": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Suho",
+            "bonusTo": "05-25",
+            "date": "05-22"
+        },
+        "11-24": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Chanyeol",
+            "bonusTo": "11-30",
+            "date": "11-27"
+        },
+        "10-30": {
+            "type": "album",
+            "bonus": 3,
+            "album": "tempo",
+            "artist": "EXO",
+            "bonusTo": "11-05"
+        },
+        "01-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_elyxion",
+            "artist": "EXO",
+            "bonusTo": "02-02"
+        },
+        "09-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_power_of_music",
+            "artist": "EXO",
+            "bonusTo": "09-08"
+        },
+        "07-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "exist",
+            "artist": "EXO",
+            "bonusTo": "07-13"
+        },
+        "07-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_war_c",
+            "artist": "EXO",
+            "bonusTo": "07-21"
+        },
+        "06-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "let_me_in",
+            "artist": "EXO",
+            "bonusTo": "06-15"
+        },
+        "12-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "universe",
+            "artist": "EXO",
+            "bonusTo": "12-29"
+        },
+        "12-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "love_shot",
+            "artist": "EXO",
+            "bonusTo": "12-16"
+        }
+    },
+    "exo (don't fight the feeling)": {
+        "01-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Kai",
+            "bonusTo": "01-17",
+            "date": "01-14"
+        },
+        "04-09": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Sehun",
+            "bonusTo": "04-15",
+            "date": "04-12"
+        },
+        "11-24": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Chanyeol",
+            "bonusTo": "11-30",
+            "date": "11-27"
+        },
+        "06-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dont_fight_the_feeling",
+            "artist": "EXO (DON'T FIGHT THE FEELING)",
+            "bonusTo": "06-10"
+        }
+    },
+    "exo (obsession)": {
+        "01-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Kai",
+            "bonusTo": "01-17",
+            "date": "01-14"
+        },
+        "04-09": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Sehun",
+            "bonusTo": "04-15",
+            "date": "04-12"
+        },
+        "05-19": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Suho",
+            "bonusTo": "05-25",
+            "date": "05-22"
+        },
+        "11-24": {
+            "type": "birthday + album",
+            "bonus": 5,
+            "artist": "Chanyeol",
+            "album": "obsession",
+            "date": "11-27",
+            "bonusTo": "11-30"
+        }
+    },
+    "exo-cbx": {
+        "10-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "hey_mama",
+            "artist": "EXO-CBX",
+            "bonusTo": "11-03"
+        },
+        "01-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_elyxion",
+            "artist": "EXO-CBX",
+            "bonusTo": "02-02"
+        },
+        "04-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "blooming_days",
+            "artist": "EXO-CBX",
+            "bonusTo": "04-13"
+        }
+    },
+    "exo-k": {
+        "01-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Kai",
+            "bonusTo": "01-17",
+            "date": "01-14"
+        },
+        "04-09": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Sehun",
+            "bonusTo": "04-15",
+            "date": "04-12"
+        },
+        "05-19": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Suho",
+            "bonusTo": "05-25",
+            "date": "05-22"
+        },
+        "11-24": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Chanyeol",
+            "bonusTo": "11-30",
+            "date": "11-27"
+        },
+        "05-31": {
+            "type": "album",
+            "bonus": 3,
+            "album": "xoxo",
+            "artist": "EXO-K",
+            "bonusTo": "06-06"
+        },
+        "06-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "ex_act",
+            "artist": "EXO-K",
+            "bonusTo": "06-12"
+        },
+        "03-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "exodus",
+            "artist": "EXO-K",
+            "bonusTo": "04-02"
+        },
+        "12-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "exology",
+            "artist": "EXO-K",
+            "bonusTo": "12-25"
+        },
+        "12-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "for_life",
+            "artist": "EXO-K",
+            "bonusTo": "12-22"
+        },
+        "12-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "sing_for_you",
+            "artist": "EXO-K",
+            "bonusTo": "12-13"
+        },
+        "03-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "history",
+            "artist": "EXO-K",
+            "bonusTo": "03-12"
+        },
+        "11-08": {
+            "type": "album",
+            "bonus": 3,
+            "album": "lightsaber",
+            "artist": "EXO-K",
+            "bonusTo": "11-14"
+        },
+        "08-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "lotto",
+            "artist": "EXO-K",
+            "bonusTo": "08-21"
+        },
+        "08-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "xoxo",
+            "artist": "EXO-K",
+            "bonusTo": "08-08"
+        },
+        "04-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "mama",
+            "artist": "EXO-K",
+            "bonusTo": "04-12"
+        },
+        "12-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "miracles_in_december",
+            "artist": "EXO-K",
+            "bonusTo": "12-12"
+        },
+        "05-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "overdose",
+            "artist": "EXO-K",
+            "bonusTo": "05-10"
+        },
+        "10-30": {
+            "type": "album",
+            "bonus": 3,
+            "album": "tempo",
+            "artist": "EXO-K",
+            "bonusTo": "11-05"
+        }
+    },
+    "exo-m": {
+        "05-31": {
+            "type": "album",
+            "bonus": 3,
+            "album": "xoxo",
+            "artist": "EXO-M",
+            "bonusTo": "06-06"
+        },
+        "06-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "ex_act",
+            "artist": "EXO-M",
+            "bonusTo": "06-12"
+        },
+        "03-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "exodus",
+            "artist": "EXO-M",
+            "bonusTo": "04-02"
+        },
+        "12-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "exology",
+            "artist": "EXO-M",
+            "bonusTo": "12-25"
+        },
+        "12-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "sing_for_you",
+            "artist": "EXO-M",
+            "bonusTo": "12-13"
+        },
+        "03-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "history",
+            "artist": "EXO-M",
+            "bonusTo": "03-12"
+        },
+        "11-08": {
+            "type": "album",
+            "bonus": 3,
+            "album": "lightsaber",
+            "artist": "EXO-M",
+            "bonusTo": "11-14"
+        },
+        "08-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "lotto",
+            "artist": "EXO-M",
+            "bonusTo": "08-21"
+        },
+        "08-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "xoxo",
+            "artist": "EXO-M",
+            "bonusTo": "08-08"
+        },
+        "04-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "mama",
+            "artist": "EXO-M",
+            "bonusTo": "04-12"
+        },
+        "12-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "miracles_in_december",
+            "artist": "EXO-M",
+            "bonusTo": "12-12"
+        },
+        "05-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "overdose",
+            "artist": "EXO-M",
+            "bonusTo": "05-10"
+        },
+        "12-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "for_life",
+            "artist": "EXO-M",
+            "bonusTo": "12-22"
+        },
+        "10-30": {
+            "type": "album",
+            "bonus": 3,
+            "album": "tempo",
+            "artist": "EXO-M",
+            "bonusTo": "11-05"
+        }
+    },
+    "exo-sc": {
+        "04-09": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Sehun",
+            "bonusTo": "04-15",
+            "date": "04-12"
+        },
+        "11-24": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Chanyeol",
+            "bonusTo": "11-30",
+            "date": "11-27"
+        },
+        "07-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "1_billion_views",
+            "artist": "EXO-SC",
+            "bonusTo": "07-16"
+        },
+        "08-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "1_billion_views_remix",
+            "artist": "EXO-SC",
+            "bonusTo": "08-30"
+        },
+        "07-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "telephone",
+            "artist": "EXO-SC",
+            "bonusTo": "07-10"
+        },
+        "07-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "what_a_life",
+            "artist": "EXO-SC",
+            "bonusTo": "07-25"
+        }
+    },
+    "f(x)": {
+        "12-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "wish_list",
+            "artist": "f(x)",
+            "bonusTo": "12-18"
+        },
+        "10-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "4_walls",
+            "artist": "f(x)",
+            "bonusTo": "10-30"
+        },
+        "07-26": {
+            "type": "album",
+            "bonus": 3,
+            "album": "pink_tape",
+            "artist": "f(x)",
+            "bonusTo": "08-01"
+        },
+        "07-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "all_mine",
+            "artist": "f(x)",
+            "bonusTo": "07-25"
+        },
+        "06-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "electric_shock",
+            "artist": "f(x)",
+            "bonusTo": "06-13"
+        },
+        "11-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "chu",
+            "artist": "f(x)",
+            "bonusTo": "11-07"
+        },
+        "07-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "red_light",
+            "artist": "f(x)",
+            "bonusTo": "07-10"
+        },
+        "06-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "hot_summer",
+            "artist": "f(x)",
+            "bonusTo": "06-17"
+        },
+        "08-29": {
+            "type": "album",
+            "bonus": 3,
+            "album": "la_cha_ta",
+            "artist": "f(x)",
+            "bonusTo": "09-04"
+        },
+        "05-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "nu_abo",
+            "artist": "f(x)",
+            "bonusTo": "05-07"
+        },
+        "04-17": {
+            "type": "album",
+            "bonus": 3,
+            "album": "pinocchio",
+            "artist": "f(x)",
+            "bonusTo": "04-23"
+        }
+    },
+    "girls' generation": {
+        "03-06": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyeon",
+            "bonusTo": "03-12",
+            "date": "03-09"
+        },
+        "05-27": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yoona",
+            "bonusTo": "06-02",
+            "date": "05-30"
+        },
+        "09-19": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Hyoyeon",
+            "bonusTo": "09-25",
+            "date": "09-22"
+        },
+        "12-02": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yuri",
+            "bonusTo": "12-08",
+            "date": "12-05"
+        },
+        "08-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "holiday_night",
+            "artist": "Girls' Generation",
+            "bonusTo": "08-07"
+        },
+        "10-29": {
+            "type": "album",
+            "bonus": 3,
+            "album": "girls_generation",
+            "artist": "Girls' Generation",
+            "bonusTo": "11-04"
+        },
+        "01-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "oh",
+            "artist": "Girls' Generation",
+            "bonusTo": "01-31"
+        },
+        "04-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "catch_me_if_you_can",
+            "artist": "Girls' Generation",
+            "bonusTo": "04-13"
+        },
+        "08-05": {
+            "type": "album",
+            "bonus": 3,
+            "album": "forever_1",
+            "artist": "Girls' Generation",
+            "bonusTo": "08-11"
+        },
+        "12-29": {
+            "type": "album",
+            "bonus": 3,
+            "album": "i_got_a_boy",
+            "artist": "Girls' Generation",
+            "bonusTo": "01-04"
+        },
+        "06-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "genie",
+            "artist": "Girls' Generation",
+            "bonusTo": "06-28"
+        },
+        "01-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "gee",
+            "artist": "Girls' Generation",
+            "bonusTo": "01-08"
+        },
+        "02-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "mr_mr",
+            "artist": "Girls' Generation",
+            "bonusTo": "02-27"
+        },
+        "08-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "lion_heart",
+            "artist": "Girls' Generation",
+            "bonusTo": "08-21"
+        },
+        "10-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_boys",
+            "artist": "Girls' Generation",
+            "bonusTo": "10-22"
+        },
+        "07-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "party",
+            "artist": "Girls' Generation",
+            "bonusTo": "07-10"
+        },
+        "03-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "run_devil_run",
+            "artist": "Girls' Generation",
+            "bonusTo": "03-25"
+        },
+        "07-31": {
+            "type": "album",
+            "bonus": 3,
+            "album": "into_the_new_world",
+            "artist": "Girls' Generation",
+            "bonusTo": "08-06"
+        },
+        "10-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "hoot",
+            "artist": "Girls' Generation",
+            "bonusTo": "10-28"
+        }
+    },
+    "girls' generation-oh!gg": {
+        "03-06": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyeon",
+            "bonusTo": "03-12",
+            "date": "03-09"
+        },
+        "05-27": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yoona",
+            "bonusTo": "06-02",
+            "date": "05-30"
+        },
+        "09-19": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Hyoyeon",
+            "bonusTo": "09-25",
+            "date": "09-22"
+        },
+        "12-02": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yuri",
+            "bonusTo": "12-08",
+            "date": "12-05"
+        },
+        "09-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "lil_touch",
+            "artist": "Girls' Generation-Oh!GG",
+            "bonusTo": "09-08"
+        },
+        "12-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "smcu_express",
+            "artist": "Girls' Generation-Oh!GG",
+            "bonusTo": "12-30"
+        }
+    },
+    "girls' generation-tts": {
+        "03-06": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyeon",
+            "bonusTo": "03-12",
+            "date": "03-09"
+        },
+        "04-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "twinkle",
+            "artist": "Girls' Generation-TSS",
+            "bonusTo": "05-03"
+        },
+        "12-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dear_santa",
+            "artist": "Girls' Generation-TTS",
+            "bonusTo": "12-07"
+        },
+        "09-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "holler",
+            "artist": "Girls' Generation-TTS",
+            "bonusTo": "09-19"
+        }
+    },
+    "got the beat": {
+        "02-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Seulgi",
+            "bonusTo": "02-13",
+            "date": "02-10"
+        },
+        "02-18": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Wendy",
+            "bonusTo": "02-24",
+            "date": "02-21"
+        },
+        "03-06": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyeon",
+            "bonusTo": "03-12",
+            "date": "03-09"
+        },
+        "04-08": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Karina",
+            "bonusTo": "04-14",
+            "date": "04-11"
+        },
+        "09-19": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Hyoyeon",
+            "bonusTo": "09-25",
+            "date": "09-22"
+        },
+        "11-02": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "BoA",
+            "bonusTo": "11-08",
+            "date": "11-05"
+        },
+        "12-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Winter",
+            "bonusTo": "01-04",
+            "date": "01-01"
+        },
+        "01-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "stamp_on_it",
+            "artist": "GOT the beat",
+            "bonusTo": "01-19"
+        },
+        "12-31": {
+            "type": "album",
+            "bonus": 3,
+            "album": "step_back",
+            "artist": "GOT the beat",
+            "bonusTo": "01-06"
+        }
+    },
+    "henry": {
+        "06-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "trap",
+            "artist": "HENRY",
+            "bonusTo": "06-10"
+        },
+        "07-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "fantastic",
+            "artist": "HENRY",
+            "bonusTo": "07-17"
+        },
+        "01-30": {
+            "type": "album",
+            "bonus": 3,
+            "album": "monster",
+            "artist": "HENRY",
+            "bonusTo": "02-05"
+        },
+        "06-20": {
+            "type": "album",
+            "bonus": 3,
+            "album": "im_good",
+            "artist": "HENRY",
+            "bonusTo": "06-26"
+        },
+        "04-26": {
+            "type": "album",
+            "bonus": 3,
+            "album": "real_love",
+            "artist": "HENRY",
+            "bonusTo": "05-02"
+        }
+    },
+    "hyo": {
+        "09-19": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Hyoyeon",
+            "bonusTo": "09-25",
+            "date": "09-22"
+        },
+        "07-17": {
+            "type": "album",
+            "bonus": 3,
+            "album": "badster",
+            "artist": "HYO",
+            "bonusTo": "07-23"
+        },
+        "05-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "deep",
+            "artist": "HYO",
+            "bonusTo": "05-19"
+        },
+        "07-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dessert",
+            "artist": "HYO",
+            "bonusTo": "07-25"
+        },
+        "04-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "sober",
+            "artist": "HYO",
+            "bonusTo": "04-21"
+        },
+        "08-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "picture",
+            "artist": "HYO",
+            "bonusTo": "08-25"
+        },
+        "11-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "punk_right_now",
+            "artist": "HYO",
+            "bonusTo": "11-16"
+        },
+        "09-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "retro_romance",
+            "artist": "HYO",
+            "bonusTo": "09-29"
+        },
+        "08-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "second",
+            "artist": "HYO",
+            "bonusTo": "08-12"
+        },
+        "05-29": {
+            "type": "album",
+            "bonus": 3,
+            "album": "wannabe",
+            "artist": "HYO",
+            "bonusTo": "06-04"
+        }
+    },
+    "hearts2hearts": {
+        "03-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "CARMEN",
+            "bonusTo": "03-31",
+            "date": "03-28"
+        },
+        "04-09": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "YUHA",
+            "bonusTo": "04-15",
+            "date": "04-12"
+        },
+        "04-16": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "YE-ON",
+            "bonusTo": "04-22",
+            "date": "04-19"
+        },
+        "06-15": {
+            "type": "birthday + album",
+            "bonus": 5,
+            "artist": "STELLA",
+            "album": "style",
+            "date": "06-18",
+            "bonusTo": "06-21"
+        },
+        "09-04": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "JIWOO",
+            "bonusTo": "09-10",
+            "date": "09-07"
+        },
+        "10-06": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "IAN",
+            "bonusTo": "10-12",
+            "date": "10-09"
+        },
+        "11-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "JUUN",
+            "bonusTo": "12-06",
+            "date": "12-03"
+        },
+        "12-17": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "A-NA",
+            "bonusTo": "12-23",
+            "date": "12-20"
+        },
+        "02-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_chase",
+            "artist": "Hearts2Hearts",
+            "bonusTo": "02-27"
+        }
+    },
+    "irene": {
+        "03-26": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Irene",
+            "bonusTo": "04-01",
+            "date": "03-29"
+        },
+        "11-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "like_a_flower",
+            "artist": "IRENE",
+            "bonusTo": "11-29"
+        }
+    },
+    "jaehyun": {
+        "02-11": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Jaehyun",
+            "bonusTo": "02-17",
+            "date": "02-14"
+        },
+        "08-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "j",
+            "artist": "JAEHYUN",
+            "bonusTo": "08-29"
+        },
+        "10-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "unconditional",
+            "artist": "JAEHYUN",
+            "bonusTo": "10-27"
+        }
+    },
+    "jonghyun": {
+        "04-05": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Jonghyun",
+            "bonusTo": "04-11",
+            "date": "04-08"
+        },
+        "01-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "base",
+            "artist": "JONGHYUN",
+            "bonusTo": "01-15"
+        },
+        "04-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "story_op2",
+            "artist": "JONGHYUN",
+            "bonusTo": "04-27"
+        },
+        "05-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "she_is",
+            "artist": "JONGHYUN",
+            "bonusTo": "05-27"
+        },
+        "09-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "story_op1",
+            "artist": "JONGHYUN",
+            "bonusTo": "09-20"
+        }
+    },
+    "joy": {
+        "08-31": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Joy",
+            "bonusTo": "09-06",
+            "date": "09-03"
+        },
+        "05-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "hello",
+            "artist": "JOY",
+            "bonusTo": "06-03"
+        }
+    },
+    "kai": {
+        "01-11": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Kai",
+            "bonusTo": "01-17",
+            "date": "01-14"
+        },
+        "04-18": {
+            "type": "album",
+            "bonus": 3,
+            "album": "wait_on_me",
+            "artist": "KAI",
+            "bonusTo": "04-24"
+        },
+        "03-17": {
+            "type": "album",
+            "bonus": 3,
+            "album": "peaches",
+            "artist": "KAI",
+            "bonusTo": "03-23"
+        },
+        "03-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "rover",
+            "artist": "KAI",
+            "bonusTo": "03-16"
+        },
+        "11-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "peaches",
+            "artist": "KAI",
+            "bonusTo": "12-03"
+        }
+    },
+    "kangta": {
+        "10-07": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Kangta",
+            "bonusTo": "10-13",
+            "date": "10-10"
+        },
+        "10-31": {
+            "type": "album",
+            "bonus": 3,
+            "album": "home",
+            "artist": "KANGTA",
+            "bonusTo": "11-06"
+        },
+        "01-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "cough_syrup",
+            "artist": "KANGTA",
+            "bonusTo": "01-18"
+        },
+        "09-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "eyes_on_you",
+            "artist": "KANGTA",
+            "bonusTo": "09-10"
+        },
+        "03-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "freezing",
+            "artist": "KANGTA",
+            "bonusTo": "03-27"
+        },
+        "08-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "polaris",
+            "artist": "KANGTA",
+            "bonusTo": "08-19"
+        },
+        "07-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "free_to_fly",
+            "artist": "KANGTA",
+            "bonusTo": "07-17"
+        }
+    },
+    "key": {
+        "09-20": {
+            "type": "birthday + album",
+            "bonus": 9,
+            "artist": "Key",
+            "album": "pleasure_shop",
+            "date": "09-23",
+            "bonusTo": "09-26"
+        },
+        "09-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "bad_love",
+            "artist": "KEY",
+            "bonusTo": "09-30"
+        },
+        "08-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "gasoline",
+            "artist": "KEY",
+            "bonusTo": "09-02"
+        },
+        "09-08": {
+            "type": "album",
+            "bonus": 3,
+            "album": "good_and_great",
+            "artist": "KEY",
+            "bonusTo": "09-14"
+        },
+        "11-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "face",
+            "artist": "KEY",
+            "bonusTo": "11-29"
+        },
+        "02-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "cold",
+            "artist": "KEY",
+            "bonusTo": "02-17"
+        },
+        "11-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "forever_yours",
+            "artist": "KEY",
+            "bonusTo": "11-09"
+        },
+        "02-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "killer",
+            "artist": "KEY",
+            "bonusTo": "02-16"
+        },
+        "03-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "i_wanna_be",
+            "artist": "KEY",
+            "bonusTo": "03-07"
+        }
+    },
+    "kyuhyun": {
+        "05-17": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_day_we_meet_again",
+            "artist": "KYUHYUN",
+            "bonusTo": "05-23"
+        },
+        "04-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "coffee",
+            "artist": "KYUHYUN",
+            "bonusTo": "04-16"
+        },
+        "10-05": {
+            "type": "album",
+            "bonus": 3,
+            "album": "daystar",
+            "artist": "KYUHYUN",
+            "bonusTo": "10-11"
+        },
+        "07-20": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dreaming",
+            "artist": "KYUHYUN",
+            "bonusTo": "07-26"
+        },
+        "11-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "gwanghwamun",
+            "artist": "KYUHYUN",
+            "bonusTo": "11-16"
+        },
+        "01-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "love_story",
+            "artist": "KYUHYUN",
+            "bonusTo": "01-28"
+        },
+        "01-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "moving_on",
+            "artist": "KYUHYUN",
+            "bonusTo": "01-29"
+        },
+        "07-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "together",
+            "artist": "KYUHYUN",
+            "bonusTo": "07-08"
+        },
+        "05-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "goodbye_for_now",
+            "artist": "KYUHYUN",
+            "bonusTo": "05-27"
+        },
+        "10-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "fall_once_again",
+            "artist": "KYUHYUN",
+            "bonusTo": "10-18"
+        },
+        "11-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "waiting_still",
+            "artist": "KYUHYUN",
+            "bonusTo": "11-13"
+        }
+    },
+    "lay": {
+        "06-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "honey",
+            "artist": "LAY",
+            "bonusTo": "06-17"
+        },
+        "10-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "sheep",
+            "artist": "LAY",
+            "bonusTo": "10-10"
+        },
+        "10-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "lose_control",
+            "artist": "LAY",
+            "bonusTo": "10-31"
+        },
+        "10-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "namanana",
+            "artist": "LAY",
+            "bonusTo": "10-22"
+        }
+    },
+    "lucas": {
+        "01-22": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Lucas",
+            "bonusTo": "01-28",
+            "date": "01-25"
+        },
+        "03-29": {
+            "type": "album",
+            "bonus": 3,
+            "album": "renegade",
+            "artist": "LUCAS",
+            "bonusTo": "04-04"
+        }
+    },
+    "luna": {
+        "05-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "free_somebody",
+            "artist": "LUNA",
+            "bonusTo": "06-03"
+        },
+        "04-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "night_reminiscin",
+            "artist": "LUNA",
+            "bonusTo": "04-27"
+        },
+        "01-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "even_so",
+            "artist": "LUNA",
+            "bonusTo": "01-07"
+        }
+    },
+    "m&d": {
+        "07-07": {
+            "type": "birthday",
+            "bonus": 4,
+            "artist": "Heechul",
+            "bonusTo": "07-13",
+            "date": "07-10"
+        },
+        "04-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "diy",
+            "artist": "M&D",
+            "bonusTo": "04-19"
+        },
+        "04-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "old_movie",
+            "artist": "M&D",
+            "bonusTo": "04-27"
+        },
+        "07-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "goody_bag",
+            "artist": "M&D",
+            "bonusTo": "07-15"
+        }
+    },
+    "mark": {
+        "07-30": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "04-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "golden_hour",
+            "artist": "MARK",
+            "bonusTo": "04-10"
+        },
+        "05-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "200",
+            "artist": "MARK",
+            "bonusTo": "05-18"
+        },
+        "02-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "child",
+            "artist": "MARK",
+            "bonusTo": "02-07"
+        },
+        "12-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "fraktsiya",
+            "artist": "MARK",
+            "bonusTo": "12-19"
+        }
+    },
+    "max changmin": {
+        "02-15": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Changmin",
+            "bonusTo": "02-21",
+            "date": "02-18"
+        },
+        "11-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "all_that_love",
+            "artist": "MAX CHANGMIN",
+            "bonusTo": "11-17"
+        },
+        "04-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "chocolate",
+            "artist": "MAX CHANGMIN",
+            "bonusTo": "04-09"
+        },
+        "01-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "devil",
+            "artist": "MAX CHANGMIN",
+            "bonusTo": "01-16"
+        }
+    },
+    "minho": {
+        "12-06": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Minho",
+            "bonusTo": "12-12",
+            "date": "12-09"
+        },
+        "11-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "call_back",
+            "artist": "MINHO",
+            "bonusTo": "11-07"
+        },
+        "12-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "chase",
+            "artist": "MINHO",
+            "bonusTo": "12-15"
+        },
+        "12-18": {
+            "type": "album",
+            "bonus": 3,
+            "album": "heartbreak",
+            "artist": "MINHO",
+            "bonusTo": "12-24"
+        },
+        "01-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "stay_for_a_night",
+            "artist": "MINHO",
+            "bonusTo": "01-09"
+        }
+    },
+    "naevis": {
+        "09-07": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "nævis",
+            "bonusTo": "09-13",
+            "date": "09-10"
+        },
+        "09-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "done",
+            "artist": "nævis",
+            "bonusTo": "09-22"
+        }
+    },
+    "nct 127 (fact check)": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "02-06": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Johnny",
+            "bonusTo": "02-12",
+            "date": "02-09"
+        },
+        "02-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaehyun",
+            "bonusTo": "02-17",
+            "date": "02-14"
+        },
+        "02-16": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jungwoo",
+            "bonusTo": "02-22",
+            "date": "02-19"
+        },
+        "06-03": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Haechan",
+            "bonusTo": "06-09",
+            "date": "06-06"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "10-23": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yuta",
+            "bonusTo": "10-29",
+            "date": "10-26"
+        },
+        "09-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "2_baddies",
+            "artist": "NCT 127 (Fact Check)",
+            "bonusTo": "09-19"
+        },
+        "10-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "fact_check",
+            "artist": "NCT 127 (Fact Check)",
+            "bonusTo": "10-09"
+        },
+        "01-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "ay_yo",
+            "artist": "NCT 127 (Fact Check)",
+            "bonusTo": "02-02"
+        },
+        "12-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "be_there_for_me",
+            "artist": "NCT 127 (Fact Check)",
+            "bonusTo": "12-25"
+        },
+        "03-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "neo_zone",
+            "artist": "NCT 127 (Fact Check)",
+            "bonusTo": "03-09"
+        },
+        "09-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "sticker",
+            "artist": "NCT 127 (Fact Check)",
+            "bonusTo": "09-20"
+        },
+        "10-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "favourite",
+            "artist": "NCT 127 (Fact Check)",
+            "bonusTo": "10-28"
+        },
+        "05-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "superhuman",
+            "artist": "NCT 127 (Fact Check)",
+            "bonusTo": "05-27"
+        },
+        "07-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "superhuman",
+            "artist": "NCT 127 (Fact Check)",
+            "bonusTo": "07-22"
+        },
+        "05-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "kick_it_remix",
+            "artist": "NCT 127 (Fact Check)",
+            "bonusTo": "05-10"
+        },
+        "05-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "neo_zone",
+            "artist": "NCT 127 (Fact Check)",
+            "bonusTo": "05-22"
+        },
+        "11-20": {
+            "type": "album",
+            "bonus": 3,
+            "album": "regulate",
+            "artist": "NCT 127 (Fact Check)",
+            "bonusTo": "11-26"
+        }
+    },
+    "nct 127 (fire truck)": {
+        "02-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaehyun",
+            "bonusTo": "02-17",
+            "date": "02-14"
+        },
+        "06-03": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Haechan",
+            "bonusTo": "06-09",
+            "date": "06-06"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "10-23": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yuta",
+            "bonusTo": "10-29",
+            "date": "10-26"
+        },
+        "10-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Winwin",
+            "bonusTo": "10-31",
+            "date": "10-28"
+        },
+        "07-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "fire_truck",
+            "artist": "NCT 127 (Fire Truck)",
+            "bonusTo": "07-13"
+        }
+    },
+    "nct 127 (regular)": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "02-06": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Johnny",
+            "bonusTo": "02-12",
+            "date": "02-09"
+        },
+        "02-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaehyun",
+            "bonusTo": "02-17",
+            "date": "02-14"
+        },
+        "02-16": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jungwoo",
+            "bonusTo": "02-22",
+            "date": "02-19"
+        },
+        "06-03": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Haechan",
+            "bonusTo": "06-09",
+            "date": "06-06"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "10-23": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yuta",
+            "bonusTo": "10-29",
+            "date": "10-26"
+        },
+        "10-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Winwin",
+            "bonusTo": "10-31",
+            "date": "10-28"
+        },
+        "11-20": {
+            "type": "album",
+            "bonus": 3,
+            "album": "regulate",
+            "artist": "NCT 127 (Regular)",
+            "bonusTo": "11-26"
+        },
+        "10-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "irregular",
+            "artist": "NCT 127 (Regular)",
+            "bonusTo": "10-15"
+        }
+    },
+    "nct 127 (touch)": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "02-06": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Johnny",
+            "bonusTo": "02-12",
+            "date": "02-09"
+        },
+        "02-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaehyun",
+            "bonusTo": "02-17",
+            "date": "02-14"
+        },
+        "06-03": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Haechan",
+            "bonusTo": "06-09",
+            "date": "06-06"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "10-23": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yuta",
+            "bonusTo": "10-29",
+            "date": "10-26"
+        },
+        "10-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Winwin",
+            "bonusTo": "10-31",
+            "date": "10-28"
+        },
+        "06-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "cherry_bomb",
+            "artist": "NCT 127 (TOUCH)",
+            "bonusTo": "06-17"
+        },
+        "01-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "limitless",
+            "artist": "NCT 127 (TOUCH)",
+            "bonusTo": "01-09"
+        },
+        "03-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "empathy",
+            "artist": "NCT 127 (TOUCH)",
+            "bonusTo": "03-17"
+        }
+    },
+    "nct 127 (walk)": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "02-06": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Johnny",
+            "bonusTo": "02-12",
+            "date": "02-09"
+        },
+        "02-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaehyun",
+            "bonusTo": "02-17",
+            "date": "02-14"
+        },
+        "02-16": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jungwoo",
+            "bonusTo": "02-22",
+            "date": "02-19"
+        },
+        "06-03": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Haechan",
+            "bonusTo": "06-09",
+            "date": "06-06"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "10-23": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yuta",
+            "bonusTo": "10-29",
+            "date": "10-26"
+        },
+        "07-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "walk",
+            "artist": "NCT 127 (Walk)",
+            "bonusTo": "07-18"
+        }
+    },
+    "nct dojaejung": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "02-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaehyun",
+            "bonusTo": "02-17",
+            "date": "02-14"
+        },
+        "02-16": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jungwoo",
+            "bonusTo": "02-22",
+            "date": "02-19"
+        },
+        "04-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "perfume",
+            "artist": "NCT DOJAEJUNG",
+            "bonusTo": "04-20"
+        },
+        "04-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "perfume",
+            "artist": "NCT DOJAEJUNG",
+            "bonusTo": "04-19"
+        },
+        "01-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "perfume",
+            "artist": "NCT DOJAEJUNG",
+            "bonusTo": "01-20"
+        }
+    },
+    "nct dream (go back to the future)": {
+        "02-02": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jisung",
+            "bonusTo": "02-08",
+            "date": "02-05"
+        },
+        "03-20": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Renjun",
+            "bonusTo": "03-26",
+            "date": "03-23"
+        },
+        "04-20": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jeno",
+            "bonusTo": "04-26",
+            "date": "04-23"
+        },
+        "06-03": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Haechan",
+            "bonusTo": "06-09",
+            "date": "06-06"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "08-10": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaemin",
+            "bonusTo": "08-16",
+            "date": "08-13"
+        },
+        "11-19": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Chenle",
+            "bonusTo": "11-25",
+            "date": "11-22"
+        },
+        "08-31": {
+            "type": "album",
+            "bonus": 3,
+            "album": "we_go_up",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "09-06"
+        },
+        "05-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "hot_sauce",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "05-13"
+        },
+        "03-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "glitch_mode",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "03-31"
+        },
+        "05-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "beatbox",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "06-03"
+        },
+        "03-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dream()scape",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "03-28"
+        },
+        "06-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "broken_melodies",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "06-22"
+        },
+        "07-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "go_back_to_the_future",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "07-17"
+        },
+        "06-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "hello_future",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "07-01"
+        },
+        "12-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "candy",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "12-22"
+        },
+        "08-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "we_go_up",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "08-30"
+        },
+        "11-08": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dreamscape",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "11-14"
+        },
+        "03-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "empathy",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "03-17"
+        },
+        "07-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "istj",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "07-20"
+        },
+        "10-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "resonance",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "10-15"
+        },
+        "12-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "candle_light",
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "bonusTo": "12-30"
+        }
+    },
+    "nct dream (my first)": {
+        "02-02": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jisung",
+            "bonusTo": "02-08",
+            "date": "02-05"
+        },
+        "03-20": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Renjun",
+            "bonusTo": "03-26",
+            "date": "03-23"
+        },
+        "04-20": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jeno",
+            "bonusTo": "04-26",
+            "date": "04-23"
+        },
+        "06-03": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Haechan",
+            "bonusTo": "06-09",
+            "date": "06-06"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "11-19": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Chenle",
+            "bonusTo": "11-25",
+            "date": "11-22"
+        },
+        "12-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "joy",
+            "artist": "NCT DREAM (My First)",
+            "bonusTo": "12-18"
+        },
+        "08-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "we_young",
+            "artist": "NCT DREAM (My First)",
+            "bonusTo": "08-20"
+        },
+        "02-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_first",
+            "artist": "NCT DREAM (My First)",
+            "bonusTo": "02-12"
+        }
+    },
+    "nct dream (reload)": {
+        "02-02": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jisung",
+            "bonusTo": "02-08",
+            "date": "02-05"
+        },
+        "03-20": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Renjun",
+            "bonusTo": "03-26",
+            "date": "03-23"
+        },
+        "04-20": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jeno",
+            "bonusTo": "04-26",
+            "date": "04-23"
+        },
+        "06-03": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Haechan",
+            "bonusTo": "06-09",
+            "date": "06-06"
+        },
+        "08-10": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaemin",
+            "bonusTo": "08-16",
+            "date": "08-13"
+        },
+        "11-19": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Chenle",
+            "bonusTo": "11-25",
+            "date": "11-22"
+        },
+        "07-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "we_boom",
+            "artist": "NCT DREAM (Reload)",
+            "bonusTo": "07-29"
+        },
+        "04-26": {
+            "type": "album",
+            "bonus": 3,
+            "album": "reload",
+            "artist": "NCT DREAM (Reload)",
+            "bonusTo": "05-02"
+        },
+        "06-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "ridin_remix",
+            "artist": "NCT DREAM (Reload)",
+            "bonusTo": "06-22"
+        }
+    },
+    "nct u (90's love)": {
+        "02-24": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ten",
+            "bonusTo": "03-02",
+            "date": "02-27"
+        },
+        "04-20": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jeno",
+            "bonusTo": "04-26",
+            "date": "04-23"
+        },
+        "06-03": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Haechan",
+            "bonusTo": "06-09",
+            "date": "06-06"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "10-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yangyang",
+            "bonusTo": "10-13",
+            "date": "10-10"
+        },
+        "10-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Winwin",
+            "bonusTo": "10-31",
+            "date": "10-28"
+        },
+        "11-20": {
+            "type": "album",
+            "bonus": 3,
+            "album": "resonance",
+            "artist": "NCT U (90's Love)",
+            "bonusTo": "11-26"
+        }
+    },
+    "nct u (baby don't stop)": {
+        "02-24": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ten",
+            "bonusTo": "03-02",
+            "date": "02-27"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "03-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "empathy",
+            "artist": "NCT U (Baby Don't Stop)",
+            "bonusTo": "03-17"
+        }
+    },
+    "nct u (baggy jeans)": {
+        "02-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaehyun",
+            "bonusTo": "02-17",
+            "date": "02-14"
+        },
+        "06-03": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Haechan",
+            "bonusTo": "06-09",
+            "date": "06-06"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "10-23": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yuta",
+            "bonusTo": "10-29",
+            "date": "10-26"
+        },
+        "10-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Winwin",
+            "bonusTo": "10-31",
+            "date": "10-28"
+        },
+        "08-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "golden_age",
+            "artist": "NCT U (Baggy Jeans)",
+            "bonusTo": "08-31"
+        },
+        "04-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_seventh_sense",
+            "artist": "NCT U (Baggy Jeans)",
+            "bonusTo": "04-12"
+        }
+    },
+    "nct u (from home)": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "03-20": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Renjun",
+            "bonusTo": "03-26",
+            "date": "03-23"
+        },
+        "06-03": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Haechan",
+            "bonusTo": "06-09",
+            "date": "06-06"
+        },
+        "10-23": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yuta",
+            "bonusTo": "10-29",
+            "date": "10-26"
+        },
+        "11-19": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Chenle",
+            "bonusTo": "11-25",
+            "date": "11-22"
+        },
+        "12-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Kun",
+            "bonusTo": "01-04",
+            "date": "01-01"
+        },
+        "11-20": {
+            "type": "album",
+            "bonus": 3,
+            "album": "resonance",
+            "artist": "NCT U (From Home)",
+            "bonusTo": "11-26"
+        }
+    },
+    "nct u (i.o.u)": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "02-02": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jisung",
+            "bonusTo": "02-08",
+            "date": "02-05"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "10-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yangyang",
+            "bonusTo": "10-13",
+            "date": "10-10"
+        },
+        "11-19": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Chenle",
+            "bonusTo": "11-25",
+            "date": "11-22"
+        },
+        "12-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Kun",
+            "bonusTo": "01-04",
+            "date": "01-01"
+        },
+        "11-20": {
+            "type": "album",
+            "bonus": 3,
+            "album": "resonance",
+            "artist": "NCT U (I.O.U)",
+            "bonusTo": "11-26"
+        }
+    },
+    "nct u (make a wish)": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "02-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaehyun",
+            "bonusTo": "02-17",
+            "date": "02-14"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "08-05": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Xiaojun",
+            "bonusTo": "08-11",
+            "date": "08-08"
+        },
+        "08-10": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaemin",
+            "bonusTo": "08-16",
+            "date": "08-13"
+        },
+        "10-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "resonance",
+            "artist": "NCT U (Make A Wish)",
+            "bonusTo": "10-15"
+        },
+        "12-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "make_a_wish_remix",
+            "artist": "NCT U (Make A Wish)",
+            "bonusTo": "12-19"
+        }
+    },
+    "nct u (misfit)": {
+        "02-06": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Johnny",
+            "bonusTo": "02-12",
+            "date": "02-09"
+        },
+        "04-20": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jeno",
+            "bonusTo": "04-26",
+            "date": "04-23"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "09-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Hendery",
+            "bonusTo": "10-01",
+            "date": "09-28"
+        },
+        "10-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yangyang",
+            "bonusTo": "10-13",
+            "date": "10-10"
+        },
+        "10-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "resonance",
+            "artist": "NCT U (Misfit)",
+            "bonusTo": "10-15"
+        }
+    },
+    "nct u (the 7th sense)": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "02-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaehyun",
+            "bonusTo": "02-17",
+            "date": "02-14"
+        },
+        "02-24": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ten",
+            "bonusTo": "03-02",
+            "date": "02-27"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        }
+    },
+    "nct u (universe)": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "02-16": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jungwoo",
+            "bonusTo": "02-22",
+            "date": "02-19"
+        },
+        "04-20": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jeno",
+            "bonusTo": "04-26",
+            "date": "04-23"
+        },
+        "06-03": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Haechan",
+            "bonusTo": "06-09",
+            "date": "06-06"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "08-05": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Xiaojun",
+            "bonusTo": "08-11",
+            "date": "08-08"
+        },
+        "08-10": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaemin",
+            "bonusTo": "08-16",
+            "date": "08-13"
+        },
+        "10-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yangyang",
+            "bonusTo": "10-13",
+            "date": "10-10"
+        },
+        "12-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "universe",
+            "artist": "NCT U (Universe)",
+            "bonusTo": "12-17"
+        }
+    },
+    "nct u (volcano)": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "02-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaehyun",
+            "bonusTo": "02-17",
+            "date": "02-14"
+        },
+        "02-16": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jungwoo",
+            "bonusTo": "02-22",
+            "date": "02-19"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "10-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Winwin",
+            "bonusTo": "10-31",
+            "date": "10-28"
+        },
+        "03-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "empathy",
+            "artist": "NCT U (Volcano)",
+            "bonusTo": "03-17"
+        },
+        "10-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "resonance",
+            "artist": "NCT U (Volcano)",
+            "bonusTo": "10-15"
+        }
+    },
+    "nct u (without you)": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "02-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaehyun",
+            "bonusTo": "02-17",
+            "date": "02-14"
+        },
+        "03-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "timeless",
+            "artist": "NCT U (WITHOUT YOU)",
+            "bonusTo": "03-17"
+        },
+        "04-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "without_you",
+            "artist": "NCT U (WITHOUT YOU)",
+            "bonusTo": "04-13"
+        }
+    },
+    "nct u (work it)": {
+        "02-02": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jisung",
+            "bonusTo": "02-08",
+            "date": "02-05"
+        },
+        "02-06": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Johnny",
+            "bonusTo": "02-12",
+            "date": "02-09"
+        },
+        "02-16": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jungwoo",
+            "bonusTo": "02-22",
+            "date": "02-19"
+        },
+        "02-24": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ten",
+            "bonusTo": "03-02",
+            "date": "02-27"
+        },
+        "08-10": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaemin",
+            "bonusTo": "08-16",
+            "date": "08-13"
+        },
+        "09-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Hendery",
+            "bonusTo": "10-01",
+            "date": "09-28"
+        },
+        "10-23": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yuta",
+            "bonusTo": "10-29",
+            "date": "10-26"
+        },
+        "11-20": {
+            "type": "album",
+            "bonus": 3,
+            "album": "resonance",
+            "artist": "NCT U (Work It)",
+            "bonusTo": "11-26"
+        }
+    },
+    "nct u (yestoday)": {
+        "01-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Doyoung",
+            "bonusTo": "02-04",
+            "date": "02-01"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "03-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "empathy",
+            "artist": "NCT U (YESTODAY)",
+            "bonusTo": "03-17"
+        }
+    },
+    "nct wish": {
+        "04-02": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yushi",
+            "bonusTo": "04-08",
+            "date": "04-05"
+        },
+        "05-08": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Sion",
+            "bonusTo": "05-14",
+            "date": "05-11"
+        },
+        "06-18": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jaehee",
+            "bonusTo": "06-24",
+            "date": "06-21"
+        },
+        "06-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Riku",
+            "bonusTo": "07-01",
+            "date": "06-28"
+        },
+        "08-01": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ryo",
+            "bonusTo": "08-07",
+            "date": "08-04"
+        },
+        "11-15": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Sakuya",
+            "bonusTo": "11-21",
+            "date": "11-18"
+        },
+        "09-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "steady",
+            "artist": "NCT WISH",
+            "bonusTo": "09-27"
+        },
+        "04-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "poppop",
+            "artist": "NCT WISH",
+            "bonusTo": "04-17"
+        },
+        "02-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "wish",
+            "artist": "NCT WISH",
+            "bonusTo": "03-02"
+        },
+        "06-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "songbird",
+            "artist": "NCT WISH",
+            "bonusTo": "07-04"
+        }
+    },
+    "onew": {
+        "12-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "voice",
+            "artist": "ONEW",
+            "bonusTo": "12-08"
+        },
+        "03-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "circle",
+            "artist": "ONEW",
+            "bonusTo": "03-09"
+        },
+        "04-08": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dice",
+            "artist": "ONEW",
+            "bonusTo": "04-14"
+        }
+    },
+    "riize": {
+        "02-27": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Wonbin",
+            "bonusTo": "03-05",
+            "date": "03-02"
+        },
+        "03-16": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Eunseok",
+            "bonusTo": "03-22",
+            "date": "03-19"
+        },
+        "03-18": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Anton",
+            "bonusTo": "03-24",
+            "date": "03-21"
+        },
+        "09-10": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Sungchan",
+            "bonusTo": "09-16",
+            "date": "09-13"
+        },
+        "11-18": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Sohee",
+            "bonusTo": "11-24",
+            "date": "11-21"
+        },
+        "11-22": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Shotaro",
+            "bonusTo": "11-28",
+            "date": "11-25"
+        },
+        "06-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "riizing",
+            "artist": "RIIZE",
+            "bonusTo": "06-20"
+        },
+        "05_16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "odyssey",
+            "artist": "RIIZE",
+            "bonusTo": "05-22"
+        },
+        "06-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "riizing",
+            "artist": "RIIZE",
+            "bonusTo": "06-19"
+        },
+        "09-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "get_a_guitar",
+            "artist": "RIIZE",
+            "bonusTo": "09-07"
+        },
+        "01-05": {
+            "type": "album",
+            "bonus": 3,
+            "album": "hug",
+            "artist": "RIIZE",
+            "bonusTo": "01-11"
+        },
+        "04-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "impossible",
+            "artist": "RIIZE",
+            "bonusTo": "04-21"
+        },
+        "01-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "love_119",
+            "artist": "RIIZE",
+            "bonusTo": "01-08"
+        },
+        "07-26": {
+            "type": "album",
+            "bonus": 3,
+            "album": "lucky",
+            "artist": "RIIZE",
+            "bonusTo": "08-01"
+        },
+        "08-18": {
+            "type": "album",
+            "bonus": 3,
+            "album": "get_a_guitar",
+            "artist": "RIIZE",
+            "bonusTo": "08-24"
+        },
+        "03-31": {
+            "type": "album",
+            "bonus": 3,
+            "album": "siren",
+            "artist": "RIIZE",
+            "bonusTo": "04-06"
+        },
+        "10-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "talk_saxy",
+            "artist": "RIIZE",
+            "bonusTo": "10-30"
+        }
+    },
+    "ryeowook": {
+        "06-18": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Ryeowook",
+            "bonusTo": "06-24",
+            "date": "06-21"
+        },
+        "04-30": {
+            "type": "album",
+            "bonus": 3,
+            "album": "a_wild_rose",
+            "artist": "RYEOWOOK",
+            "bonusTo": "05-06"
+        },
+        "11-17": {
+            "type": "album",
+            "bonus": 3,
+            "album": "its_okay",
+            "artist": "RYEOWOOK",
+            "bonusTo": "11-23"
+        },
+        "01-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_little_prince",
+            "artist": "RYEOWOOK",
+            "bonusTo": "01-31"
+        },
+        "12-30": {
+            "type": "album",
+            "bonus": 3,
+            "album": "drunk_on_love",
+            "artist": "RYEOWOOK",
+            "bonusTo": "01-05"
+        },
+        "12-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "lingering",
+            "artist": "RYEOWOOK",
+            "bonusTo": "12-22"
+        },
+        "11-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "one_and_only",
+            "artist": "RYEOWOOK",
+            "bonusTo": "12-01"
+        }
+    },
+    "red velvet": {
+        "02-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Seulgi",
+            "bonusTo": "02-13",
+            "date": "02-10"
+        },
+        "02-18": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Wendy",
+            "bonusTo": "02-24",
+            "date": "02-21"
+        },
+        "03-02": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yeri",
+            "bonusTo": "03-08",
+            "date": "03-05"
+        },
+        "03-26": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Irene",
+            "bonusTo": "04-01",
+            "date": "03-29"
+        },
+        "08-31": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Joy",
+            "bonusTo": "09-06",
+            "date": "09-03"
+        },
+        "01-26": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_perfect_red_velvet",
+            "artist": "Red Velvet",
+            "bonusTo": "02-01"
+        },
+        "11-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "perfect_velvet",
+            "artist": "Red Velvet",
+            "bonusTo": "11-20"
+        },
+        "03-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "ice_cream_cake",
+            "artist": "Red Velvet",
+            "bonusTo": "03-20"
+        },
+        "03-18": {
+            "type": "album",
+            "bonus": 3,
+            "album": "feel_my_rhythm",
+            "artist": "Red Velvet",
+            "bonusTo": "03-24"
+        },
+        "09-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "russian_roulette",
+            "artist": "Red Velvet",
+            "bonusTo": "09-10"
+        },
+        "10-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "be_natural",
+            "artist": "Red Velvet",
+            "bonusTo": "10-16"
+        },
+        "08-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "queendom",
+            "artist": "Red Velvet",
+            "bonusTo": "08-19"
+        },
+        "11-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "birthday",
+            "artist": "Red Velvet",
+            "bonusTo": "12-01"
+        },
+        "08-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "summer_magic",
+            "artist": "Red Velvet",
+            "bonusTo": "08-09"
+        },
+        "11-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "rbb",
+            "artist": "Red Velvet",
+            "bonusTo": "12-03"
+        },
+        "11-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "chill_kill",
+            "artist": "Red Velvet",
+            "bonusTo": "11-16"
+        },
+        "06-20": {
+            "type": "album",
+            "bonus": 3,
+            "album": "cosmic",
+            "artist": "Red Velvet",
+            "bonusTo": "06-26"
+        },
+        "09-05": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_red",
+            "artist": "Red Velvet",
+            "bonusTo": "09-11"
+        },
+        "09-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_red",
+            "artist": "Red Velvet",
+            "bonusTo": "09-12"
+        },
+        "12-20": {
+            "type": "album",
+            "bonus": 3,
+            "album": "finale",
+            "artist": "Red Velvet",
+            "bonusTo": "12-26"
+        },
+        "08-17": {
+            "type": "album",
+            "bonus": 3,
+            "album": "day_2",
+            "artist": "Red Velvet",
+            "bonusTo": "08-23"
+        },
+        "06-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "cosmic",
+            "artist": "Red Velvet",
+            "bonusTo": "06-27"
+        },
+        "01-29": {
+            "type": "album",
+            "bonus": 3,
+            "album": "rookie",
+            "artist": "Red Velvet",
+            "bonusTo": "02-04"
+        },
+        "06-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "day_1",
+            "artist": "Red Velvet",
+            "bonusTo": "06-22"
+        },
+        "08-18": {
+            "type": "album",
+            "bonus": 3,
+            "album": "our_beloved_boa",
+            "artist": "Red Velvet",
+            "bonusTo": "08-24"
+        },
+        "03-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "would_u",
+            "artist": "Red Velvet",
+            "bonusTo": "04-03"
+        },
+        "07-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_red_summer",
+            "artist": "Red Velvet",
+            "bonusTo": "07-12"
+        },
+        "11-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "birthday",
+            "artist": "Red Velvet",
+            "bonusTo": "11-30"
+        },
+        "12-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "wish_tree",
+            "artist": "Red Velvet",
+            "bonusTo": "12-21"
+        },
+        "08-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "happiness",
+            "artist": "Red Velvet",
+            "bonusTo": "08-07"
+        }
+    },
+    "red velvet - irene & seulgi": {
+        "02-07": {
+            "type": "birthday",
+            "bonus": 4,
+            "artist": "Seulgi",
+            "bonusTo": "02-13",
+            "date": "02-10"
+        },
+        "03-26": {
+            "type": "birthday",
+            "bonus": 4,
+            "artist": "Irene",
+            "bonusTo": "04-01",
+            "date": "03-29"
+        },
+        "07-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "monster",
+            "artist": "Red Velvet - IRENE & SEULGI",
+            "bonusTo": "07-09"
+        },
+        "07-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "naughty_remix",
+            "artist": "Red Velvet - IRENE & SEULGI",
+            "bonusTo": "08-02"
+        },
+        "05-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "tilt",
+            "artist": "Red Velvet - IRENE & SEULGI",
+            "bonusTo": "05-29"
+        }
+    },
+    "seohyun": {
+        "01-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dont_say_no",
+            "artist": "SEOHYUN",
+            "bonusTo": "01-20"
+        }
+    },
+    "seulgi": {
+        "02-07": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Seulgi",
+            "bonusTo": "02-13",
+            "date": "02-10"
+        },
+        "10-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "28_reasons",
+            "artist": "SEULGI",
+            "bonusTo": "10-07"
+        },
+        "03-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "accidentally_on_purpose",
+            "artist": "SEULGI",
+            "bonusTo": "03-13"
+        }
+    },
+    "shinee": {
+        "04-05": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Jonghyun",
+            "bonusTo": "04-11",
+            "date": "04-08"
+        },
+        "09-20": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Key",
+            "bonusTo": "09-26",
+            "date": "09-23"
+        },
+        "12-06": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Minho",
+            "bonusTo": "12-12",
+            "date": "12-09"
+        },
+        "10-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "1_of_1",
+            "artist": "SHINee",
+            "bonusTo": "10-08"
+        },
+        "07-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "lucifer",
+            "artist": "SHINee",
+            "bonusTo": "07-22"
+        },
+        "05-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "romeo",
+            "artist": "SHINee",
+            "bonusTo": "05-21"
+        },
+        "04-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "atlantis",
+            "artist": "SHINee",
+            "bonusTo": "04-15"
+        },
+        "02-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dont_call_me",
+            "artist": "SHINee",
+            "bonusTo": "02-25"
+        },
+        "10-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "year_of_us",
+            "artist": "SHINee",
+            "bonusTo": "10-17"
+        },
+        "03-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dont_call_me_remix",
+            "artist": "SHINee",
+            "bonusTo": "03-29"
+        },
+        "02-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dream_girl",
+            "artist": "SHINee",
+            "bonusTo": "02-22"
+        },
+        "06-08": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_story_of_light_2",
+            "artist": "SHINee",
+            "bonusTo": "06-14"
+        },
+        "06-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "hard",
+            "artist": "SHINee",
+            "bonusTo": "06-29"
+        },
+        "09-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "hello",
+            "artist": "SHINee",
+            "bonusTo": "10-03"
+        },
+        "07-31": {
+            "type": "album",
+            "bonus": 3,
+            "album": "married_to_the_music",
+            "artist": "SHINee",
+            "bonusTo": "08-06"
+        },
+        "05-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "poet_artist",
+            "artist": "SHINee",
+            "bonusTo": "05-28"
+        },
+        "05-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "replay",
+            "artist": "SHINee",
+            "bonusTo": "05-25"
+        },
+        "06-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_story_of_light_3",
+            "artist": "SHINee",
+            "bonusTo": "06-28"
+        },
+        "03-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "sherlock",
+            "artist": "SHINee",
+            "bonusTo": "03-22"
+        },
+        "11-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "1_and_1",
+            "artist": "SHINee",
+            "bonusTo": "11-18"
+        },
+        "04-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "why_so_serious",
+            "artist": "SHINee",
+            "bonusTo": "04-29"
+        },
+        "05-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_story_of_light_1",
+            "artist": "SHINee",
+            "bonusTo": "05-31"
+        },
+        "08-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_shinee_world",
+            "artist": "SHINee",
+            "bonusTo": "08-31"
+        },
+        "09-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_story_of_light_4",
+            "artist": "SHINee",
+            "bonusTo": "09-13"
+        },
+        "10-26": {
+            "type": "album",
+            "bonus": 3,
+            "album": "amigo",
+            "artist": "SHINee",
+            "bonusTo": "11-01"
+        }
+    },
+    "station": {
+        "12-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_warmest_gift",
+            "artist": "STATION",
+            "bonusTo": "12-16"
+        },
+        "09-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "eleven",
+            "artist": "STATION",
+            "bonusTo": "09-15"
+        },
+        "05-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "around",
+            "artist": "STATION",
+            "bonusTo": "05-15"
+        },
+        "12-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "beautiful_christmas",
+            "artist": "STATION",
+            "bonusTo": "12-17"
+        },
+        "03-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dear_dairy",
+            "artist": "STATION",
+            "bonusTo": "03-17"
+        },
+        "01-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "carpet",
+            "artist": "STATION",
+            "bonusTo": "01-13"
+        },
+        "11-26": {
+            "type": "album",
+            "bonus": 3,
+            "album": "miss_you",
+            "artist": "STATION",
+            "bonusTo": "12-02"
+        },
+        "06-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dont_need_your_love",
+            "artist": "STATION",
+            "bonusTo": "06-09"
+        },
+        "08-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "golden_age",
+            "artist": "STATION",
+            "bonusTo": "08-31"
+        },
+        "12-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "smcu_palace",
+            "artist": "STATION",
+            "bonusTo": "12-29"
+        },
+        "03-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "im_home",
+            "artist": "STATION",
+            "bonusTo": "03-31"
+        },
+        "07-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "long_flight",
+            "artist": "TAEYONG",
+            "bonusTo": "07-21"
+        },
+        "04-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "new_heroes",
+            "artist": "STATION",
+            "bonusTo": "04-09"
+        },
+        "08-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "paint_me_naked",
+            "artist": "STATION",
+            "bonusTo": "08-13"
+        },
+        "04-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "still_standing",
+            "artist": "STATION",
+            "bonusTo": "05-04"
+        },
+        "05-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "sugar",
+            "artist": "STATION",
+            "bonusTo": "05-18"
+        },
+        "11-17": {
+            "type": "album",
+            "bonus": 3,
+            "album": "this_is_your_day",
+            "artist": "STATION",
+            "bonusTo": "11-23"
+        },
+        "08-26": {
+            "type": "album",
+            "bonus": 3,
+            "album": "time",
+            "artist": "STATION",
+            "bonusTo": "09-01"
+        },
+        "09-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "we_young",
+            "artist": "STATION",
+            "bonusTo": "09-17"
+        },
+        "12-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "white_winter",
+            "artist": "STATION",
+            "bonusTo": "12-18"
+        },
+        "09-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "wow_thing",
+            "artist": "STATION",
+            "bonusTo": "10-01"
+        },
+        "10-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "written_in_the_stars",
+            "artist": "John Legend x WENDY",
+            "bonusTo": "10-22"
+        },
+        "08-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "young",
+            "artist": "STATION",
+            "bonusTo": "09-03"
+        },
+        "06-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "thats_okay",
+            "artist": "STATION",
+            "bonusTo": "07-04"
+        },
+        "04-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "ssfw",
+            "artist": "STATION",
+            "bonusTo": "04-28"
+        },
+        "01-17": {
+            "type": "album",
+            "bonus": 3,
+            "album": "hope",
+            "artist": "STATION",
+            "bonusTo": "01-23"
+        },
+        "02-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "breath",
+            "artist": "STATION",
+            "bonusTo": "02-16"
+        },
+        "02-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "cheer_man",
+            "artist": "STATION",
+            "bonusTo": "03-03"
+        },
+        "02-08": {
+            "type": "album",
+            "bonus": 3,
+            "album": "breath",
+            "artist": "STATION",
+            "bonusTo": "02-14"
+        },
+        "05-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "you",
+            "artist": "STATION",
+            "bonusTo": "05-12"
+        }
+    },
+    "suho": {
+        "05-19": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Suho",
+            "bonusTo": "05-25",
+            "date": "05-22"
+        },
+        "05-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "1_to_3",
+            "artist": "SUHO",
+            "bonusTo": "06-03"
+        },
+        "05-30": {
+            "type": "album",
+            "bonus": 3,
+            "album": "1_to_3",
+            "artist": "SUHO",
+            "bonusTo": "06-05"
+        },
+        "03-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "grey_suit",
+            "artist": "SUHO",
+            "bonusTo": "03-22"
+        },
+        "04-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "grey_suit",
+            "artist": "SUHO",
+            "bonusTo": "04-07"
+        },
+        "03-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "lets_love",
+            "artist": "SUHO",
+            "bonusTo": "04-02"
+        }
+    },
+    "sungmin": {
+        "12-29": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Sungmin",
+            "bonusTo": "01-04",
+            "date": "01-01"
+        },
+        "09-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "goodnight_summer",
+            "artist": "SUNGMIN",
+            "bonusTo": "09-10"
+        },
+        "05-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "lovesick",
+            "artist": "SUNGMIN",
+            "bonusTo": "05-13"
+        }
+    },
+    "super junior": {
+        "02-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Siwon",
+            "bonusTo": "02-13",
+            "date": "02-10"
+        },
+        "06-18": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ryeowook",
+            "bonusTo": "06-24",
+            "date": "06-21"
+        },
+        "06-28": {
+            "type": "birthday + album",
+            "bonus": 5,
+            "artist": "Leeteuk",
+            "album": "sexy_free_single",
+            "date": "07-01",
+            "bonusTo": "07-04"
+        },
+        "07-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Heechul",
+            "bonusTo": "07-13",
+            "date": "07-10"
+        },
+        "08-21": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yesung",
+            "bonusTo": "08-27",
+            "date": "08-24"
+        },
+        "09-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Shindong",
+            "bonusTo": "10-01",
+            "date": "09-28"
+        },
+        "12-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Sungmin",
+            "bonusTo": "01-04",
+            "date": "01-01"
+        },
+        "09-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "a_cha",
+            "artist": "SUPER JUNIOR",
+            "bonusTo": "09-22"
+        },
+        "07-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "devil",
+            "artist": "SUPER JUNIOR",
+            "bonusTo": "07-19"
+        },
+        "09-17": {
+            "type": "album",
+            "bonus": 3,
+            "album": "dont_don",
+            "artist": "SUPER JUNIOR",
+            "bonusTo": "09-23"
+        },
+        "08-26": {
+            "type": "album",
+            "bonus": 3,
+            "album": "mamacita",
+            "artist": "SUPER JUNIOR",
+            "bonusTo": "09-01"
+        },
+        "09-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "magic",
+            "artist": "SUPER JUNIOR",
+            "bonusTo": "09-19"
+        },
+        "12-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "super_junior",
+            "artist": "SUPER JUNIOR",
+            "bonusTo": "12-08"
+        },
+        "07-30": {
+            "type": "album",
+            "bonus": 3,
+            "album": "mr_simple",
+            "artist": "SUPER JUNIOR",
+            "bonusTo": "08-05"
+        },
+        "03-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "sorry_sorry",
+            "artist": "SUPER JUNIOR",
+            "bonusTo": "03-15"
+        },
+        "08-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "spy",
+            "artist": "SUPER JUNIOR",
+            "bonusTo": "08-08"
+        },
+        "10-20": {
+            "type": "album",
+            "bonus": 3,
+            "album": "this_is_love",
+            "artist": "SUPER JUNIOR",
+            "bonusTo": "10-26"
+        },
+        "06-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "u",
+            "artist": "SUPER JUNIOR",
+            "bonusTo": "06-10"
+        },
+        "06-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "bonamana",
+            "artist": "SUPER JUNIOR",
+            "bonusTo": "07-01"
+        },
+        "05-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "sorry_sorry",
+            "artist": "SUPER JUNIOR",
+            "bonusTo": "05-17"
+        }
+    },
+    "super junior (one more time)": {
+        "02-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Siwon",
+            "bonusTo": "02-13",
+            "date": "02-10"
+        },
+        "06-18": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ryeowook",
+            "bonusTo": "06-24",
+            "date": "06-21"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Leeteuk",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "07-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Heechul",
+            "bonusTo": "07-13",
+            "date": "07-10"
+        },
+        "08-21": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yesung",
+            "bonusTo": "08-27",
+            "date": "08-24"
+        },
+        "09-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Shindong",
+            "bonusTo": "10-01",
+            "date": "09-28"
+        },
+        "10-05": {
+            "type": "album",
+            "bonus": 3,
+            "album": "one_more_time",
+            "artist": "SUPER JUNIOR(One More Time)",
+            "bonusTo": "10-11"
+        }
+    },
+    "super junior (play)": {
+        "02-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Siwon",
+            "bonusTo": "02-13",
+            "date": "02-10"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Leeteuk",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "07-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Heechul",
+            "bonusTo": "07-13",
+            "date": "07-10"
+        },
+        "08-21": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yesung",
+            "bonusTo": "08-27",
+            "date": "08-24"
+        },
+        "09-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Shindong",
+            "bonusTo": "10-01",
+            "date": "09-28"
+        },
+        "11-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "play",
+            "artist": "SUPER JUNIOR(PLAY)",
+            "bonusTo": "11-09"
+        },
+        "04-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "replay",
+            "artist": "SUPER JUNIOR (PLAY)",
+            "bonusTo": "04-15"
+        }
+    },
+    "super junior (super junior25)": {
+        "02-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Siwon",
+            "bonusTo": "02-13",
+            "date": "02-10"
+        },
+        "06-18": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ryeowook",
+            "bonusTo": "06-24",
+            "date": "06-21"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Leeteuk",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "07-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Heechul",
+            "bonusTo": "07-13",
+            "date": "07-10"
+        },
+        "08-21": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yesung",
+            "bonusTo": "08-27",
+            "date": "08-24"
+        },
+        "09-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Shindong",
+            "bonusTo": "10-01",
+            "date": "09-28"
+        },
+        "01-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "timeless",
+            "artist": "SUPER JUNIOR (Super Junior25)",
+            "bonusTo": "01-31"
+        },
+        "07-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "keep_on_going",
+            "artist": "SUPER JUNIOR (Super Junior25)",
+            "bonusTo": "07-15"
+        },
+        "03-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_renaissance",
+            "artist": "SUPER JUNIOR (Super Junior25)",
+            "bonusTo": "03-19"
+        },
+        "02-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "winter_for_spring",
+            "artist": "SUPER JUNIOR (Super Junior25)",
+            "bonusTo": "03-03"
+        },
+        "12-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "celebration",
+            "artist": "SUPER JUNIOR (Super Junior25)",
+            "bonusTo": "12-18"
+        },
+        "07-05": {
+            "type": "album",
+            "bonus": 3,
+            "album": "super junior25",
+            "artist": "SUPER JUNIOR (Super Junior25)",
+            "bonusTo": "07-11"
+        },
+        "10-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "time_slip",
+            "artist": "SUPER JUNIOR (Super Junior25)",
+            "bonusTo": "10-17"
+        },
+        "06-08": {
+            "type": "album",
+            "bonus": 3,
+            "album": "show_time",
+            "artist": "SUPER JUNIOR (Super Junior25)",
+            "bonusTo": "06-14"
+        },
+        "11-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_melody",
+            "artist": "SUPER JUNIOR (Super Junior25)",
+            "bonusTo": "11-09"
+        }
+    },
+    "super junior-d&e": {
+        "08-31": {
+            "type": "album",
+            "bonus": 3,
+            "album": "bad_blood",
+            "artist": "SUPER JUNIOR-D&E",
+            "bonusTo": "09-06"
+        },
+        "10-30": {
+            "type": "album",
+            "bonus": 3,
+            "album": "countdown",
+            "artist": "SUPER JUNIOR-D&E",
+            "bonusTo": "11-05"
+        },
+        "03-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_beat_goes_on",
+            "artist": "SUPER JUNIOR-D&E",
+            "bonusTo": "03-09"
+        },
+        "09-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "bad_liar",
+            "artist": "SUPER JUNIOR-D&E",
+            "bonusTo": "10-01"
+        },
+        "08-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "bout_you",
+            "artist": "SUPER JUNIOR-D&E",
+            "bonusTo": "08-19"
+        },
+        "04-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "danger",
+            "artist": "SUPER JUNIOR-D&E",
+            "bonusTo": "04-17"
+        },
+        "12-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "oppa_oppa",
+            "artist": "SUPER JUNIOR-D&E",
+            "bonusTo": "12-19"
+        }
+    },
+    "super junior-k.r.y.": {
+        "06-18": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ryeowook",
+            "bonusTo": "06-24",
+            "date": "06-21"
+        },
+        "08-21": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yesung",
+            "bonusTo": "08-27",
+            "date": "08-24"
+        },
+        "06-05": {
+            "type": "album",
+            "bonus": 3,
+            "album": "when_we_were_us",
+            "artist": "SUPER JUNIOR-K.R.Y.",
+            "bonusTo": "06-11"
+        }
+    },
+    "super junior-l.s.s.": {
+        "02-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Siwon",
+            "bonusTo": "02-13",
+            "date": "02-10"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Leeteuk",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "09-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Shindong",
+            "bonusTo": "10-01",
+            "date": "09-28"
+        },
+        "01-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "suit_up",
+            "artist": "SUPER JUNIOR-L.S.S.",
+            "bonusTo": "01-25"
+        }
+    },
+    "super junior-m": {
+        "02-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Siwon",
+            "bonusTo": "02-13",
+            "date": "02-10"
+        },
+        "04-16": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Zhoumi",
+            "bonusTo": "04-22",
+            "date": "04-19"
+        },
+        "06-18": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ryeowook",
+            "bonusTo": "06-24",
+            "date": "06-21"
+        },
+        "12-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Sungmin",
+            "bonusTo": "01-04",
+            "date": "01-01"
+        },
+        "01-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "break_down",
+            "artist": "SUPER JUNIOR-M",
+            "bonusTo": "01-10"
+        },
+        "09-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "super_girl",
+            "artist": "SUPER JUNIOR-M",
+            "bonusTo": "09-27"
+        },
+        "03-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "swing",
+            "artist": "SUPER JUNIOR-M",
+            "bonusTo": "04-03"
+        },
+        "04-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "me",
+            "artist": "SUPER JUNIOR-M",
+            "bonusTo": "05-03"
+        },
+        "02-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "perfection",
+            "artist": "SUPER JUNIOR-M",
+            "bonusTo": "03-03"
+        }
+    },
+    "superm": {
+        "01-11": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Kai",
+            "bonusTo": "01-17",
+            "date": "01-14"
+        },
+        "02-24": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ten",
+            "bonusTo": "03-02",
+            "date": "02-27"
+        },
+        "06-28": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "07-30": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Mark",
+            "bonusTo": "08-05",
+            "date": "08-02"
+        },
+        "08-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "100",
+            "artist": "SuperM",
+            "bonusTo": "08-17"
+        },
+        "10-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "superm",
+            "artist": "SuperM",
+            "bonusTo": "10-07"
+        },
+        "09-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "super_one",
+            "artist": "SuperM",
+            "bonusTo": "09-28"
+        },
+        "08-29": {
+            "type": "album",
+            "bonus": 3,
+            "album": "tiger_inside",
+            "artist": "SuperM",
+            "bonusTo": "09-04"
+        }
+    },
+    "taemin": {
+        "08-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "never_gonna_dance_again_prologue",
+            "artist": "TAEMIN",
+            "bonusTo": "08-07"
+        },
+        "08-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "ace",
+            "artist": "TAEMIN",
+            "bonusTo": "08-21"
+        },
+        "05-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "advice",
+            "artist": "TAEMIN",
+            "bonusTo": "05-21"
+        },
+        "02-08": {
+            "type": "album",
+            "bonus": 3,
+            "album": "want",
+            "artist": "TAEMIN",
+            "bonusTo": "02-14"
+        },
+        "09-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "never_gonna_dance_again_act1",
+            "artist": "TAEMIN",
+            "bonusTo": "09-10"
+        },
+        "09-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "criminal_remix",
+            "artist": "TAEMIN",
+            "bonusTo": "10-01"
+        },
+        "02-20": {
+            "type": "album",
+            "bonus": 3,
+            "album": "press_it",
+            "artist": "TAEMIN",
+            "bonusTo": "02-26"
+        },
+        "10-27": {
+            "type": "album",
+            "bonus": 3,
+            "album": "guilty",
+            "artist": "TAEMIN",
+            "bonusTo": "11-02"
+        },
+        "10-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "move",
+            "artist": "TAEMIN",
+            "bonusTo": "10-19"
+        },
+        "11-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "never_gonna_dance_again_act2",
+            "artist": "TAEMIN",
+            "bonusTo": "11-12"
+        },
+        "12-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "move_ing",
+            "artist": "TAEMIN",
+            "bonusTo": "12-13"
+        }
+    },
+    "taeyeon": {
+        "03-06": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Taeyeon",
+            "bonusTo": "03-12",
+            "date": "03-09"
+        },
+        "10-29": {
+            "type": "album",
+            "bonus": 3,
+            "album": "11:11",
+            "artist": "TAEYEON",
+            "bonusTo": "11-04"
+        },
+        "11-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "to_x",
+            "artist": "TAEYEON",
+            "bonusTo": "11-30"
+        },
+        "10-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "purpose",
+            "artist": "TAEYEON",
+            "bonusTo": "10-31"
+        },
+        "03-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "four_seasons",
+            "artist": "TAEYEON",
+            "bonusTo": "03-27"
+        },
+        "11-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "letter_to_myself",
+            "artist": "TAEYEON",
+            "bonusTo": "11-21"
+        },
+        "01-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "cant_control_myself",
+            "artist": "TAEYEON",
+            "bonusTo": "01-20"
+        },
+        "06-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "something_new",
+            "artist": "TAEYEON",
+            "bonusTo": "06-21"
+        },
+        "02-11": {
+            "type": "album",
+            "bonus": 3,
+            "album": "invu",
+            "artist": "TAEYEON",
+            "bonusTo": "02-17"
+        },
+        "02-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "my_voice",
+            "artist": "TAEYEON",
+            "bonusTo": "03-03"
+        },
+        "01-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "purpose",
+            "artist": "TAEYEON",
+            "bonusTo": "01-18"
+        },
+        "12-12": {
+            "type": "album",
+            "bonus": 3,
+            "album": "what_do_i_call_you",
+            "artist": "TAEYEON",
+            "bonusTo": "12-18"
+        },
+        "05-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "happy",
+            "artist": "TAEYEON",
+            "bonusTo": "05-07"
+        },
+        "02-08": {
+            "type": "album",
+            "bonus": 3,
+            "album": "invu",
+            "artist": "TAEYEON",
+            "bonusTo": "02-14"
+        },
+        "07-05": {
+            "type": "album",
+            "bonus": 3,
+            "album": "heaven",
+            "artist": "TAEYEON",
+            "bonusTo": "07-11"
+        },
+        "04-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "my_voice_deluxe",
+            "artist": "TAEYEON",
+            "bonusTo": "04-08"
+        },
+        "01-31": {
+            "type": "album",
+            "bonus": 3,
+            "album": "rain",
+            "artist": "TAEYEON",
+            "bonusTo": "02-06"
+        },
+        "06-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "why",
+            "artist": "TAEYEON",
+            "bonusTo": "07-01"
+        },
+        "12-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "this_christmas",
+            "artist": "TAEYEON",
+            "bonusTo": "12-15"
+        },
+        "10-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "i",
+            "artist": "TAEYEON",
+            "bonusTo": "10-10"
+        },
+        "07-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "weekend",
+            "artist": "TAEYEON",
+            "bonusTo": "07-09"
+        }
+    },
+    "taeyong": {
+        "06-28": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Taeyong",
+            "bonusTo": "07-04",
+            "date": "07-01"
+        },
+        "06-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "shalala",
+            "artist": "TAEYONG",
+            "bonusTo": "06-08"
+        },
+        "02-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "tap",
+            "artist": "TAEYONG",
+            "bonusTo": "02-29"
+        }
+    },
+    "ten": {
+        "02-24": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Ten",
+            "bonusTo": "03-02",
+            "date": "02-27"
+        },
+        "03-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "stunner",
+            "artist": "TEN",
+            "bonusTo": "03-27"
+        },
+        "02-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "ten",
+            "artist": "TEN",
+            "bonusTo": "02-15"
+        },
+        "02-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "ten",
+            "artist": "TEN",
+            "bonusTo": "02-16"
+        }
+    },
+    "tiffany": {
+        "05-08": {
+            "type": "album",
+            "bonus": 3,
+            "album": "i_just_wanna_dance",
+            "artist": "TIFFANY",
+            "bonusTo": "05-14"
+        }
+    },
+    "tvxq!": {
+        "02-03": {
+            "type": "birthday",
+            "bonus": 4,
+            "artist": "U-Know",
+            "bonusTo": "02-09",
+            "date": "02-06"
+        },
+        "02-15": {
+            "type": "birthday",
+            "bonus": 4,
+            "artist": "Max",
+            "bonusTo": "02-21",
+            "date": "02-18"
+        },
+        "05-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "catch_me",
+            "artist": "TVXQ!",
+            "bonusTo": "05-25"
+        },
+        "03-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_chance_of_love",
+            "artist": "TVXQ!",
+            "bonusTo": "03-31"
+        },
+        "09-21": {
+            "type": "album",
+            "bonus": 3,
+            "album": "catch_me",
+            "artist": "TVXQ!",
+            "bonusTo": "09-27"
+        },
+        "07-17": {
+            "type": "album",
+            "bonus": 3,
+            "album": "rise_as_god",
+            "artist": "TVXQ!",
+            "bonusTo": "07-23"
+        },
+        "01-03": {
+            "type": "album",
+            "bonus": 3,
+            "album": "tense",
+            "artist": "TVXQ!",
+            "bonusTo": "01-09"
+        },
+        "12-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_truth_of_love",
+            "artist": "TVXQ!",
+            "bonusTo": "12-29"
+        },
+        "09-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "drop",
+            "artist": "TVXQ!",
+            "bonusTo": "09-28"
+        },
+        "11-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "humanoids",
+            "artist": "TVXQ!",
+            "bonusTo": "11-29"
+        },
+        "12-31": {
+            "type": "album",
+            "bonus": 3,
+            "album": "keep_your_head_down",
+            "artist": "TVXQ!",
+            "bonusTo": "01-06"
+        },
+        "02-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "spellbound",
+            "artist": "TVXQ!",
+            "bonusTo": "03-02"
+        },
+        "09-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "in_a_different_life",
+            "artist": "TVXQ!",
+            "bonusTo": "10-01"
+        }
+    },
+    "u-know": {
+        "02-03": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "U-Know",
+            "bonusTo": "02-09",
+            "date": "02-06"
+        },
+        "01-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "eeny_meeny",
+            "artist": "U-KNOW",
+            "bonusTo": "01-28"
+        },
+        "06-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "true_colors",
+            "artist": "U-KNOW",
+            "bonusTo": "06-15"
+        },
+        "01-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "noir",
+            "artist": "U-KNOW",
+            "bonusTo": "01-21"
+        },
+        "08-04": {
+            "type": "album",
+            "bonus": 3,
+            "album": "reality_show",
+            "artist": "U-KNOW",
+            "bonusTo": "08-10"
+        }
+    },
+    "wendy": {
+        "02-18": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Wendy",
+            "bonusTo": "02-24",
+            "date": "02-21"
+        },
+        "04-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "like_water",
+            "artist": "WENDY",
+            "bonusTo": "04-08"
+        },
+        "03-09": {
+            "type": "album",
+            "bonus": 3,
+            "album": "wish_you_hell",
+            "artist": "WENDY",
+            "bonusTo": "03-15"
+        }
+    },
+    "wayv": {
+        "02-24": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ten",
+            "bonusTo": "03-02",
+            "date": "02-27"
+        },
+        "08-05": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Xiaojun",
+            "bonusTo": "08-11",
+            "date": "08-08"
+        },
+        "09-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Hendery",
+            "bonusTo": "10-01",
+            "date": "09-28"
+        },
+        "10-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yangyang",
+            "bonusTo": "10-13",
+            "date": "10-10"
+        },
+        "10-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Winwin",
+            "bonusTo": "10-31",
+            "date": "10-28"
+        },
+        "12-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Kun",
+            "bonusTo": "01-04",
+            "date": "01-01"
+        },
+        "03-07": {
+            "type": "album",
+            "bonus": 3,
+            "album": "kick_back",
+            "artist": "WayV",
+            "bonusTo": "03-13"
+        },
+        "06-06": {
+            "type": "album",
+            "bonus": 3,
+            "album": "awaken_the_world",
+            "artist": "WayV",
+            "bonusTo": "06-12"
+        },
+        "10-29": {
+            "type": "album",
+            "bonus": 3,
+            "album": "on_my_youth",
+            "artist": "WayV",
+            "bonusTo": "11-04"
+        },
+        "12-25": {
+            "type": "album",
+            "bonus": 3,
+            "album": "phantom",
+            "artist": "WayV",
+            "bonusTo": "12-31"
+        },
+        "11-05": {
+            "type": "album",
+            "bonus": 3,
+            "album": "on_my_youth",
+            "artist": "WayV",
+            "bonusTo": "11-11"
+        },
+        "06-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "awaken_the_world",
+            "artist": "WayV",
+            "bonusTo": "06-21"
+        }
+    },
+    "wayv (frequency)": {
+        "02-24": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ten",
+            "bonusTo": "03-02",
+            "date": "02-27"
+        },
+        "08-05": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Xiaojun",
+            "bonusTo": "08-11",
+            "date": "08-08"
+        },
+        "09-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Hendery",
+            "bonusTo": "10-01",
+            "date": "09-28"
+        },
+        "10-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yangyang",
+            "bonusTo": "10-13",
+            "date": "10-10"
+        },
+        "12-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Kun",
+            "bonusTo": "01-04",
+            "date": "01-01"
+        },
+        "11-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "frequency",
+            "artist": "WayV (FREQUENCY)",
+            "bonusTo": "11-28"
+        },
+        "05-30": {
+            "type": "album",
+            "bonus": 3,
+            "album": "give_me_that",
+            "artist": "WayV (FREQUENCY)",
+            "bonusTo": "06-05"
+        },
+        "05-31": {
+            "type": "album",
+            "bonus": 3,
+            "album": "give_me_that",
+            "artist": "WayV (FREQUENCY)",
+            "bonusTo": "06-06"
+        }
+    },
+    "wayv (phantom)": {
+        "02-24": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Ten",
+            "bonusTo": "03-02",
+            "date": "02-27"
+        },
+        "08-05": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Xiaojun",
+            "bonusTo": "08-11",
+            "date": "08-08"
+        },
+        "09-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Hendery",
+            "bonusTo": "10-01",
+            "date": "09-28"
+        },
+        "10-07": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Yangyang",
+            "bonusTo": "10-13",
+            "date": "10-10"
+        },
+        "10-25": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Winwin",
+            "bonusTo": "10-31",
+            "date": "10-28"
+        },
+        "12-29": {
+            "type": "birthday",
+            "bonus": 2,
+            "artist": "Kun",
+            "bonusTo": "01-04",
+            "date": "01-01"
+        }
+    },
+    "wayv-kun&xiaojun": {
+        "08-05": {
+            "type": "birthday",
+            "bonus": 4,
+            "artist": "Xiaojun",
+            "bonusTo": "08-11",
+            "date": "08-08"
+        },
+        "12-29": {
+            "type": "birthday",
+            "bonus": 4,
+            "artist": "Kun",
+            "bonusTo": "01-04",
+            "date": "01-01"
+        },
+        "06-13": {
+            "type": "album",
+            "bonus": 3,
+            "album": "back_to_you",
+            "artist": "WayV-KUN&XIAOJUN",
+            "bonusTo": "06-19"
+        }
+    },
+    "yesung": {
+        "08-21": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Yesung",
+            "bonusTo": "08-27",
+            "date": "08-24"
+        },
+        "10-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "unfading_sense",
+            "artist": "YESUNG",
+            "bonusTo": "10-07"
+        },
+        "02-24": {
+            "type": "album",
+            "bonus": 3,
+            "album": "floral_sense",
+            "artist": "YESUNG",
+            "bonusTo": "03-02"
+        },
+        "01-22": {
+            "type": "album",
+            "bonus": 3,
+            "album": "sensory_flows",
+            "artist": "YESUNG",
+            "bonusTo": "01-28"
+        },
+        "11-02": {
+            "type": "album",
+            "bonus": 3,
+            "album": "its_complicated",
+            "artist": "YESUNG",
+            "bonusTo": "11-08"
+        },
+        "06-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "pink_magic",
+            "artist": "YESUNG",
+            "bonusTo": "06-21"
+        },
+        "04-30": {
+            "type": "album",
+            "bonus": 3,
+            "album": "beautiful_night",
+            "artist": "YESUNG",
+            "bonusTo": "05-06"
+        },
+        "12-14": {
+            "type": "album",
+            "bonus": 3,
+            "album": "whatcha_doin",
+            "artist": "YESUNG",
+            "bonusTo": "12-20"
+        },
+        "04-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "spring_falling",
+            "artist": "YESUNG",
+            "bonusTo": "04-21"
+        },
+        "04-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "here_i_am",
+            "artist": "YESUNG",
+            "bonusTo": "04-22"
+        }
+    },
+    "yoona": {
+        "05-27": {
+            "type": "birthday + album",
+            "bonus": 9,
+            "artist": "Yoona",
+            "album": "a_walk_to_remember",
+            "date": "05-30",
+            "bonusTo": "06-02"
+        },
+        "09-05": {
+            "type": "album",
+            "bonus": 3,
+            "album": "when_the_wind_blows",
+            "artist": "YOONA",
+            "bonusTo": "09-11"
+        },
+        "05-10": {
+            "type": "album",
+            "bonus": 3,
+            "album": "to_you",
+            "artist": "YOONA",
+            "bonusTo": "05-16"
+        }
+    },
+    "yuri": {
+        "12-02": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Yuri",
+            "bonusTo": "12-08",
+            "date": "12-05"
+        },
+        "10-01": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_first_scene",
+            "artist": "YURI",
+            "bonusTo": "10-07"
+        }
+    },
+    "zhoumi": {
+        "04-16": {
+            "type": "birthday",
+            "bonus": 6,
+            "artist": "Zhoumi",
+            "bonusTo": "04-22",
+            "date": "04-19"
+        },
+        "05-29": {
+            "type": "album",
+            "bonus": 3,
+            "album": "manana",
+            "artist": "ZHOUMI",
+            "bonusTo": "06-04"
+        },
+        "10-28": {
+            "type": "album",
+            "bonus": 3,
+            "album": "rewind",
+            "artist": "ZHOUMI",
+            "bonusTo": "11-03"
+        },
+        "06-19": {
+            "type": "album",
+            "bonus": 3,
+            "album": "starry_night",
+            "artist": "ZHOUMI",
+            "bonusTo": "06-25"
+        },
+        "07-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "whats_your_number",
+            "artist": "ZHOUMI",
+            "bonusTo": "07-22"
+        },
+        "12-16": {
+            "type": "album",
+            "bonus": 3,
+            "album": "the_lonely_flame",
+            "artist": "ZHOUMI",
+            "bonusTo": "12-22"
+        }
+    },
+    "xiumin": {
+        "09-23": {
+            "type": "album",
+            "bonus": 3,
+            "album": "brand_new",
+            "artist": "XIUMIN",
+            "bonusTo": "09-29"
+        }
+    }
+}

@@ -6,6 +6,9 @@ import {
     catfact,
     worldRecordRanking,
     interactiveWorldRecordRanking,
+    personalBonuses,
+    setPersonalBonuses,
+    rmPersonalBonuses,
 } from "./commands/index.js";
 import {
     musicMappings,
@@ -131,10 +134,35 @@ client.on("interactionCreate", async (interaction) => {
                 ephemeral: true,
             });
         }
-
-        const songData = musicMappings[artist][title];
-
         await interactiveWorldRecordRanking(interaction);
+    } else if (commandName == "setbonus") {
+        const userId = interaction.user.id;
+        const artist = interaction.options.getString("artist");
+
+        if (!musicMappings[artist]) {
+            return interaction.reply({
+                content: `Artist "${artist}" not found.`,
+                ephemeral: true,
+            });
+        }
+
+        await setPersonalBonuses(interaction, userId);
+    } else if (commandName == "rmbonus") {
+        const userId = interaction.user.id;
+        const artist = interaction.options.getString("artist");
+
+        if (!musicMappings[artist]) {
+            return interaction.reply({
+                content: `Artist "${artist}" not found.`,
+                ephemeral: true,
+            });
+        }
+
+        await rmPersonalBonuses(interaction, userId);
+    } else if (commandName === "favbonus") {
+        const userId = interaction.user.id;
+
+        await personalBonuses(interaction, userId);
     }
 });
 

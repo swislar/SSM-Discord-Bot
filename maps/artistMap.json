@@ -77,7 +77,7 @@
     "nct walk": "nct 127 (walk)",
     "walk": "nct 127 (walk)",
     "nct touch": "nct 127 (touch)",
-    "touch": "touch",
+    "touch": "nct 127 (touch)",
     "fire truck": "nct 127 (fire truck)",
     "regular": "nct 127 (regular)",
     "djj": "nct dojaejung",

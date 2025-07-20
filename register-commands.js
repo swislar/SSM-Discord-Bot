@@ -41,31 +41,39 @@ const commands = [
             },
         ],
     },
+    {
+        name: "setbonus",
+        description: "Set favourite artist for weekly bonus tracking.",
+        options: [
+            {
+                name: "artist",
+                description: "Artist name",
+                type: ApplicationCommandOptionType.String,
+                required: true,
+                autocomplete: true,
+                // choices: artistChoices,
+            },
+        ],
+    },
+    {
+        name: "rmbonus",
+        description: "Remove favourite artist for weekly bonus tracking.",
+        options: [
+            {
+                name: "artist",
+                description: "Artist name",
+                type: ApplicationCommandOptionType.String,
+                required: true,
+                autocomplete: true,
+                // choices: artistChoices,
+            },
+        ],
+    },
+    {
+        name: "favbonus",
+        description: "View favourite artist bonuses this week.",
+    },
 ];
-
-// const commands = [
-//     new SlashCommandBuilder() // Recommended way to build commands
-//         .setName("lb")
-//         .setDescription(
-//             "Gets the World Record Rankings for the selected Artist - Title."
-//         )
-//         .addStringOption(
-//             (option) =>
-//                 option
-//                     .setName("artist")
-//                     .setDescription("Artist name")
-//                     .setRequired(true)
-//             .setAutocomplete(true) // Optional: If you want artist autocomplete as well
-//         )
-//         .addStringOption(
-//             (option) =>
-//                 option
-//                     .setName("title")
-//                     .setDescription("Music title")
-//                     .setRequired(true)
-//                     .setAutocomplete(true) // Crucial: This enables autocomplete for titles
-//         ),
-// ];
 
 const rest = new REST({ version: "10" }).setToken(process.env.LOGIN_TOKEN);
 
