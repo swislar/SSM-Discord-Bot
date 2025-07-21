@@ -7641,7 +7641,7 @@
         "express mode": {
             "artist": "SUPER JUNIOR (Super Junior25)",
             "title": "Express Mode",
-            "album": "super junior25",
+            "album": "super_junior25",
             "id": "1191",
             "bonus_from": "07-05",
             "bonus_to": "07-11"
@@ -9591,7 +9591,7 @@
         "prologue": {
             "artist": "æspa",
             "title": "Prologue",
-            "album": "",
+            "album": "armageddon",
             "id": "1776214648R66",
             "bonus_from": "05-24",
             "bonus_to": "05-30"
