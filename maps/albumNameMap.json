@@ -1,0 +1,712 @@
+{
+    "amber": {
+        "countdown": "Countdown + Beautiful",
+        "beautiful": "Beautiful",
+        "need_to_feel_needed": "Need to Feel Needed",
+        "white_noise": "White Noise + Lost at Sea"
+    },
+    "baekhyun": {
+        "amusement_park": "Amusement Park",
+        "bambi": "Bambi",
+        "bambi_brllnt_remix": "Bambi (BRLLNT Remix)",
+        "city_lights": "City Lights",
+        "candy": "Candy",
+        "our_beloved_boa": "Our Beloved BoA"
+    },
+    "boa": {
+        "forgive_me": "Forgive Me",
+        "summer_vacation_in_smtown": "Summer Vacation in SMTOWN",
+        "better": "Better",
+        "starry_night": "Starry Night",
+        "camo": "Camo",
+        "christmas_paradise": "Christmas Paradise",
+        "copy_and_paste": "Copy & Paste",
+        "hurricane_venus": "Hurricane Venus",
+        "eat_you_up": "Eat You Up",
+        "emptiness": "Emptiness",
+        "miracle": "Miracle",
+        "feedback": "Feedback",
+        "kiss_my_lips": "Kiss My Lips",
+        "girls_on_top": "Girls on Top",
+        "id_peace_b": "ID; Peace B",
+        "atlantis_princess": "Atlantis Princess",
+        "rock_with_you": "Rock With You",
+        "my_name": "My Name",
+        "no_matter_what": "No. 1",
+        "number_one": "Number 1",
+        "only_one": "Only One",
+        "one_shot_two_shot": "One Shot, Two Shot",
+        "woman": "Woman",
+        "disturbance": "Disturbance",
+        "nega_dola": "Nega Dola",
+        "merry_chri": "Merry Christmas from BoA",
+        "spring_rain": "Spring Rain"
+    },
+    "chanyeol": {
+        "black_out": "Black Out",
+        "good_enough": "Good Enough"
+    },
+    "chen": {
+        "hello": "Hello",
+        "last_scene": "Last Scene",
+        "april_and_a_flower": "April, and a Flower",
+        "shall_we": "Shall We?"
+    },
+    "d.o.": {
+        "somebody": "Somebody",
+        "rose": "Rose"
+    },
+    "donghae": {
+        "california_love": "California Love"
+    },
+    "doyoung": {
+        "youth": "Youth",
+        "soar": "Soar",
+        "the_story": "The Story"
+    },
+    "eunhyuk": {
+        "be": "Be"
+    },
+    "exo": {
+        "tempo": "Don't Mess Up My Tempo",
+        "the_elyxion": "The EℓyXiOn",
+        "the_power_of_music": "The Power of Music",
+        "exist": "Exist",
+        "the_war": "The War",
+        "the_war_c": "The War",
+        "let_me_in": "Let Me In",
+        "universe": "Universe",
+        "love_shot": "Love Shot"
+    },
+    "exo (don't fight the feeling)": {
+        "dont_fight_the_feeling": "Don't Fight the Feeling"
+    },
+    "exo (obsession)": {
+        "obsession": "Obsession"
+    },
+    "exo-cbx": {
+        "hey_mama": "Hey Mama!",
+        "the_elyxion": "The EℓyXiOn",
+        "blooming_days": "Blooming Days"
+    },
+    "exo-k": {
+        "xoxo": "XOXO",
+        "ex_act": "Ex'Act",
+        "exodus": "Exodus",
+        "exology": "EXOLOGY Chapter 1: The Lost Planet",
+        "for_life": "For Life",
+        "sing_for_you": "Sing for You",
+        "history": "History",
+        "lightsaber": "Lightsaber",
+        "lotto": "Lotto",
+        "love_me_right": "Love Me Right",
+        "mama": "Mama",
+        "miracles_in_december": "Miracles in December",
+        "overdose": "Overdose",
+        "tempo": "Don't Mess Up My Tempo"
+    },
+    "exo-m": {
+        "xoxo": "XOXO",
+        "ex_act": "Ex'Act",
+        "exodus": "Exodus",
+        "exology": "EXOLOGY Chapter 1: The Lost Planet",
+        "sing_for_you": "Sing for You",
+        "history": "History",
+        "lightsaber": "Lightsaber",
+        "lotto": "Lotto",
+        "love_me_right": "Love Me Right",
+        "mama": "Mama",
+        "miracles_in_december": "Miracles in December",
+        "overdose": "Overdose",
+        "for_life": "For Life",
+        "tempo": "Don't Mess Up My Tempo"
+    },
+    "exo-sc": {
+        "1_billion_views": "1 Billion Views",
+        "1_billion_views_remix": "1 Billion Views (Remix)",
+        "telephone": "Telephone",
+        "what_a_life": "What a Life"
+    },
+    "f(x)": {
+        "wish_list": "12:25 (Wish List)",
+        "4_walls": "4 Walls",
+        "pink_tape": "Pink Tape",
+        "all_mine": "All Mine",
+        "electric_shock": "Electric Shock",
+        "chu": "Chu~♡",
+        "red_light": "Red Light",
+        "hot_summer": "Hot Summer",
+        "la_cha_ta": "La Cha Ta",
+        "nu_abo": "Nu ABO",
+        "pinocchio": "Pinocchio"
+    },
+    "girls' generation": {
+        "holiday_night": "Holiday Night",
+        "girls_generation": "Girls' Generation",
+        "oh": "Oh!",
+        "catch_me_if_you_can": "Catch Me If You Can",
+        "forever_1": "Forever 1",
+        "i_got_a_boy": "I Got a Boy",
+        "genie": "Genie",
+        "gee": "Gee",
+        "mr_mr": "Mr.Mr",
+        "lion_heart": "Lion Heart",
+        "the_boys": "The Boys",
+        "party": "Party",
+        "run_devil_run": "Run Devil Run",
+        "into_the_new_world": "Into the New World",
+        "hoot": "Hoot"
+    },
+    "girls' generation-oh!gg": {
+        "lil_touch": "Lil' Touch",
+        "smcu_express": "SMCU Express"
+    },
+    "girls' generation-tts": {
+        "twinkle": "Twinkle",
+        "dear_santa": "Dear Santa",
+        "holler": "Holler"
+    },
+    "got the beat": {
+        "stamp_on_it": "Stamp on It",
+        "step_back": "Step Back"
+    },
+    "henry": {
+        "trap": "Trap",
+        "fantastic": "Fantastic",
+        "monster": "Monster",
+        "im_good": "I'm Good",
+        "real_love": "Real Love"
+    },
+    "hearts2hearts": {
+        "the_chase": "The Chase",
+        "style": "Style"
+    },
+    "hyo": {
+        "badster": "Badster",
+        "deep": "Deep",
+        "dessert": "Dessert",
+        "sober": "Sober",
+        "picture": "Picture",
+        "punk_right_now": "Punk Right Now",
+        "retro_romance": "Retro Romance",
+        "second": "Second",
+        "wannabe": "Wannabe"
+    },
+    "irene": {
+        "like_a_flower": "Like a Flower"
+    },
+    "jaehyun": {
+        "j": "J",
+        "unconditional": "Unconditional"
+    },
+    "jonghyun": {
+        "base": "Base",
+        "story_op2": "Story Op.2",
+        "she_is": "She Is",
+        "story_op1": "Story Op.1"
+    },
+    "joy": {
+        "hello": "Hello"
+    },
+    "kai": {
+        "wait_on_me": "Wait On Me",
+        "peaches": "Peaches",
+        "rover": "Rover",
+        "kai": "Kai"
+    },
+    "kangta": {
+        "home": "Home",
+        "cough_syrup": "Cough Syrup",
+        "eyes_on_you": "Eyes on You",
+        "freezing": "Freezing",
+        "polaris": "Polaris",
+        "free_to_fly": "Free to Fly"
+    },
+    "key": {
+        "bad_love": "Bad Love",
+        "gasoline": "Gasoline",
+        "good_and_great": "Good & Great",
+        "face": "Face",
+        "cold": "Cold",
+        "forever_yours": "Forever Yours",
+        "hate_that": "Hate That",
+        "killer": "Killer",
+        "i_wanna_be": "I Wanna Be",
+        "pleasure_shop": "Pleasure Shop"
+    },
+    "kyuhyun": {
+        "the_day_we_meet_again": "The Day We Meet Again",
+        "coffee": "Coffee",
+        "daystar": "Daystar",
+        "dreaming": "Dreaming",
+        "gwanghwamun": "Gwanghwamun",
+        "love_story": "Love Story",
+        "moving_on": "Moving On",
+        "together": "Together",
+        "goodbye_for_now": "Goodbye For Now",
+        "fall_once_again": "Fall, Once Again",
+        "waiting_still": "Waiting Still"
+    },
+    "lay": {
+        "honey": "Honey",
+        "sheep": "Sheep",
+        "lose_control": "Lose Control",
+        "namanana": "NAMANANA"
+    },
+    "lucas": {
+        "renegade": "Renegade"
+    },
+    "luna": {
+        "free_somebody": "Free Somebody",
+        "night_reminiscin": "Night Reminiscin'",
+        "even_so": "Even So"
+    },
+    "m&d": {
+        "diy": "M&D (Miari & Dangae)",
+        "old_movie": "Old Movie",
+        "goody_bag": "Goody Bag"
+    },
+    "mark": {
+        "the_firstfruit": "The First Fruit",
+        "200": "200%",
+        "child": "Child",
+        "fraktsiya": "Fraktsiya",
+        "golden_hour": "Golden Hour"
+    },
+    "max changmin": {
+        "all_that_love": "All That Love",
+        "chocolate": "Chocolate",
+        "devil": "Devil"
+    },
+    "minho": {
+        "call_back": "Call Back",
+        "chase": "Chase",
+        "heartbreak": "Heartbreak",
+        "stay_for_a_night": "Stay For A Night"
+    },
+    "nct 127 (fact check)": {
+        "2_baddies": "2 Baddies",
+        "fact_check": "Fact Check",
+        "ay_yo": "Ay-Yo",
+        "be_there_for_me": "Be There For Me",
+        "neo_zone": "Neo Zone",
+        "sticker": "Sticker",
+        "favourite": "Favourite",
+        "superhuman": "Superhuman",
+        "kick_it_remix": "Kick It (Remix)",
+        "regulate": "Regulate"
+    },
+    "nct 127 (fire truck)": {
+        "fire_truck": "Fire Truck"
+    },
+    "nct 127 (regular)": {
+        "regulate": "Regulate",
+        "irregular": "Irregular"
+    },
+    "nct 127 (touch)": {
+        "cherry_bomb": "Cherry Bomb",
+        "limitless": "Limitless",
+        "empathy": "Empathy"
+    },
+    "nct 127 (walk)": {
+        "walk": "Walk"
+    },
+    "nct dojaejung": {
+        "perfume": "Perfume"
+    },
+    "nct dream (go back to the future)": {
+        "we_go_up": "We Go Up",
+        "hot_sauce": "Hot Sauce",
+        "glitch_mode": "Glitch Mode",
+        "beatbox": "Beatbox",
+        "dream()scape": "Dream(𝄞)scape",
+        "broken_melodies": "Broken Melodies",
+        "go_back_to_the_future": "Go Back to the Future",
+        "hello_future": "Hello Future",
+        "candy": "Candy",
+        "dreamscape": "Dreamscape",
+        "empathy": "Empathy",
+        "istj": "ISTJ",
+        "resonance": "Resonance",
+        "candle_light": "Candle Light"
+    },
+    "nct dream (my first)": {
+        "joy": "Joy",
+        "we_young": "We Young",
+        "the_first": "The First"
+    },
+    "nct dream (reload)": {
+        "we_boom": "We Boom",
+        "reload": "Reload",
+        "ridin_remix": "Ridin' Remix"
+    },
+    "nct u (90's love)": {
+        "resonance": "Resonance"
+    },
+    "nct u (baby don't stop)": {
+        "empathy": "Empathy"
+    },
+    "nct u (baggy jeans)": {
+        "golden_age": "Golden Age",
+        "the_seventh_sense": "The 7th Sense"
+    },
+    "nct u (from home)": {
+        "resonance": "Resonance"
+    },
+    "nct u (i.o.u)": {
+        "resonance": "Resonance"
+    },
+    "nct u (make a wish)": {
+        "resonance": "Resonance",
+        "make_a_wish_remix": "Make A Wish (Birthday Song) Remix"
+    },
+    "nct u (misfit)": {
+        "resonance": "Resonance"
+    },
+    "nct u (universe)": {
+        "universe": "Universe"
+    },
+    "nct u (volcano)": {
+        "empathy": "Empathy",
+        "resonance": "Resonance"
+    },
+    "nct u (without you)": {
+        "timeless": "Timeless",
+        "without_you": "Without You"
+    },
+    "nct u (work it)": {
+        "resonance": "Resonance"
+    },
+    "nct u (yestoday)": {
+        "empathy": "Empathy"
+    },
+    "nct wish": {
+        "steady": "Steady",
+        "poppop": "Pop Pop",
+        "wish": "Wish",
+        "songbird": "Songbird"
+    },
+    "naevis": {
+        "done": "Done"
+    },
+    "onew": {
+        "voice": "Voice",
+        "circle": "Circle",
+        "dice": "Dice"
+    },
+    "red velvet": {
+        "the_perfect_red_velvet": "The Perfect Red Velvet",
+        "perfect_velvet": "Perfect Velvet",
+        "ice_cream_cake": "Ice Cream Cake",
+        "feel_my_rhythm": "Feel My Rhythm",
+        "russian_roulette": "Russian Roulette",
+        "be_natural": "Be Natural",
+        "queendom": "Queendom",
+        "birthday": "Birthday",
+        "summer_magic": "Summer Magic",
+        "rbb": "RBB",
+        "chill_kill": "Chill Kill",
+        "the_velvet": "The Velvet",
+        "cosmic": "Cosmic",
+        "the_red": "The Red",
+        "finale": "Finale",
+        "day_2": "Day 2",
+        "rookie": "Rookie",
+        "day_1": "Day 1",
+        "our_beloved_boa": "Our Beloved Boa",
+        "would_u": "Would U",
+        "the_red_summer": "The Red Summer",
+        "wish_tree": "Wish Tree",
+        "happiness": "Happiness"
+    },
+    "red velvet - irene & seulgi": {
+        "monster": "Monster",
+        "naughty_remix": "Naughty Remix",
+        "tilt": "Tilt"
+    },
+    "riize": {
+        "riizing": "RIIZE",
+        "odyssey": "Odyssey",
+        "epilogue": "Epilogue",
+        "get_a_guitar": "Get a Guitar",
+        "hug": "HUG",
+        "impossible": "Impossible",
+        "love_119": "Love 119",
+        "lucky": "Lucky",
+        "siren": "Siren",
+        "talk_saxy": "Talk Saxy"
+    },
+    "ryeowook": {
+        "a_wild_rose": "A Wild Rose",
+        "its_okay": "It's Okay",
+        "the_little_prince": "The Little Prince",
+        "drunk_on_love": "Drunk On Love",
+        "lingering": "Lingering",
+        "one_and_only": "One and Only"
+    },
+    "seohyun": {
+        "dont_say_no": "Don't Say No"
+    },
+    "seulgi": {
+        "28_reasons": "28 Reasons",
+        "accidentally_on_purpose": "Accidentally on Purpose"
+    },
+    "shinee": {
+        "1_of_1": "1 of 1",
+        "lucifer": "Lucifer",
+        "odd": "Odd",
+        "atlantis": "Atlantis",
+        "dont_call_me": "Don't Call Me",
+        "everybody": "Everybody",
+        "dont_call_me_remix": "Don't Call Me Remix",
+        "dream_girl": "Dream Girl",
+        "the_story_of_light_2": "The Story of Light EP.2",
+        "hard": "Hard",
+        "hello": "Hello",
+        "year_of_us": "Year of Us",
+        "married_to_the_music": "Married to the Music",
+        "poet_artist": "Poet | Artist",
+        "replay": "Replay",
+        "the_story_of_light_3": "The Story of Light EP.3",
+        "sherlock": "Sherlock",
+        "1_and_1": "1 and 1",
+        "why_so_serious": "Why So Serious?",
+        "the_story_of_light_1": "The Story of Light EP.1",
+        "the_shinee_world": "The SHINee World",
+        "the_story_of_light_4": "The Story of Light EP.4",
+        "amigo": "Amigo",
+        "romeo": "Romeo"
+    },
+    "station": {
+        "the_warmest_gift": "The Warmest Gift",
+        "eleven": "Eleven",
+        "around": "Around",
+        "beautiful_christmas": "Beautiful Christmas",
+        "dreamworks": "Dreamworks",
+        "black_on_black": "Black on Black",
+        "carpet": "Carpet",
+        "coffee_break": "Coffee Break",
+        "coming_home": "Coming Home",
+        "miss_you": "Miss You",
+        "dont_need_your_love": "Don't Need Your Love",
+        "golden_age": "Golden Age",
+        "smcu_palace": "SMCU Palace",
+        "im_home": "I'm Home",
+        "long_flight": "Long Flight",
+        "new_heroes": "New Heroes",
+        "page_0": "Page 0",
+        "paint_me_naked": "Paint Me Naked",
+        "still_standing": "Still Standing",
+        "sugar": "Sugar",
+        "this_is_your_day": "This Is Your Day",
+        "time": "Time",
+        "we_young": "We Young",
+        "white_winter": "White Winter",
+        "wow_thing": "Wow Thing",
+        "written_in_the_stars": "Written in the Stars",
+        "young": "Young",
+        "thats_okay": "That's Okay",
+        "ssfw": "SSFW",
+        "hope": "Hope",
+        "dear_dairy": "Dear Dairy",
+        "breath": "Breath",
+        "cheer_man": "Cheer Man",
+        "you": "You"
+    },
+    "suho": {
+        "1_to_3": "1/3",
+        "grey_suit": "Grey Suit",
+        "lets_love": "Let’s Love"
+    },
+    "super junior": {
+        "a_cha": "A-CHA",
+        "devil": "Devil",
+        "dont_don": "Sorry, Sorry",
+        "mamacita": "MAMACITA",
+        "magic": "Magic",
+        "super_junior": "Super Junior",
+        "mr_simple": "Mr. Simple",
+        "sexy_free_single": "Sexy, Free & Single",
+        "sorry_sorry": "Sorry, Sorry",
+        "spy": "Spy",
+        "this_is_love": "This Is Love",
+        "u": "U",
+        "bonamana": "Bonamana"
+    },
+    "super junior-d&e": {
+        "bad_blood": "Bad Blood",
+        "countdown": "Countdown",
+        "the_beat_goes_on": "The Beat Goes On",
+        "bad_liar": "Bad Liar",
+        "bout_you": "Bout You",
+        "danger": "Danger",
+        "oppa_oppa": "Oppa, Oppa"
+    },
+    "super junior-k.r.y.": {
+        "when_we_were_us": "When We Were Us"
+    },
+    "super junior-l.s.s.": {
+        "suit_up": "Suit Up"
+    },
+    "super junior-m": {
+        "break_down": "Break Down",
+        "super_girl": "Super Girl",
+        "swing": "Swing",
+        "me": "Me",
+        "perfection": "Perfection"
+    },
+    "super junior (one more time)": {
+        "one_more_time": "One More Time"
+    },
+    "super junior (play)": {
+        "play": "Play",
+        "replay": "Replay"
+    },
+    "super junior (super junior25)": {
+        "timeless": "Timeless",
+        "keep_on_going": "Keep On Going",
+        "the_renaissance": "The Renaissance",
+        "winter_for_spring": "Winter for Spring",
+        "celebration": "Celebration",
+        "super_junior25": "Super Junior 25",
+        "time_slip": "Time Slip",
+        "show_time": "Show Time",
+        "the_melody": "The Melody"
+    },
+    "superm": {
+        "100": "100",
+        "superm": "SuperM",
+        "super_one": "Super One",
+        "tiger_inside": "Tiger Inside"
+    },
+    "sungmin": {
+        "goodnight_summer": "Goodnight Summer",
+        "lovesick": "Lovesick"
+    },
+    "taemin": {
+        "never_gonna_dance_again_prologue": "Never Gonna Dance Again: Prologue",
+        "ace": "ACE",
+        "advice": "Advice",
+        "want": "Want",
+        "never_gonna_dance_again_act1": "Never Gonna Dance Again: Act 1",
+        "criminal_remix": "Criminal (Remix)",
+        "press_it": "Press It",
+        "guilty": "Guilty",
+        "move": "Move",
+        "never_gonna_dance_again_act2": "Never Gonna Dance Again: Act 2",
+        "move_ing": "Move-ing"
+    },
+    "taeyeon": {
+        "11:11": "11:11",
+        "to_x": "To X",
+        "purpose": "Purpose",
+        "four_seasons": "Four Seasons",
+        "letter_to_myself": "Letter to Myself",
+        "cant_control_myself": "Can't Control Myself",
+        "something_new": "Something New",
+        "invu": "INVU",
+        "my_voice": "My Voice",
+        "what_do_i_call_you": "What Do I Call You",
+        "happy": "Happy",
+        "heaven": "Heaven",
+        "my_voice_deluxe": "My Voice (Deluxe)",
+        "rain": "Rain",
+        "why": "Why",
+        "this_christmas": "This Christmas",
+        "i": "I",
+        "weekend": "Weekend"
+    },
+    "taeyong": {
+        "shalala": "Shalala",
+        "tap": "TAP"
+    },
+    "ten": {
+        "stunner": "Stunner",
+        "ten": "Ten"
+    },
+    "tiffany": {
+        "i_just_wanna_dance": "I Just Wanna Dance"
+    },
+    "tvxq!": {
+        "catch_me": "Catch Me",
+        "the_chance_of_love": "The Chance of Love",
+        "rise_as_god": "Rise as God",
+        "tense": "Tense",
+        "20&2": "20&2",
+        "drop": "Drop",
+        "humanoids": "Humanoids",
+        "keep_your_head_down": "Keep Your Head Down",
+        "the_truth_of_love": "The Truth of Love",
+        "spellbound": "Spellbound",
+        "in_a_different_life": "In a Different Life"
+    },
+    "u-know": {
+        "eeny_meeny": "Eeny Meeny",
+        "true_colors": "True Colors",
+        "noir": "Noir",
+        "reality_show": "Reality Show"
+    },
+    "wayv": {
+        "kick_back": "Kick Back",
+        "awaken_the_world": "Awaken The World",
+        "on_my_youth": "On My Youth",
+        "phantom": "Phantom"
+    },
+    "wayv (frequency)": {
+        "frequency": "Frequency",
+        "give_me_that": "Give Me That"
+    },
+    "wayv-kun&xiaojun": {
+        "back_to_you": "Back To You"
+    },
+    "wendy": {
+        "like_water": "Like Water",
+        "wish_you_hell": "Wish You Hell"
+    },
+    "xiumin": {
+        "brand_new": "Brand New"
+    },
+    "yesung": {
+        "unfading_sense": "Unfading Sense",
+        "floral_sense": "Floral Sense",
+        "sensory_flows": "Sensory Flows",
+        "its_complicated": "It's Complicated",
+        "pink_magic": "Pink Magic",
+        "beautiful_night": "Beautiful Night",
+        "whatcha_doin": "Whatcha Doin'",
+        "spring_falling": "Spring Falling",
+        "here_i_am": "Here I Am"
+    },
+    "yoona": {
+        "a_walk_to_remember": "A Walk to Remember",
+        "when_the_wind_blows": "When The Wind Blows",
+        "to_you": "To You"
+    },
+    "yuri": {
+        "the_first_scene": "The First Scene"
+    },
+    "zhoumi": {
+        "manana": "MaNana",
+        "rewind": "Rewind",
+        "starry_night": "Starry Night",
+        "whats_your_number": "What's Your Number?",
+        "the_lonely_flame": "The Lonely Flame"
+    },
+    "aespa": {
+        "savage": "Savage",
+        "armageddon": "Armageddon",
+        "black_mamba": "Black Mamba",
+        "synk_parallel_line": "Synk, Parallel Line",
+        "dirty_work": "Dirty Work",
+        "drama": "Drama",
+        "smcu_express": "SMCU Express",
+        "whiplash": "Whiplash",
+        "forever": "Forever",
+        "girls": "Girls",
+        "my_world": "My World",
+        "jingle_bell_rock": "Jingle Bell Rock",
+        "next_level": "Next Level",
+        "시대유감": "시대유감",
+        "supernova": "Supernova"
+    }
+}
