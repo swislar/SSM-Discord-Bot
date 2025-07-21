@@ -6,9 +6,9 @@ import {
     catfact,
     worldRecordRanking,
     interactiveWorldRecordRanking,
-    personalBonuses,
-    setPersonalBonuses,
-    rmPersonalBonuses,
+    favouriteBonuses,
+    addFavouriteBonus,
+    removeFavouriteBonus,
 } from "./commands/index.js";
 import {
     musicMappings,
@@ -135,7 +135,7 @@ client.on("interactionCreate", async (interaction) => {
             });
         }
         await interactiveWorldRecordRanking(interaction);
-    } else if (commandName == "setbonus") {
+    } else if (commandName == "addbonus") {
         const userId = interaction.user.id;
         const artist = interaction.options.getString("artist");
 
@@ -146,8 +146,8 @@ client.on("interactionCreate", async (interaction) => {
             });
         }
 
-        await setPersonalBonuses(interaction, userId);
-    } else if (commandName == "rmbonus") {
+        await addFavouriteBonus(interaction, userId);
+    } else if (commandName == "removebonus") {
         const userId = interaction.user.id;
         const artist = interaction.options.getString("artist");
 
@@ -158,11 +158,11 @@ client.on("interactionCreate", async (interaction) => {
             });
         }
 
-        await rmPersonalBonuses(interaction, userId);
-    } else if (commandName === "favbonus") {
+        await removeFavouriteBonus(interaction, userId);
+    } else if (commandName === "bonus") {
         const userId = interaction.user.id;
 
-        await personalBonuses(interaction, userId);
+        await favouriteBonuses(interaction, userId);
     }
 });
 

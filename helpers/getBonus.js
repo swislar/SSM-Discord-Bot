@@ -1,4 +1,4 @@
-import { bonusMap } from "../maps/index.js";
+import { bonusMappings } from "../maps/index.js";
 
 export const getBonus = () => {
     const today = new Date();
@@ -19,8 +19,8 @@ export const getBonus = () => {
     const startYear = startDate.getFullYear();
     const endYear = endDate.getFullYear();
 
-    for (const groupName in bonusMap) {
-        const entries = bonusMap[groupName];
+    for (const groupName in bonusMappings) {
+        const entries = bonusMappings[groupName];
 
         for (const bonusFromDateKey in entries) {
             const bonusDetails = entries[bonusFromDateKey];

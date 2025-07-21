@@ -42,7 +42,7 @@ const commands = [
         ],
     },
     {
-        name: "setbonus",
+        name: "addbonus",
         description: "Set favourite artist for weekly bonus tracking.",
         options: [
             {
@@ -56,7 +56,7 @@ const commands = [
         ],
     },
     {
-        name: "rmbonus",
+        name: "removebonus",
         description: "Remove favourite artist for weekly bonus tracking.",
         options: [
             {
@@ -70,7 +70,7 @@ const commands = [
         ],
     },
     {
-        name: "favbonus",
+        name: "bonus",
         description: "View favourite artist bonuses this week.",
     },
 ];
