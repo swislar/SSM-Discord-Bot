@@ -7,8 +7,9 @@ import {
     worldRecordRanking,
     interactiveWorldRecordRanking,
     favouriteBonuses,
-    addFavouriteBonus,
-    removeFavouriteBonus,
+    addFavGroup,
+    removeFavGroup,
+    favGroups,
 } from "./commands/index.js";
 import {
     musicMappings,
@@ -135,8 +136,7 @@ client.on("interactionCreate", async (interaction) => {
             });
         }
         await interactiveWorldRecordRanking(interaction);
-    } else if (commandName == "addbonus") {
-        const userId = interaction.user.id;
+    } else if (commandName == "addfav") {
         const artist = interaction.options.getString("artist");
 
         if (!musicMappings[artist]) {
@@ -145,10 +145,8 @@ client.on("interactionCreate", async (interaction) => {
                 ephemeral: true,
             });
         }
-
-        await addFavouriteBonus(interaction, userId);
-    } else if (commandName == "removebonus") {
-        const userId = interaction.user.id;
+        await addFavGroup(interaction);
+    } else if (commandName == "removefav") {
         const artist = interaction.options.getString("artist");
 
         if (!musicMappings[artist]) {
@@ -157,12 +155,13 @@ client.on("interactionCreate", async (interaction) => {
                 ephemeral: true,
             });
         }
-
-        await removeFavouriteBonus(interaction, userId);
+        await removeFavGroup(interaction);
+    } else if (commandName === "favgroups") {
+        await favGroups(interaction);
     } else if (commandName === "bonus") {
-        const userId = interaction.user.id;
-
-        await favouriteBonuses(interaction, userId);
+        await favouriteBonuses(interaction, true);
+    } else if (commandName === "bonusall") {
+        await favouriteBonuses(interaction, false);
     }
 });
 
