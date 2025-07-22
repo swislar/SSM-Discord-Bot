@@ -1,8 +1,10 @@
 import fs from "fs/promises";
 import path from "path";
 import { artistMappings } from "../maps/index.js";
+import { formatFavGroups } from "../helpers/index.js";
 
-export const addFavouriteBonus = async (interaction, userId) => {
+export const addFavGroup = async (interaction) => {
+    const userId = interaction.user.id;
     const artistRaw = interaction.options.getString("artist");
     const artistOriginal = artistRaw.toLowerCase();
     const artist = artistMappings[artistOriginal] ?? artistOriginal;
@@ -27,9 +29,11 @@ export const addFavouriteBonus = async (interaction, userId) => {
         data[userId].push(artist);
     }
 
-    await fs.writeFile(filePath, JSON.stringify(data, null, 2), "utf-8");
-
     await interaction.editReply(
-        `Added \"${artist}\" to your favorite artists!`
+        `Added \"${artist}\" to your favorite artists!\n\nYou have the following groups in your favourites list.${formatFavGroups(
+            data[userId]
+        )}`
     );
+
+    await fs.writeFile(filePath, JSON.stringify(data, null, 2), "utf-8");
 };

@@ -1,8 +1,10 @@
 import fs from "fs/promises";
 import path from "path";
 import { artistMappings } from "../maps/index.js";
+import { formatFavGroups } from "../helpers/index.js";
 
-export const removeFavouriteBonus = async (interaction, userId) => {
+export const removeFavGroup = async (interaction) => {
+    const userId = interaction.user.id;
     const artistRaw = interaction.options.getString("artist");
     const artistOriginal = artistRaw.toLowerCase();
     const artist = artistMappings[artistOriginal] ?? artistOriginal;
@@ -29,9 +31,11 @@ export const removeFavouriteBonus = async (interaction, userId) => {
     if (data[userId].length === 0) {
         delete data[userId];
     }
+    await interaction.editReply(
+        `Removed \"${artist}\" from your favorite artists.\n\nYou have the following groups in your favourites list.${formatFavGroups(
+            data[userId]
+        )}`
+    );
 
     await fs.writeFile(filePath, JSON.stringify(data, null, 2), "utf-8");
-    await interaction.editReply(
-        `Removed \"${artist}\" from your favorite artists.`
-    );
 };

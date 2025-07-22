@@ -5,10 +5,8 @@ import {
     ActionRowBuilder,
 } from "discord.js";
 import { musicMappings, albumNameMappings } from "../maps/index.js";
-import fs from "fs";
-import path from "path";
 
-export const favBonusMessage = async (interaction, bonus) => {
+export const favBonusMessage = async (interaction, bonus, filtered) => {
     if (!bonus || bonus.length === 0) {
         await interaction.editReply({
             content: "❌ No favorite bonuses found!",
@@ -96,62 +94,159 @@ export const favBonusMessage = async (interaction, bonus) => {
         } else if (daysLeft === 0) {
             status = "🚨 **Ending soon!**";
         } else if (daysLeft < 0) {
-            status = "❌~~[Ended]~~";
+            status = "❌";
         } else {
             status = `⏳ **${daysLeft} day${daysLeft === 1 ? "" : "s"} left**`;
         }
 
-        let line =
-            "\n" +
-            (daysLeft < 0 ? "~~" : "") +
-            status +
-            " " +
-            ` | ${formatMonthDay(b.bonusFrom)} → ${formatMonthDay(b.bonusTo)}` +
-            (daysLeft < 0 ? "~~" : "");
+        let line = "\n";
+        const formattedDate = `${formatMonthDay(
+            b.bonusFrom
+        )} → ${formatMonthDay(b.bonusTo)}`;
 
-        line +=
-            `\n🏷️ ${getGroupName(b.group)} [${b.bonus}%] ` +
-            (b.bonus === 5 ? `🎂 x 💿` : b.bonus === 3 ? `💿` : `🎂`) +
-            ` 《${
+        if (daysLeft < 0) {
+            line += `${status} ${getGroupName(b.group)} [${b.bonus}%]  《${
                 b.type === "birthday + album"
                     ? `${b.artist} x ${getAlbumName(b.group, b.album)}`
                     : b.type === "album"
                     ? `${getAlbumName(b.group, b.album)}`
                     : `${b.artist}`
-            }》`;
-
-        // For album bonuses, append music titles, visually connected
-        if (b.type === "album" && b.album) {
-            const titles = getMusicTitles(b.group, b.album);
-            if (titles.length > 0) {
-                line +=
-                    "\n" +
-                    titles
-                        .map(
-                            (t, idx) =>
-                                `   ${
-                                    idx === titles.length - 1 ? "┗ " : "┣ "
-                                } 🎶 ${t}`
-                        )
-                        .join("\n");
+            }》 | ${formattedDate}`;
+            if (b.type === "album" && b.album) {
+                const titles = getMusicTitles(b.group, b.album);
+                if (titles.length > 0) {
+                    line +=
+                        "\n" +
+                        titles
+                            .map(
+                                (t, idx) =>
+                                    `   ${
+                                        idx === titles.length - 1 ? "┗ " : "┣ "
+                                    }  ~~${t}~~`
+                            )
+                            .join("\n");
+                }
+            }
+        } else {
+            line += `${status} | ${formattedDate}`;
+            line +=
+                `\n🏷️ ${getGroupName(b.group)} [${b.bonus}%] ` +
+                (b.bonus === 5 ? `🎂 x 💿` : b.bonus === 3 ? `💿` : `🎂`) +
+                ` 《${
+                    b.type === "birthday + album"
+                        ? `${b.artist} x ${getAlbumName(b.group, b.album)}`
+                        : b.type === "album"
+                        ? `${getAlbumName(b.group, b.album)}`
+                        : `${b.artist}`
+                }》`;
+            if (b.type === "album" && b.album) {
+                const titles = getMusicTitles(b.group, b.album);
+                if (titles.length > 0) {
+                    line +=
+                        "\n" +
+                        titles
+                            .map(
+                                (t, idx) =>
+                                    `   ${
+                                        idx === titles.length - 1 ? "┗ " : "┣ "
+                                    } 🎶 ${t}`
+                            )
+                            .join("\n");
+                }
             }
         }
+
         return line;
     });
 
-    const embed = new EmbedBuilder()
-        .setColor("#f7b731")
-        .setTitle("🌟 Your Favorite Bonuses 🌟")
-        .setDescription(
-            `You have no favorite artists set, so here are all available bonuses:\n${bonusLines.join(
-                "\n"
-            )}`
-        )
-        .setFooter({ text: `Total bonuses: ${bonus.length}` });
+    // Pagination logic
+    const LINES_PER_PAGE = 5;
+    const pages = [];
+    for (let i = 0; i < bonusLines.length; i += LINES_PER_PAGE) {
+        pages.push(bonusLines.slice(i, i + LINES_PER_PAGE));
+    }
+    let currentPage = 0;
 
-    await interaction.editReply({
-        embeds: [embed],
+    const createEmbed = () => {
+        const embed = new EmbedBuilder()
+            .setColor("#f7b731")
+            .setTitle("🌟 Your Favorite Bonuses 🌟")
+            .setFooter({
+                text: `Page ${currentPage + 1} of ${
+                    pages.length
+                } | Total bonus sets: ${bonus.length}`,
+            });
+        if (filtered) {
+            embed.setDescription(`${pages[currentPage].join("\n")}`);
+        } else {
+            embed.setDescription(
+                `You have no favorite artists set, so here are all available bonuses:\n${pages[
+                    currentPage
+                ].join("\n")}`
+            );
+        }
+        return embed;
+    };
+
+    // Create buttons
+    const previousButton = new ButtonBuilder()
+        .setCustomId("favbonus_previous")
+        .setLabel("⬅️")
+        .setStyle(ButtonStyle.Primary)
+        .setDisabled(currentPage === 0);
+
+    const nextButton = new ButtonBuilder()
+        .setCustomId("favbonus_next")
+        .setLabel("➡️")
+        .setStyle(ButtonStyle.Primary)
+        .setDisabled(currentPage === pages.length - 1);
+
+    const row = new ActionRowBuilder().addComponents(
+        previousButton,
+        nextButton
+    );
+
+    // Send initial embed with buttons
+    const msg = await interaction.editReply({
+        embeds: [createEmbed()],
+        components: [row],
         content: null,
+    });
+
+    // Create button collector
+    const collector = msg.createMessageComponentCollector({
+        filter: (i) => i.user.id === interaction.user.id,
+        time: 60000,
+    });
+
+    collector.on("collect", async (btnInteraction) => {
+        if (
+            btnInteraction.customId === "favbonus_next" &&
+            currentPage < pages.length - 1
+        ) {
+            currentPage++;
+        } else if (
+            btnInteraction.customId === "favbonus_previous" &&
+            currentPage > 0
+        ) {
+            currentPage--;
+        }
+        // Update buttons state
+        previousButton.setDisabled(currentPage === 0);
+        nextButton.setDisabled(currentPage === pages.length - 1);
+        await btnInteraction.update({
+            embeds: [createEmbed()],
+            components: [
+                new ActionRowBuilder().addComponents(
+                    previousButton,
+                    nextButton
+                ),
+            ],
+        });
+    });
+
+    collector.on("end", () => {
+        msg.edit({ components: [] }).catch(() => {});
     });
     return;
 };

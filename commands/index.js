@@ -4,5 +4,6 @@ export * from "./catfact.js";
 export * from "./worldRecordRanking.js";
 export * from "./interactiveWorldRecordRanking.js";
 export * from "./favouriteBonuses.js";
-export * from "./addFavouriteBonus.js";
-export * from "./removeFavouriteBonus.js";
+export * from "./addFavGroup.js";
+export * from "./removeFavGroup.js";
+export * from "./favGroups.js";
