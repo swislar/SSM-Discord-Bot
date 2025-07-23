@@ -5000,6 +5000,14 @@
             "bonus_from": "09-21",
             "bonus_to": "09-27"
         },
+        "hands up (korean ver.)": {
+            "artist": "NCT WISH",
+            "title": "Hands Up (Korean Ver.)",
+            "album": "steady",
+            "id": "1194",
+            "bonus_from": "09-21",
+            "bonus_to": "09-27"
+        },
         "melt inside my pocket": {
             "artist": "NCT WISH",
             "title": "Melt Inside My Pocket",
@@ -8955,9 +8963,17 @@
             "bonus_to": "06-21"
         }
     },
-    "wayv (frequency)": {
+    "wayv (big bands)": {
+        "big bands (狂想曲)": {
+            "artist": "WayV (BIG BANDS)",
+            "title": "BIG BANDS (狂想曲)",
+            "album": "big_bands",
+            "id": "1195",
+            "bonus_from": "07-15",
+            "bonus_to": "07-21"
+        },
         "frequency (korean ver.)": {
-            "artist": "WayV (FREQUENCY)",
+            "artist": "WayV (BIG BANDS)",
             "title": "FREQUENCY (Korean Ver.)",
             "album": "frequency",
             "id": "1132",
@@ -8965,7 +8981,7 @@
             "bonus_to": "11-28"
         },
         "give me that": {
-            "artist": "WayV (FREQUENCY)",
+            "artist": "WayV (BIG BANDS)",
             "title": "Give Me That",
             "album": "give_me_that",
             "id": "1074",
@@ -8973,7 +8989,7 @@
             "bonus_to": "06-05"
         },
         "high five": {
-            "artist": "WayV (FREQUENCY)",
+            "artist": "WayV (BIG BANDS)",
             "title": "HIGH FIVE",
             "album": "frequency",
             "id": "1144",
@@ -8981,7 +8997,7 @@
             "bonus_to": "11-28"
         },
         "she a wolf": {
-            "artist": "WayV (FREQUENCY)",
+            "artist": "WayV (BIG BANDS)",
             "title": "She A Wolf",
             "album": "give_me_that",
             "id": "1086",

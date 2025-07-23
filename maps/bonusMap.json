@@ -5523,13 +5523,20 @@
             "bonusTo": "06-21"
         }
     },
-    "wayv (frequency)": {
+    "wayv (big bands)": {
         "02-24": {
             "type": "birthday",
             "bonus": 2,
             "artist": "Ten",
             "bonusTo": "03-02",
             "date": "02-27"
+        },
+        "07-15": {
+            "type": "album",
+            "bonus": 3,
+            "album": "big_bands",
+            "artist": "WayV (BIG BANDS)",
+            "bonusTo": "07-21"
         },
         "08-05": {
             "type": "birthday",
@@ -5563,21 +5570,21 @@
             "type": "album",
             "bonus": 3,
             "album": "frequency",
-            "artist": "WayV (FREQUENCY)",
+            "artist": "WayV (BIG BANDS)",
             "bonusTo": "11-28"
         },
         "05-30": {
             "type": "album",
             "bonus": 3,
             "album": "give_me_that",
-            "artist": "WayV (FREQUENCY)",
+            "artist": "WayV (BIG BANDS)",
             "bonusTo": "06-05"
         },
         "05-31": {
             "type": "album",
             "bonus": 3,
             "album": "give_me_that",
-            "artist": "WayV (FREQUENCY)",
+            "artist": "WayV (BIG BANDS)",
             "bonusTo": "06-06"
         }
     },
