@@ -5,7 +5,7 @@ export const favGroups = async (interaction) => {
     const userId = interaction.user.id;
     const groups = userBonusFav[userId] ?? [];
 
-    await interaction.deferReply({ ephemeral: false });
+    await interaction.deferReply({ ephemeral: true });
 
     if (!Array.isArray(groups) || groups.length === 0) {
         await interaction.editReply(
@@ -13,7 +13,7 @@ export const favGroups = async (interaction) => {
         );
         return;
     } else {
-        let result = "You have the following groups in your favourites list.";
+        let result = `You have the following groups in your favourites list. **[${groups.length}]**`;
         result += formatFavGroups(groups);
         await interaction.editReply(result);
         return;

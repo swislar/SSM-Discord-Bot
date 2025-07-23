@@ -1,7 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
 import { artistMappings } from "../maps/index.js";
-import { formatFavGroups } from "../helpers/index.js";
+import { formatFavGroups, getGroupName } from "../helpers/index.js";
 
 export const removeFavGroup = async (interaction) => {
     const userId = interaction.user.id;
@@ -9,7 +9,7 @@ export const removeFavGroup = async (interaction) => {
     const artistOriginal = artistRaw.toLowerCase();
     const artist = artistMappings[artistOriginal] ?? artistOriginal;
 
-    await interaction.deferReply({ ephemeral: false });
+    await interaction.deferReply({ ephemeral: true });
 
     const filePath = path.resolve(process.cwd(), "./data/userBonusFav.json");
     let data = {};
@@ -32,9 +32,11 @@ export const removeFavGroup = async (interaction) => {
         delete data[userId];
     }
     await interaction.editReply(
-        `Removed \"${artist}\" from your favorite artists.\n\nYou have the following groups in your favourites list.${formatFavGroups(
-            data[userId]
-        )}`
+        `Removed **${getGroupName(
+            artist
+        )}** from your favorite artists.\nYou have the following groups in your favourites list. **[${
+            data[userId].length
+        }]**${formatFavGroups(data[userId])}`
     );
 
     await fs.writeFile(filePath, JSON.stringify(data, null, 2), "utf-8");
