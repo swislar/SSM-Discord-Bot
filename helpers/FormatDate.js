@@ -28,6 +28,12 @@ export class FormatDate {
         return new Date(year, month - 1, day);
     }
 
+    quarter(monthDate) {
+        const startDate = this.parseDate(monthDate);
+        const month = startDate.getMonth();
+        return Math.floor(month / 3) + 1;
+    }
+
     getDaysRemaining(to) {
         let end = this.parseDate(to);
         if (

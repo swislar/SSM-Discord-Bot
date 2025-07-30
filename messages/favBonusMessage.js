@@ -10,6 +10,7 @@ import {
     getAlbumName,
     getAllMusicTitles,
     importantBonus,
+    processOverlapBonus,
 } from "../helpers/index.js";
 
 export const favBonusMessage = async (interaction, bonus, filtered) => {
@@ -21,9 +22,11 @@ export const favBonusMessage = async (interaction, bonus, filtered) => {
         return;
     }
 
+    const processedBonus = processOverlapBonus(bonus);
+
     const formatDate = new FormatDate();
 
-    const bonusLines = bonus.map((b) => {
+    const bonusLines = processedBonus.map((b) => {
         const daysLeft = formatDate.getDaysRemaining(b.bonusTo);
         const daysUntil = formatDate.getDaysUntil(b.bonusFrom);
         const important = importantBonus(
