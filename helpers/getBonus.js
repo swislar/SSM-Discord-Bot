@@ -48,11 +48,13 @@ export const getBonus = () => {
             }
 
             if (isMatch) {
-                upcomingBonuses.push({
-                    group: groupName,
-                    bonusFrom: bonusFromDateKey,
-                    ...bonusDetails,
-                });
+                for (const bonus of bonusDetails) {
+                    upcomingBonuses.push({
+                        group: groupName,
+                        bonusFrom: bonusFromDateKey,
+                        ...bonus,
+                    });
+                }
             }
         }
     }

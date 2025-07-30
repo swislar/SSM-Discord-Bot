@@ -9,6 +9,7 @@ import {
     getGroupName,
     getAlbumName,
     getAllMusicTitles,
+    importantBonus,
 } from "../helpers/index.js";
 
 export const favBonusMessage = async (interaction, bonus, filtered) => {
@@ -25,6 +26,12 @@ export const favBonusMessage = async (interaction, bonus, filtered) => {
     const bonusLines = bonus.map((b) => {
         const daysLeft = formatDate.getDaysRemaining(b.bonusTo);
         const daysUntil = formatDate.getDaysUntil(b.bonusFrom);
+        const important = importantBonus(
+            b.group,
+            b.bonus,
+            b.type,
+            formatDate.parseDate(b.bonusFrom)
+        );
         let status = "";
         if (daysUntil > 0) {
             status = `🕒 **Starting in ${daysUntil} day${
@@ -88,7 +95,7 @@ export const favBonusMessage = async (interaction, bonus, filtered) => {
                                 (t, idx) =>
                                     `   ${
                                         idx === titles.length - 1 ? "┗ " : "┣ "
-                                    } 🎶 ${t}`
+                                    } ${important ? "💎" : "🎶"} ${t}`
                             )
                             .join("\n");
                 }
