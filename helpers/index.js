@@ -6,4 +6,6 @@ export * from "./getBonus.js";
 export * from "./getGroupName.js";
 export * from "./getAllMusicTitles.js";
 export * from "./formatFavGroups.js";
+export * from "./importantBonus.js";
+export * from "./processOverlapBonus.js";
 export * from "./FormatDate.js";
