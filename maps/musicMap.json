@@ -6450,6 +6450,14 @@
             "bonus_from": "03-16",
             "bonus_to": "03-22"
         },
+        "starlight": {
+            "artist": "SHINee",
+            "title": "Starlight",
+            "album": "poet_artist",
+            "id": "1196",
+            "bonus_from": "05-22",
+            "bonus_to": "05-28"
+        },
         "tell me what to do": {
             "artist": "SHINee",
             "title": "Tell Me What To Do",
@@ -9393,6 +9401,14 @@
             "title": "Dirty Work",
             "album": "dirty_work",
             "id": "1188",
+            "bonus_from": "06-24",
+            "bonus_to": "06-30"
+        },
+        "dirty work [verse 2]": {
+            "artist": "æspa",
+            "title": "Dirty Work [Verse 2]",
+            "album": "dirty_work",
+            "id": "1197",
             "bonus_from": "06-24",
             "bonus_to": "06-30"
         },
