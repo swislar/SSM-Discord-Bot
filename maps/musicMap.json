@@ -5254,6 +5254,14 @@
             "bonus_from": "08-03",
             "bonus_to": "08-09"
         },
+        "bubble": {
+            "artist": "Red Velvet",
+            "title": "Bubble",
+            "album": "cosmic",
+            "id": "1198",
+            "bonus_from": "06-20",
+            "bonus_to": "06-26"
+        },
         "butterflies": {
             "artist": "Red Velvet",
             "title": "Butterflies",
@@ -5871,7 +5879,7 @@
             "title": "Bag Bad Back",
             "album": "odyssey",
             "id": "1190",
-            "bonus_from": "05_16",
+            "bonus_from": "05-16",
             "bonus_to": "05-22"
         },
         "boom boom bass": {
@@ -5911,7 +5919,7 @@
             "title": "Fly Up",
             "album": "odyssey",
             "id": "1176",
-            "bonus_from": "05_16",
+            "bonus_from": "05-16",
             "bonus_to": "05-22"
         },
         "get a guitar": {
@@ -5953,6 +5961,14 @@
             "id": "1062",
             "bonus_from": "04-15",
             "bonus_to": "04-21"
+        },
+        "inside my love": {
+            "artist": "RIIZE",
+            "title": "Inside My Love",
+            "album": "odyssey",
+            "id": "1199",
+            "bonus_from": "05-16",
+            "bonus_to": "05-22"
         },
         "love 119": {
             "artist": "RIIZE",
@@ -6007,7 +6023,7 @@
             "title": "Odyssey",
             "album": "odyssey",
             "id": "1182",
-            "bonus_from": "05_16",
+            "bonus_from": "05-16",
             "bonus_to": "05-22"
         },
         "one kiss": {
