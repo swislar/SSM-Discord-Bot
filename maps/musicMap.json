@@ -2625,6 +2625,14 @@
             "id": "1189",
             "bonus_from": "06-15",
             "bonus_to": "06-21"
+        },
+        "style [verse 2]": {
+            "artist": "Hearts2Hearts",
+            "title": "STYLE [Verse 2]",
+            "album": "style",
+            "id": "1201",
+            "bonus_from": "06-15",
+            "bonus_to": "06-21"
         }
     },
     "henry": {
@@ -3909,6 +3917,14 @@
             "id": "717",
             "bonus_from": "09-14",
             "bonus_to": "09-20"
+        },
+        "love is a beauty (별의 시)": {
+            "artist": "NCT 127 (Fact Check)",
+            "title": "Love is a beauty (별의 시)",
+            "album": "fact_check",
+            "id": "1200",
+            "bonus_from": "10-03",
+            "bonus_to": "10-09"
         },
         "love me now": {
             "artist": "NCT 127 (Fact Check)",

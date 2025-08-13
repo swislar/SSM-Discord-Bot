@@ -512,7 +512,9 @@
         "the chase": "the chase",
         "the chase v2": "the chase [verse 2]",
         "v2 the chase": "the chase [verse 2]",
-        "style": "style"
+        "style": "style",
+        "style v2": "style [verse 2]",
+        "v2 style": "style [verse 2]"
     },
     "henry": {
         "1 4 3": "1 4 3 (i love you)",
@@ -758,6 +760,8 @@
         "kick it": "kick it",
         "kick it remix": "kick it (valentino khan remix)",
         "lemonade": "lemonade",
+        "love is a beauty": "love is a beauty (별의 시)",
+        "별의 시": "love is a beauty (별의 시)",
         "love me now": "love me now",
         "love on the floor": "love on the floor",
         "love song": "love song",
