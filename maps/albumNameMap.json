@@ -381,10 +381,11 @@
         "empathy": "Empathy"
     },
     "nct wish": {
-        "steady": "Steady",
         "poppop": "Pop Pop",
-        "wish": "Wish",
-        "songbird": "Songbird"
+        "songbird": "Songbird",
+        "steady": "Steady",
+        "surf": "Surf",
+        "wish": "Wish"
     },
     "naevis": {
         "done": "Done"
