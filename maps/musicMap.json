@@ -2813,6 +2813,14 @@
             "id": "384",
             "bonus_from": "05-29",
             "bonus_to": "06-04"
+        },
+        "yes": {
+            "artist": "HYO",
+            "title": "YES",
+            "album": "yes",
+            "id": "1205",
+            "bonus_from": "07-13",
+            "bonus_to": "07-19"
         }
     },
     "irene": {
@@ -9417,8 +9425,16 @@
             "title": "Armageddon",
             "album": "armageddon",
             "id": "1082",
-            "bonus_from": "05-23",
-            "bonus_to": "05-29"
+            "bonus_from": "05-24",
+            "bonus_to": "05-30"
+        },
+        "bahama": {
+            "artist": "æspa",
+            "title": "BAHAMA",
+            "album": "armageddon",
+            "id": "1204",
+            "bonus_from": "05-24",
+            "bonus_to": "05-30"
         },
         "black mamba": {
             "artist": "æspa",

@@ -1868,6 +1868,15 @@
                 "type": "album"
             }
         ],
+        "07-13": [
+            {
+                "album": "yes",
+                "artist": "HYO",
+                "bonus": 3,
+                "bonusTo": "07-19",
+                "type": "album"
+            }
+        ],
         "07-17": [
             {
                 "album": "badster",

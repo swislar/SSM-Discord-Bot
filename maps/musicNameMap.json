@@ -546,7 +546,9 @@
         "second v2": "second (feat. bibi) [verse 2]",
         "v2 second": "second (feat. bibi) [verse 2]",
         "stupid": "stupid",
-        "wannabe": "wannabe (feat. san e)"
+        "wannabe": "wannabe (feat. san e)",
+        "yes": "yes",
+        "YES": "yes"
     },
     "irene": {
         "like a flower": "like a flower",
@@ -1764,6 +1766,8 @@
     "aespa": {
         "aenergy": "aenergy",
         "armageddon": "armageddon",
+        "bahama": "bahama",
+        "BAHAMA": "bahama",
         "black mamba": "black mamba",
         "black mamba v2": "black mamba [verse 2]",
         "v2 black mamba": "black mamba [verse 2]",
