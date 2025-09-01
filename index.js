@@ -7,6 +7,7 @@ import {
     worldRecordRanking,
     interactiveWorldRecordRanking,
     favouriteBonuses,
+    interactiveFavouriteBonuses,
     addFavGroup,
     removeFavGroup,
     favGroups,
@@ -159,9 +160,9 @@ client.on("interactionCreate", async (interaction) => {
     } else if (commandName === "favgroups") {
         await favGroups(interaction);
     } else if (commandName === "bonus") {
-        await favouriteBonuses(interaction, true);
+        await interactiveFavouriteBonuses(interaction, true);
     } else if (commandName === "bonusall") {
-        await favouriteBonuses(interaction, false);
+        await interactiveFavouriteBonuses(interaction, false);
     }
 });
 
@@ -179,6 +180,10 @@ client.on("messageCreate", async (message) => {
         catfact(message);
     } else if (command === "lb") {
         worldRecordRanking(message, args);
+    } else if (command === "bonus") {
+        favouriteBonuses(message, true);
+    } else if (command === "bonus") {
+        favouriteBonuses(message, false);
     }
 });
 
