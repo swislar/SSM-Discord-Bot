@@ -252,6 +252,14 @@
             "bonus_from": "09-21",
             "bonus_to": "09-27"
         },
+        "crazier": {
+            "artist": "BoA",
+            "title": "Crazier",
+            "album": "crazier",
+            "id": "1207",
+            "bonus_from": "08-01",
+            "bonus_to": "08-07"
+        },
         "dangerous": {
             "artist": "BoA",
             "title": "Dangerous",
@@ -4357,7 +4365,7 @@
         "chewing gum": {
             "artist": "NCT DREAM (Go Back To The Future)",
             "title": "Chewing Gum",
-            "album": "we_go_up",
+            "album": "chewing_gum",
             "id": "275",
             "bonus_from": "08-24",
             "bonus_to": "08-30"
@@ -4365,7 +4373,7 @@
         "chewing gum (泡泡糖)(chn.)": {
             "artist": "NCT DREAM (Go Back To The Future)",
             "title": "Chewing Gum (泡泡糖)(CHN.)",
-            "album": "we_go_up",
+            "album": "chewing_gum",
             "id": "338",
             "bonus_from": "08-24",
             "bonus_to": "08-30"
@@ -6073,6 +6081,14 @@
             "id": "1098",
             "bonus_from": "06-14",
             "bonus_to": "06-20"
+        },
+        "show me love": {
+            "artist": "RIIZE",
+            "title": "Show Me Love",
+            "album": "odyssey",
+            "id": "1206",
+            "bonus_from": "05-16",
+            "bonus_to": "05-22"
         },
         "siren": {
             "artist": "RIIZE",

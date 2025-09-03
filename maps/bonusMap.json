@@ -420,6 +420,15 @@
                 "type": "album"
             }
         ],
+        "08-01": [
+            {
+                "album": "crazier",
+                "artist": "BoA",
+                "bonus": 3,
+                "bonusTo": "08-07",
+                "type": "album"
+            }
+        ],
         "08-02": [
             {
                 "album": "hurricane_venus",
@@ -3348,7 +3357,7 @@
         ],
         "08-24": [
             {
-                "album": "we_go_up",
+                "album": "chewing_gum",
                 "artist": "NCT DREAM (Go Back To The Future)",
                 "bonus": 3,
                 "bonusTo": "08-30",

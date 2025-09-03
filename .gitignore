@@ -3,4 +3,5 @@ emblems/
 albumCover/
 .env
 .DS_Store 
+.vscode
 README.md
