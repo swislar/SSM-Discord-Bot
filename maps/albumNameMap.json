@@ -384,6 +384,7 @@
         "empathy": "Empathy"
     },
     "nct wish": {
+        "color": "COLOR",
         "poppop": "Pop Pop",
         "songbird": "Songbird",
         "steady": "Steady",
@@ -670,6 +671,9 @@
     },
     "xiumin": {
         "brand_new": "Brand New"
+    },
+    "xnghan&xoul": {
+        "waste_no_time": "Waste No Time"
     },
     "yesung": {
         "unfading_sense": "Unfading Sense",

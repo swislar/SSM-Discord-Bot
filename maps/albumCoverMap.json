@@ -462,6 +462,7 @@
         "without_you": "album/nw/album_nw_wit.png?v=1"
     },
     "nct wish": {
+        "color": "update/2025/250910/20250904_110349/album_color.png?v=2509041104",
         "poppop": "update/2025/250416/20250411_155830/album_poppop.png?v=2504111558",
         "songbird": "update/2024/240703/20240701_135951/album_songbird_r169_g233_b255.png?v=2407011359",
         "steady": "update/2024/241002/20240926_152354/album_steady_r158_g0_b32.png?v=2409261524",
@@ -766,6 +767,9 @@
     },
     "xiumin": {
         "brand_new": "album/xiumin/album_brand_new_220928.png?v=22092801"
+    },
+    "xnghan&xoul": {
+        "waste_no_time": "update/2025/250910/20250904_110349/album_waste_no_time.png?v=2509041104"
     },
     "yesung": {
         "beautiful_night": "album/yesung/album_yesung_beautiful_night_210512.png?v=21051202",

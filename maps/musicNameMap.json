@@ -985,6 +985,8 @@
     "nct wish": {
         "3 minutes": "3 minutes",
         "3minutes": "3 minutes",
+        "color": "color",
+        "colour": "color",
         "dunk shot": "dunk shot",
         "dunk shot v2": "dunk shot [verse 2]",
         "v2 dunk shot": "dunk shot [verse 2]",
@@ -1718,6 +1720,11 @@
     "xiumin": {
         "brand new": "brand new",
         "how we do": "how we do (feat. mark of nct)"
+    },
+    "xnghan&xoul": {
+        "waste no time": "waste no time",
+        "wastenotime": "waste no time",
+        "wnt": "waste no time"
     },
     "yesung": {
         "butterfly": "butterfly",

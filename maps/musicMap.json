@@ -5024,6 +5024,14 @@
             "bonus_from": "09-21",
             "bonus_to": "09-27"
         },
+        "color": {
+            "artist": "NCT WISH",
+            "title": "COLOR",
+            "album": "color",
+            "id": "1208",
+            "bonus_from": "08-29",
+            "bonus_to": "09-04"
+        },
         "dunk shot": {
             "artist": "NCT WISH",
             "title": "Dunk Shot",
@@ -9169,6 +9177,16 @@
             "id": "852",
             "bonus_from": "09-23",
             "bonus_to": "09-29"
+        }
+    },
+    "xnghan&xoul": {
+        "waste no time": {
+            "artist": "XngHan&Xoul",
+            "title": "Waste No Time",
+            "album": "waste_no_time",
+            "id": "1209",
+            "bonus_from": "07-28",
+            "bonus_to": "08-03"
         }
     },
     "yesung": {
