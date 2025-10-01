@@ -3236,6 +3236,14 @@
             "bonus_from": "02-10",
             "bonus_to": "02-16"
         },
+        "hunter": {
+            "artist": "KEY",
+            "title": "HUNTER",
+            "album": "HUNTER",
+            "id": "1213",
+            "bonus_from": "08-08",
+            "bonus_to": "08-14"
+        },
         "i wanna be (feat. 소연 of (여자)아이들)": {
             "artist": "KEY",
             "title": "I Wanna Be (Feat. 소연 of (여자)아이들)",
@@ -4482,6 +4490,14 @@
             "bonus_from": "11-08",
             "bonus_to": "11-14"
         },
+        "i like it": {
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "title": "I LIKE IT",
+            "album": "go_back_to_the_future",
+            "id": "1212",
+            "bonus_from": "07-11",
+            "bonus_to": "07-17"
+        },
         "like we just met": {
             "artist": "NCT DREAM (Go Back To The Future)",
             "title": "Like We Just Met",
@@ -5151,6 +5167,14 @@
             "id": "1046",
             "bonus_from": "02-25",
             "bonus_to": "03-02"
+        },
+        "만약에 네가 4시 온다면 (still 3pm)": {
+            "artist": "NCT WISH",
+            "title": "만약에 네가 4시 온다면 (Still 3PM)",
+            "album": "poppop",
+            "id": "1216",
+            "bonus_from": "04-11",
+            "bonus_to": "04-17"
         }
     },
     "naevis": {
@@ -5161,6 +5185,14 @@
             "id": "1107",
             "bonus_from": "09-16",
             "bonus_to": "09-22"
+        },
+        "sensitive": {
+            "artist": "nævis",
+            "title": "Sensitive",
+            "album": "Sensitive",
+            "id": "1211",
+            "bonus_from": "08-04",
+            "bonus_to": "08-10"
         }
     },
     "onew": {
@@ -6113,6 +6145,14 @@
             "id": "1004",
             "bonus_from": "10-24",
             "bonus_to": "10-30"
+        },
+        "잉걸 (ember to solar)": {
+            "artist": "RIIZE",
+            "title": "잉걸 (Ember to Solar)",
+            "album": "odyssey",
+            "id": "1215",
+            "bonus_from": "05-16",
+            "bonus_to": "05-22"
         }
     },
     "ryeowook": {
@@ -9542,6 +9582,14 @@
             "bonus_from": "12-24",
             "bonus_to": "12-30"
         },
+        "drift": {
+            "artist": "æspa",
+            "title": "Drift",
+            "album": "rich_man",
+            "id": "1214",
+            "bonus_from": "09-02",
+            "bonus_to": "09-08"
+        },
         "flowers": {
             "artist": "æspa",
             "title": "Flowers",
@@ -9733,6 +9781,14 @@
             "id": "1097",
             "bonus_from": "01-12",
             "bonus_to": "01-18"
+        },
+        "rich man": {
+            "artist": "æspa",
+            "title": "Rich Man",
+            "album": "Rich Man",
+            "id": "1210",
+            "bonus_from": "09-02",
+            "bonus_to": "09-08"
         },
         "salty & sweet": {
             "artist": "æspa",

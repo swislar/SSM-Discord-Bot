@@ -90,6 +90,15 @@
                 "type": "album"
             }
         ],
+        "09-02": [
+            {
+                "album": "rich man",
+                "artist": "æspa",
+                "bonus": 3,
+                "bonusTo": "09-08",
+                "type": "album"
+            }
+        ],
         "10-02": [
             {
                 "album": "savage",
@@ -2621,6 +2630,15 @@
         ]
     },
     "naevis": {
+        "08-04": [
+            {
+                "album": "sensitive",
+                "artist": "nævis",
+                "bonus": 3,
+                "bonusTo": "08-10",
+                "type": "album"
+            }
+        ],
         "09-07": [
             {
                 "artist": "nævis",

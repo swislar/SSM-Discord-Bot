@@ -392,7 +392,8 @@
         "wish": "Wish"
     },
     "naevis": {
-        "done": "Done"
+        "done": "Done",
+        "sensitive": "Sensitive"
     },
     "onew": {
         "voice": "Voice",
@@ -713,6 +714,7 @@
         "forever": "Forever",
         "girls": "Girls",
         "my_world": "My World",
+        "rich_man": "Rich Man",
         "jingle_bell_rock": "Jingle Bell Rock",
         "next_level": "Next Level",
         "시대유감": "시대유감",
