@@ -9,16 +9,18 @@ export const getAlbumCover = async (artist, album) => {
     const artistKey = artist.toLowerCase();
     const albumKey = album.toLowerCase();
     const coverPath = albumCoverMappings[artistKey]?.[albumKey];
-    if (!coverPath) {
-        console.log(`No album cover found for ${artistKey} - ${albumKey}`);
-        return null;
-    }
+
     const filename = sanitizeFilename(`${artistKey}_${albumKey}.png`);
     const albumCoverDir = path.join(process.cwd(), "albumCover");
     const localPath = path.join(albumCoverDir, filename);
     if (fs.existsSync(localPath)) {
         console.log(`Using cached album cover for ${artistKey}: ${filename}`);
         return localPath;
+    }
+
+    if (!coverPath) {
+        console.log(`No album cover found for ${artistKey} - ${albumKey}`);
+        return null;
     }
     try {
         console.log(`Downloading album cover for ${artistKey}: ${coverPath}`);

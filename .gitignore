@@ -1,6 +1,7 @@
 node_modules/
 emblems/
 albumCover/
+Ripper/
 .env
 .DS_Store 
 .vscode
