@@ -109,7 +109,8 @@
     },
     "chanyeol": {
         "black out": "black out",
-        "good enough": "good enough"
+        "good enough": "good enough",
+        "upside down": "upside down"
     },
     "chen": {
         "hello": "hello (안녕)",
@@ -508,6 +509,10 @@
         "stamp on it": "stamp on it",
         "step back": "step back"
     },
+    "haechan": {
+        "crazy": "crzy",
+        "crzy": "crzy"
+    },
     "hearts2hearts": {
         "butterflies": "butterflies",
         "the chase": "the chase",
@@ -583,7 +588,9 @@
         "hello": "hello (안녕)",
         "안녕": "hello (안녕)",
         "if only": "if only (feat. paul kim)",
-        "je taime": "je t'aime"
+        "je taime": "je t'aime",
+        "love splash": "love splash!",
+        "love splash!": "love splash!"
     },
     "kai": {
         "adult swim": "adult swim",
@@ -739,9 +746,18 @@
         "2 baddies": "2 baddies",
         "2baddies": "2 baddies",
         "angel eyes": "angel eyes",
+        "ay-yo": "ay-yo",
         "ay yo": "ay-yo",
         "ayyo": "ay-yo",
         "ayo": "ay-yo",
+        "ay-yo v2": "ay-yo [verse 2]",
+        "v2 ay-yo": "ay-yo [verse 2]",
+        "ay yo v2": "ay-yo [verse 2]",
+        "v2 ay yo": "ay-yo [verse 2]",
+        "v2 ayyo": "ay-yo [verse 2]",
+        "ayyo v2": "ay-yo [verse 2]",
+        "v2 ayo": "ay-yo [verse 2]",
+        "ayo v2": "ay-yo [verse 2]",
         "be there for me": "be there for me",
         "black clouds": "black clouds",
         "boom": "boom",
@@ -989,6 +1005,7 @@
     "nct wish": {
         "3 minutes": "3 minutes",
         "3minutes": "3 minutes",
+        "baby blue": "baby blue",
         "color": "color",
         "colour": "color",
         "dunk shot": "dunk shot",
@@ -1150,6 +1167,7 @@
         "9 days": "9 days",
         "9days": "9 days",
         "bag bad back": "bag bad back",
+        "be my next": "be my next",
         "boom boom bass": "boom boom bass",
         "boom boom bass v2": "boom boom bass (verse 2)",
         "v2 boom boom bass": "boom boom bass (verse 2)",

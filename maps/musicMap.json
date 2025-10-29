@@ -597,6 +597,14 @@
             "id": "1149",
             "bonus_from": "10-17",
             "bonus_to": "10-23"
+        },
+        "upside down": {
+            "artist": "CHANYEOL",
+            "title": "Upside Down",
+            "album": "upside_down",
+            "id": "1220",
+            "bonus_from": "08-22",
+            "bonus_to": "08-28"
         }
     },
     "chen": {
@@ -2601,6 +2609,16 @@
             "bonus_to": "01-06"
         }
     },
+    "haechan": {
+        "crzy": {
+            "artist": "HAECHAN",
+            "title": "CRZY",
+            "album": "taste",
+            "id": "1222",
+            "bonus_from": "09-05",
+            "bonus_to": "09-11"
+        }
+    },
     "hearts2hearts": {
         "butterflies": {
             "artist": "Hearts2Hearts",
@@ -2981,6 +2999,14 @@
             "id": "679",
             "bonus_from": "05-28",
             "bonus_to": "06-03"
+        },
+        "love splash!": {
+            "artist": "JOY",
+            "title": "Love Splash!",
+            "album": "from_joy_with_love",
+            "id": "1218",
+            "bonus_from": "08-15",
+            "bonus_to": "08-21"
         }
     },
     "kai": {
@@ -3779,6 +3805,14 @@
             "title": "Ay-Yo",
             "album": "ay_yo",
             "id": "887",
+            "bonus_from": "01-27",
+            "bonus_to": "02-02"
+        },
+        "ay-yo [verse 2]": {
+            "artist": "NCT 127 (Fact Check)",
+            "title": "Ay-Yo [Verse 2]",
+            "album": "ay_yo",
+            "id": "1219",
             "bonus_from": "01-27",
             "bonus_to": "02-02"
         },
@@ -5040,6 +5074,14 @@
             "bonus_from": "09-21",
             "bonus_to": "09-27"
         },
+        "baby blue": {
+            "artist": "NCT WISH",
+            "title": "Baby Blue",
+            "album": "color",
+            "id": "1217",
+            "bonus_from": "08-29",
+            "bonus_to": "09-04"
+        },
         "color": {
             "artist": "NCT WISH",
             "title": "COLOR",
@@ -5969,6 +6011,14 @@
             "id": "1190",
             "bonus_from": "05-16",
             "bonus_to": "05-22"
+        },
+        "be my next": {
+            "artist": "RIIZE",
+            "title": "Be My Next",
+            "album": "lucky",
+            "id": "1221",
+            "bonus_from": "07-26",
+            "bonus_to": "08-01"
         },
         "boom boom bass": {
             "artist": "RIIZE",

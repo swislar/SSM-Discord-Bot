@@ -557,6 +557,15 @@
         ]
     },
     "chanyeol": {
+        "08-22": [
+            {
+                "album": "upside_down",
+                "artist": "CHANYEOL",
+                "bonus": 3,
+                "bonusTo": "08-28",
+                "type": "album"
+            }
+        ],
         "08-25": [
             {
                 "album": "black_out",
@@ -1727,6 +1736,26 @@
             }
         ]
     },
+    "haechan": {
+        "06-03": [
+            {
+                "artist": "HAECHAN",
+                "bonus": 6,
+                "bonusTo": "06-09",
+                "date": "06-06",
+                "type": "birthday"
+            }
+        ],
+        "09-05": [
+            {
+                "album": "taste",
+                "artist": "HAECHAN",
+                "bonus": 3,
+                "bonusTo": "09-11",
+                "type": "album"
+            }
+        ]
+    },
     "hearts2hearts": {
         "02-21": [
             {
@@ -2062,6 +2091,15 @@
                 "artist": "JOY",
                 "bonus": 3,
                 "bonusTo": "06-03",
+                "type": "album"
+            }
+        ],
+        "08-15": [
+            {
+                "album": "from_joy_with_love",
+                "artist": "JOY",
+                "bonus": 3,
+                "bonusTo": "08-21",
                 "type": "album"
             }
         ],

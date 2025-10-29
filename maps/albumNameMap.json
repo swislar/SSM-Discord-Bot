@@ -44,6 +44,7 @@
         "spring_rain": "Spring Rain"
     },
     "chanyeol": {
+        "upside_down": "Upside Down",
         "black_out": "Black Out",
         "good_enough": "Good Enough"
     },
@@ -171,6 +172,9 @@
         "stamp_on_it": "Stamp on It",
         "step_back": "Step Back"
     },
+    "haechan": {
+        "taste": "TASTE"
+    },
     "henry": {
         "trap": "Trap",
         "fantastic": "Fantastic",
@@ -208,6 +212,7 @@
         "story_op1": "Story Op.1"
     },
     "joy": {
+        "from_joy_with_love": "From JOY, with Love",
         "hello": "Hello"
     },
     "kai": {
