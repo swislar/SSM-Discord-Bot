@@ -2628,6 +2628,14 @@
             "bonus_from": "02-21",
             "bonus_to": "02-27"
         },
+        "focus": {
+            "artist": "Hearts2Hearts",
+            "title": "FOCUS",
+            "album": "FOCUS",
+            "id": "1223",
+            "bonus_from": "10-17",
+            "bonus_to": "10-23"
+        },
         "the chase": {
             "artist": "Hearts2Hearts",
             "title": "The Chase",
@@ -7239,6 +7247,14 @@
             "id": "560",
             "bonus_from": "03-27",
             "bonus_to": "04-02"
+        },
+        "who are you": {
+            "artist": "SUHO",
+            "title": "Who Are You",
+            "album": "who_are_you",
+            "id": "1224",
+            "bonus_from": "09-19",
+            "bonus_to": "09-025"
         },
         "사랑, 하자 (let’s love)": {
             "artist": "SUHO",

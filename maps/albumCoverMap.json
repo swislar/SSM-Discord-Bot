@@ -196,6 +196,7 @@
         "taste": ""
     },
     "hearts2hearts": {
+        "focus": "",
         "style": "update/2025/250702/20250630_104401/album_style.png?v=2506301044",
         "the_chase": "update/2025/250226/20250224_102412/album_the_chase_r255_g255_b255.png?v=2502241024"
     },
@@ -607,7 +608,8 @@
     "suho": {
         "1_to_3": "update/2024/240605/20240603_155155/album_cheese_r191_g164_b138.png?v=2406031551",
         "grey_suit": "album/suho/album_suho_grey_suit_v2_220406.png?v=22040602",
-        "lets_love": "album/suho/album_suho_lets_love_200330.png?v=20033001"
+        "lets_love": "album/suho/album_suho_lets_love_200330.png?v=20033001",
+        "who_are_you": ""
     },
     "sungmin": {
         "goodnight_summer": "album/sungmin/album_goodnightsummer_211006.png?v=21100601",

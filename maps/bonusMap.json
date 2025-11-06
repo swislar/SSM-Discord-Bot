@@ -1821,6 +1821,15 @@
                 "type": "birthday"
             }
         ],
+        "10-17": [
+            {
+                "album": "focus",
+                "artist": "Hearts2Hearts",
+                "bonus": 3,
+                "bonusTo": "10-17",
+                "type": "album"
+            }
+        ],
         "11-30": [
             {
                 "artist": "JUUN",
@@ -5674,6 +5683,15 @@
                 "artist": "SUHO",
                 "bonus": 3,
                 "bonusTo": "06-05",
+                "type": "album"
+            }
+        ],
+        "09-19": [
+            {
+                "album": "who_are_you",
+                "artist": "SUHO",
+                "bonus": 3,
+                "bonusTo": "09-25",
                 "type": "album"
             }
         ]

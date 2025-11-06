@@ -183,6 +183,7 @@
         "real_love": "Real Love"
     },
     "hearts2hearts": {
+        "focus": "FOCUS",
         "the_chase": "The Chase",
         "style": "Style"
     },
@@ -527,7 +528,8 @@
     "suho": {
         "1_to_3": "1/3",
         "grey_suit": "Grey Suit",
-        "lets_love": "Let’s Love"
+        "lets_love": "Let’s Love",
+        "who_are_you": "Who Are You"
     },
     "super junior": {
         "a_cha": "A-CHA",
