@@ -9190,6 +9190,14 @@
             "bonus_from": "11-22",
             "bonus_to": "11-28"
         },
+        "ice tea": {
+            "artist": "WayV (BIG BANDS)",
+            "title": "Ice Tea",
+            "album": "big_bands",
+            "id": "1226",
+            "bonus_from": "07-15",
+            "bonus_to": "07-21"
+        },
         "she a wolf": {
             "artist": "WayV (BIG BANDS)",
             "title": "She A Wolf",
@@ -9851,7 +9859,7 @@
         "rich man": {
             "artist": "æspa",
             "title": "Rich Man",
-            "album": "Rich Man",
+            "album": "rich_man",
             "id": "1210",
             "bonus_from": "09-02",
             "bonus_to": "09-08"
@@ -9901,6 +9909,14 @@
             "title": "Supernova",
             "album": "supernova",
             "id": "1072",
+            "bonus_from": "05-23",
+            "bonus_to": "05-29"
+        },
+        "supernova [verse 2]": {
+            "artist": "æspa",
+            "title": "Supernova [Verse 2]",
+            "album": "supernova",
+            "id": "1225",
             "bonus_from": "05-23",
             "bonus_to": "05-29"
         },
