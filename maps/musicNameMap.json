@@ -138,6 +138,7 @@
     },
     "doyoung": {
         "beginning": "beginning",
+        "be my light": "be my light",
         "little light": "little light",
         "memory": "memory",
         "the story": "the story"
@@ -511,7 +512,8 @@
     },
     "haechan": {
         "crazy": "crzy",
-        "crzy": "crzy"
+        "crzy": "crzy",
+        "camera lights": "camera lights"
     },
     "hearts2hearts": {
         "butterflies": "butterflies",
@@ -851,6 +853,7 @@
         "v2 beatbox": "beatbox [verse 2]",
         "지금": "better than gold (지금)",
         "better than gold": "better than gold (지금)",
+        "beat it up": "beat it up",
         "box": "box",
         "broken melodies": "broken melodies",
         "bttf": "bttf",
@@ -1197,6 +1200,7 @@
         "odyssey": "odyssey",
         "one kiss": "one kiss",
         "show me love": "show me love",
+        "same key": "same key",
         "siren": "siren",
         "talk saxy": "talk saxy"
     },
@@ -1707,6 +1711,7 @@
     "u-know": {
         "eeny meeny": "eeny meeny",
         "follow": "follow",
+        "stretch": "stretch",
         "swing": "swing (feat. boa)",
         "thank u": "thank u",
         "vuja de": "vuja de",
@@ -1812,6 +1817,7 @@
         "black mamba": "black mamba",
         "black mamba v2": "black mamba [verse 2]",
         "v2 black mamba": "black mamba [verse 2]",
+        "blue": "blue (winter solo)",
         "bored": "bored! (ningning solo)",
         "dirty work": "dirty work",
         "dirty work v2": "dirty work [verse 2]",
@@ -1829,6 +1835,7 @@
         "girls": "girls",
         "v2 girls": "girls [verse 2]",
         "girls v2": "girls [verse 2]",
+        "good stuff": "good stuff (karina solo)",
         "icu": "icu",
         "iconic": "iconic",
         "illusion": "illusion",
@@ -1836,6 +1843,8 @@
         "v2 illusion": "illusion [verse 2]",
         "im unhappy": "i'm unhappy",
         "jingle bell rock": "jingle bell rock",
+        "ketchup and lemonade": "ketchup and lemonade (ningning solo)",
+        "ketchup lemonade": "ketchup and lemonade (ningning solo)",
         "kill it": "kill it",
         "licorice": "licorice",
         "lifes too short": "life's too short",
@@ -1865,6 +1874,7 @@
         "thirsty": "thirsty",
         "till we meet again": "till we meet again",
         "trick or trick": "trick or trick",
+        "tornado": "tornado (giselle solo)",
         "up": "up (karina solo)",
         "welcome to my world": "welcome to my world (feat. nævis)",
         "whiplash": "whiplash",

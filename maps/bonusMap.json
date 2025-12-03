@@ -160,6 +160,13 @@
                 "bonus": 3,
                 "bonusTo": "11-20",
                 "type": "album"
+            },
+            {
+                "album": "synk: aexis line - 2025 special digital single",
+                "artist": "æspa",
+                "bonus": 3,
+                "bonusTo": "11-20",
+                "type": "album"
             }
         ],
         "11-21": [
@@ -3453,6 +3460,15 @@
                 "artist": "NCT DREAM (Go Back To The Future)",
                 "bonus": 3,
                 "bonusTo": "11-14",
+                "type": "album"
+            }
+        ],
+        "11-14": [
+            {
+                "album": "beat_it_up",
+                "artist": "NCT DREAM (Go Back To The Future)",
+                "bonus": 3,
+                "bonusTo": "11-20",
                 "type": "album"
             }
         ],
@@ -6974,7 +6990,7 @@
         ],
         "02-03": [
             {
-                "artist": "U-Know",
+                "artist": "U-KNOW",
                 "bonus": 6,
                 "bonusTo": "02-09",
                 "date": "02-06",
@@ -6996,6 +7012,15 @@
                 "artist": "U-KNOW",
                 "bonus": 3,
                 "bonusTo": "08-10",
+                "type": "album"
+            }
+        ],
+        "11-02": [
+            {
+                "album": "i-know",
+                "artist": "U-KNOW",
+                "bonus": 3,
+                "bonusTo": "11-08",
                 "type": "album"
             }
         ]

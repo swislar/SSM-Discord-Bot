@@ -13,6 +13,7 @@
         "savage": "album/aespa/album_savage.png?v=21101301",
         "spicy": "album/aespa/album_spicy.png?v=23051001",
         "synk_parallel_line": "update/2024/241106/20241101_111106/album_synk_parallel_line_r7_g7_b9.png?v=2411011111",
+        "synk_aexis_line": "",
         "whiplash": "update/2024/241023/20241017_114020/album_whiplash_r255_g255_b255.png?v=2410171140",
         "smcu_express": "album/station/smcu_express/album_smcu_express_220105.png?v=22010501",
         "supernova": "update/2024/240529/20240527_103553/album_armageddon_r247_g0_b209.png?v=2405271035",
@@ -378,6 +379,7 @@
     },
     "nct dream (go back to the future)": {
         "beatbox": "album/nct_dream/beatbox/album_nct_dream_beatbox.png?v=22053101",
+        "beat_it_up": "",
         "black_on_black": "album/nd/album_nd_nte_66vt55RT.png?v=180313",
         "broken_melodies": "album/nct_dream/glitch_mode/album_nct_dream_broken_melodies.png?v=23062801",
         "go_back_to_the_future": "update/2025/250716/20250711_121630/album_bttf.png?v=2507111216",
@@ -747,6 +749,7 @@
     },
     "u-know": {
         "eeny_meeny": "album/uknow/album_eeny_meeny_r007_g007_b007.png?v=21020301",
+        "i-know": "",
         "reality_show": "album/uknow/album_vuja_de_230830.png?v=23083001",
         "noir": "album/uknow/album_thanku_r50_g50_b50.png?v=21012001",
         "true_colors": "album/uknow/album_uknow_fol_190612.png?v=19061202"

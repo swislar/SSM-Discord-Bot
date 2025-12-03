@@ -327,6 +327,7 @@
         "hot_sauce": "Hot Sauce",
         "glitch_mode": "Glitch Mode",
         "beatbox": "Beatbox",
+        "beat_it_up": "Beat It Up",
         "dream()scape": "Dream(𝄞)scape",
         "broken_melodies": "Broken Melodies",
         "go_back_to_the_future": "Go Back to the Future",
@@ -655,9 +656,10 @@
     },
     "u-know": {
         "eeny_meeny": "Eeny Meeny",
-        "true_colors": "True Colors",
+        "i-know": "I-KNOW",
         "noir": "Noir",
-        "reality_show": "Reality Show"
+        "reality_show": "Reality Show",
+        "true_colors": "True Colors"
     },
     "wayv": {
         "kick_back": "Kick Back",
@@ -714,6 +716,7 @@
         "armageddon": "Armageddon",
         "black_mamba": "Black Mamba",
         "synk_parallel_line": "Synk, Parallel Line",
+        "synk_aexis_line": "SYNK: aeXIS LINE - 2025 Special Digital Single",
         "dirty_work": "Dirty Work",
         "drama": "Drama",
         "smcu_express": "SMCU Express",

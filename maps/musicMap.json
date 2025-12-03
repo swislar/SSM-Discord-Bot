@@ -702,6 +702,14 @@
             "bonus_from": "04-18",
             "bonus_to": "04-24"
         },
+        "be my light": {
+            "artist": "DOYOUNG",
+            "title": "쏟아져오는 바람처럼 눈부시게 너란 빛이 비추더라 (Be My Light)",
+            "album": "soar",
+            "id": "1230",
+            "bonus_from": "06-06",
+            "bonus_to": "06-12"
+        },
         "little light": {
             "artist": "DOYOUNG",
             "title": "Little Light",
@@ -2617,6 +2625,14 @@
             "id": "1222",
             "bonus_from": "09-05",
             "bonus_to": "09-11"
+        },
+        "camera lights": {
+            "artist": "HAECHAN",
+            "title": "Camera Lights",
+            "album": "taste",
+            "id": "1235",
+            "bonus_from": "09-05",
+            "bonus_to": "09-11"
         }
     },
     "hearts2hearts": {
@@ -4371,6 +4387,14 @@
             "id": "1180",
             "bonus_from": "03-25",
             "bonus_to": "03-31"
+        },
+        "beat it up": {
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "title": "Beat It Up",
+            "album": "beat_it_up",
+            "id": "1229",
+            "bonus_from": "11-14",
+            "bonus_to": "11-20"
         },
         "box": {
             "artist": "NCT DREAM (Go Back To The Future)",
@@ -6179,6 +6203,14 @@
             "id": "1098",
             "bonus_from": "06-14",
             "bonus_to": "06-20"
+        },
+        "same key": {
+            "artist": "RIIZE",
+            "title": "Same Key",
+            "album": "lucky",
+            "id": "1227",
+            "bonus_from": "07-26",
+            "bonus_to": "08-01"
         },
         "show me love": {
             "artist": "RIIZE",
@@ -9010,6 +9042,14 @@
             "bonus_from": "06-09",
             "bonus_to": "06-15"
         },
+        "stretch": {
+            "artist": "U-KNOW",
+            "title": "Stretch",
+            "album": "i-know",
+            "id": "1228",
+            "bonus_from": "11-02",
+            "bonus_to": "11-08"
+        },
         "swing (feat. boa)": {
             "artist": "U-KNOW",
             "title": "Swing (Feat. BoA)",
@@ -9600,6 +9640,14 @@
             "bonus_from": "11-14",
             "bonus_to": "11-20"
         },
+        "blue (winter solo)": {
+            "artist": "æspa",
+            "title": "BLUE (WINTER Solo)",
+            "album": "synk_aexis_line",
+            "id": "1231",
+            "bonus_from": "11-14",
+            "bonus_to": "11-20"
+        },
         "bored! (ningning solo)": {
             "artist": "æspa",
             "title": "Bored! (NINGNING Solo)",
@@ -9704,6 +9752,14 @@
             "bonus_from": "07-05",
             "bonus_to": "07-11"
         },
+        "good stuff (karina solo)": {
+            "artist": "æspa",
+            "title": "GOOD STUFF (KARINA Solo)",
+            "album": "synk_aexis_line",
+            "id": "1234",
+            "bonus_from": "11-14",
+            "bonus_to": "11-20"
+        },
         "icu": {
             "artist": "æspa",
             "title": "ICU",
@@ -9751,6 +9807,14 @@
             "id": "1023",
             "bonus_from": "11-21",
             "bonus_to": "11-27"
+        },
+        "ketchup and lemonade (ningning solo)": {
+            "artist": "æspa",
+            "title": "Ketchup And Lemonade (NINGNING Solo)",
+            "album": "synk_aexis_line",
+            "id": "1232",
+            "bonus_from": "11-14",
+            "bonus_to": "11-20"
         },
         "kill it": {
             "artist": "æspa",
@@ -9935,6 +9999,14 @@
             "id": "1184",
             "bonus_from": "05-05",
             "bonus_to": "05-11"
+        },
+        "tornado (giselle solo)": {
+            "artist": "æspa",
+            "title": "Tornado (GISELLE Solo)",
+            "album": "synk_aexis_line",
+            "id": "1233",
+            "bonus_from": "11-14",
+            "bonus_to": "11-20"
         },
         "trick or trick": {
             "artist": "æspa",
