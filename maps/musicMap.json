@@ -3310,6 +3310,14 @@
             "bonus_from": "02-10",
             "bonus_to": "02-16"
         },
+        "lavender love": {
+            "artist": "KEY",
+            "title": "Lavender Love",
+            "album": "HUNTER",
+            "id": "1237",
+            "bonus_from": "08-08",
+            "bonus_to": "08-14"
+        },
         "overthink": {
             "artist": "KEY",
             "title": "Overthink",
@@ -6083,6 +6091,14 @@
             "id": "1154",
             "bonus_from": "09-01",
             "bonus_to": "09-07"
+        },
+        "fame": {
+            "artist": "RIIZE",
+            "title": "Fame",
+            "album": "fame",
+            "id": "1236",
+            "bonus_from": "11-21",
+            "bonus_to": "11-27"
         },
         "fly up": {
             "artist": "RIIZE",
