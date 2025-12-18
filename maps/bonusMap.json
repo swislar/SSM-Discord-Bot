@@ -2136,6 +2136,26 @@
             }
         ]
     },
+    "jungwoo": {
+        "02-16": [
+            {
+                "artist": "JUNGWOO",
+                "bonus": 2,
+                "bonusTo": "02-22",
+                "date": "02-19",
+                "type": "birthday"
+            }
+        ],
+        "11-25": [
+            {
+                "album": "sugar",
+                "artist": "JUNGWOO",
+                "bonus": 3,
+                "bonusTo": "12-01",
+                "type": "album"
+            }
+        ]
+    },
     "kai": {
         "01-11": [
             {

@@ -2652,6 +2652,14 @@
             "bonus_from": "10-17",
             "bonus_to": "10-23"
         },
+        "pretty please": {
+            "artist": "Hearts2Hearts",
+            "title": "Pretty Please",
+            "album": "FOCUS",
+            "id": "1238",
+            "bonus_from": "10-17",
+            "bonus_to": "10-23"
+        },
         "the chase": {
             "artist": "Hearts2Hearts",
             "title": "The Chase",
@@ -3031,6 +3039,16 @@
             "id": "1218",
             "bonus_from": "08-15",
             "bonus_to": "08-21"
+        }
+    },
+    "jungwoo": {
+        "sugar": {
+            "artist": "JUNGWOO",
+            "title": "SUGAR",
+            "album": "sugar",
+            "id": "1239",
+            "bonus_from": "11-25",
+            "bonus_to": "12-01"
         }
     },
     "kai": {

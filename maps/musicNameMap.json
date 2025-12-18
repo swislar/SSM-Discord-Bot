@@ -518,6 +518,7 @@
     "hearts2hearts": {
         "butterflies": "butterflies",
         "focus": "focus",
+        "pretty please": "pretty please",
         "the chase": "the chase",
         "the chase v2": "the chase [verse 2]",
         "v2 the chase": "the chase [verse 2]",
@@ -594,6 +595,9 @@
         "je taime": "je t'aime",
         "love splash": "love splash!",
         "love splash!": "love splash!"
+    },
+    "jungwoo": {
+        "sugar": "sugar"
     },
     "kai": {
         "adult swim": "adult swim",
