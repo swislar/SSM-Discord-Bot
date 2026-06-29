@@ -13,6 +13,7 @@ export const getAlbumCover = async (artist, album) => {
     const filename = sanitizeFilename(`${artistKey}_${albumKey}.png`);
     const albumCoverDir = path.join(process.cwd(), "albumCover");
     const localPath = path.join(albumCoverDir, filename);
+    console.log(localPath);
     if (fs.existsSync(localPath)) {
         console.log(`Using cached album cover for ${artistKey}: ${filename}`);
         return localPath;

@@ -64,7 +64,8 @@
     "doyoung": {
         "youth": "Youth",
         "soar": "Soar",
-        "the_story": "The Story"
+        "the_story": "The Story",
+        "promise": "Promise"
     },
     "eunhyuk": {
         "be": "Be"
@@ -185,7 +186,8 @@
     "hearts2hearts": {
         "focus": "FOCUS",
         "the_chase": "The Chase",
-        "style": "Style"
+        "style": "Style",
+        "rude!": "RUDE!"
     },
     "hyo": {
         "badster": "Badster",
@@ -197,10 +199,12 @@
         "retro_romance": "Retro Romance",
         "second": "Second",
         "wannabe": "Wannabe",
-        "yes": "YES"
+        "yes": "YES",
+        "moveurbody": "MOVEURBODY"
     },
     "irene": {
-        "like_a_flower": "Like a Flower"
+        "like_a_flower": "Like a Flower",
+        "biggest_fan": "Biggest Fan"
     },
     "jaehyun": {
         "j": "J",
@@ -293,7 +297,8 @@
         "call_back": "Call Back",
         "chase": "Chase",
         "heartbreak": "Heartbreak",
-        "stay_for_a_night": "Stay For A Night"
+        "stay_for_a_night": "Stay For A Night",
+        "tempo": "TEMPO"
     },
     "nct 127 (fact check)": {
         "2_baddies": "2 Baddies",
@@ -399,7 +404,8 @@
         "songbird": "Songbird",
         "steady": "Steady",
         "surf": "Surf",
-        "wish": "Wish"
+        "wish": "Wish",
+        "ode_to_love": "Ode to Love"
     },
     "naevis": {
         "done": "Done",
@@ -438,7 +444,7 @@
     "red velvet - irene & seulgi": {
         "monster": "Monster",
         "naughty_remix": "Naughty Remix",
-        "tilt": "Tilt"
+        "tilt": "TILT"
     },
     "riize": {
         "riizing": "RIIZE",
@@ -451,7 +457,8 @@
         "love_119": "Love 119",
         "lucky": "Lucky",
         "siren": "Siren",
-        "talk_saxy": "Talk Saxy"
+        "talk_saxy": "Talk Saxy",
+        "ⅱ": "Ⅱ"
     },
     "ryeowook": {
         "a_wild_rose": "A Wild Rose",
@@ -466,7 +473,8 @@
     },
     "seulgi": {
         "28_reasons": "28 Reasons",
-        "accidentally_on_purpose": "Accidentally on Purpose"
+        "accidentally_on_purpose": "Accidentally On Purpose",
+        "unknown": "Unknown"
     },
     "shinee": {
         "1_of_1": "1 of 1",
@@ -492,7 +500,8 @@
         "the_shinee_world": "The SHINee World",
         "the_story_of_light_4": "The Story of Light EP.4",
         "amigo": "Amigo",
-        "romeo": "Romeo"
+        "romeo": "Romeo",
+        "atmos": "Atmos"
     },
     "station": {
         "the_warmest_gift": "The Warmest Gift",
@@ -586,7 +595,7 @@
         "the_renaissance": "The Renaissance",
         "winter_for_spring": "Winter for Spring",
         "celebration": "Celebration",
-        "super_junior25": "Super Junior 25",
+        "super_junior25": "Super Junior25",
         "time_slip": "Time Slip",
         "show_time": "Show Time",
         "the_melody": "The Melody"
@@ -632,11 +641,14 @@
         "why": "Why",
         "this_christmas": "This Christmas",
         "i": "I",
-        "weekend": "Weekend"
+        "weekend": "Weekend",
+        "panorama_:_the_best_of_taeyeon": "Panorama : The Best of TAEYEON"
     },
     "taeyong": {
         "shalala": "Shalala",
-        "tap": "TAP"
+        "tap": "TAP",
+        "rock_solid_(feat._anderson_.paak)": "Rock Solid (feat. Anderson .Paak)",
+        "wyld": "WYLD"
     },
     "ten": {
         "stunner": "Stunner",
@@ -674,7 +686,8 @@
     "wayv (big bands)": {
         "big_bands": "BIG BANDS",
         "frequency": "Frequency",
-        "give_me_that": "Give Me That"
+        "give_me_that": "Give Me That",
+        "eternal_white": "Eternal White"
     },
     "wayv-kun&xiaojun": {
         "back_to_you": "Back To You"
@@ -687,7 +700,8 @@
         "brand_new": "Brand New"
     },
     "xnghan&xoul": {
-        "waste_no_time": "Waste No Time"
+        "waste_no_time": "Waste No Time",
+        "glow": "Glow"
     },
     "yesung": {
         "unfading_sense": "Unfading Sense",
@@ -703,7 +717,8 @@
     "yoona": {
         "a_walk_to_remember": "A Walk to Remember",
         "when_the_wind_blows": "When The Wind Blows",
-        "to_you": "To You"
+        "to_you": "To You",
+        "wish_to_wish": "Wish to Wish"
     },
     "yuri": {
         "the_first_scene": "The First Scene"
@@ -732,6 +747,13 @@
         "jingle_bell_rock": "Jingle Bell Rock",
         "next_level": "Next Level",
         "시대유감": "시대유감",
-        "supernova": "Supernova"
+        "supernova": "Supernova",
+        "lemonade": "LEMONADE"
+    },
+    "exo (reverxe)": {
+        "reverxe": "REVERXE"
+    },
+    "nct jnjm": {
+        "both_sides": "BOTH SIDES"
     }
 }

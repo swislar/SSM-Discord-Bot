@@ -141,7 +141,9 @@
         "be my light": "be my light",
         "little light": "little light",
         "memory": "memory",
-        "the story": "the story"
+        "the story": "the story",
+        "story": "the story",
+        "promise": "늦은 말 (promise)"
     },
     "eunhyuk": {
         "be": "be"
@@ -524,7 +526,12 @@
         "v2 the chase": "the chase [verse 2]",
         "style": "style",
         "style v2": "style [verse 2]",
-        "v2 style": "style [verse 2]"
+        "v2 style": "style [verse 2]",
+        "blue moon": "blue moon",
+        "rude": "rude!",
+        "v2 rude": "rude! [verse 2]",
+        "rude v2": "rude! [verse 2]",
+        "rude full": "rude! [full]"
     },
     "henry": {
         "1 4 3": "1 4 3 (i love you)",
@@ -558,12 +565,21 @@
         "stupid": "stupid",
         "wannabe": "wannabe (feat. san e)",
         "yes": "yes",
-        "YES": "yes"
+        "moveurbody": "moveurbody (춤춰)",
+        "move": "moveurbody (춤춰)",
+        "body": "moveurbody (춤춰)",
+        "body move": "moveurbody (춤춰)",
+        "춤춰": "moveurbody (춤춰)",
+        "춤": "moveurbody (춤춰)"
     },
     "irene": {
         "like a flower": "like a flower",
         "summer rain": "summer rain",
-        "winter wish": "winter wish"
+        "winter wish": "winter wish",
+        "biggest fan": "biggest fan",
+        "million miles away": "million miles away",
+        "miles away": "million miles away",
+        "best believe": "best believe"
     },
     "jaehyun": {
         "dandelion": "dandelion",
@@ -748,7 +764,9 @@
         "runaway": "runaway (feat. gemini)",
         "stay for a night": "stay for a night",
         "stay for a night v2": "stay for a night [verse 2]",
-        "v2 stay for a night": "stay for a night [verse 2]"
+        "v2 stay for a night": "stay for a night [verse 2]",
+        "tempo": "tempo",
+        "youre right": "you're right"
     },
     "nct 127 (fact check)": {
         "2 baddies": "2 baddies",
@@ -808,7 +826,8 @@
         "welcome to my playground": "welcome to my playground",
         "white lie": "white lie",
         "fool": "아 깜짝이야 (fool)",
-        "아 깜짝이야": "아 깜짝이야 (fool)"
+        "be there for me v2": "be there for me [verse 2]",
+        "v2 be there for me": "be there for me [verse 2]"
     },
     "nct 127 (fire truck)": {
         "mad city": "mad city",
@@ -929,7 +948,11 @@
         "주인공": "주인공 (irreplaceable)",
         "irreplaceable": "주인공 (irreplaceable)",
         "blue wave": "파랑 (blue wave)",
-        "파랑": "파랑 (blue wave)"
+        "파랑": "파랑 (blue wave)",
+        "rush": "rush",
+        "butterflies": "butterflies",
+        "cold coffee": "cold coffee",
+        "tempo": "tempo (0에 서 100)"
     },
     "nct dream (my first)": {
         "joy": "joy",
@@ -1043,7 +1066,22 @@
         "tears are falling": "tears are falling (korean ver.)",
         "wish jp": "wish (japanese ver.)",
         "wish": "wish (korean ver.)",
-        "wish kr": "wish (korean ver.)"
+        "wish kr": "wish (korean ver.)",
+        "surf v2": "surf [verse 2]",
+        "v2 surf": "surf [verse 2]",
+        "3 minutes v2": "3분까진 필요 없어 (3 minutes) [verse 2]",
+        "v2 3 minutes": "3분까진 필요 없어 (3 minutes) [verse 2]",
+        "3 min v2": "3분까진 필요 없어 (3 minutes) [verse 2]",
+        "v2 3 min": "3분까진 필요 없어 (3 minutes) [verse 2]",
+        "silly dance": "silly dance",
+        "ode to love": "ode to love",
+        "ode to love v2": "ode to love [verse 2]",
+        "v2 ode to love": "ode to love [verse 2]",
+        "2.0": "2.0 (two point o)",
+        "20": "2.0 (two point o)",
+        "2 0": "2.0 (two point o)",
+        "two point o": "2.0 (two point o)",
+        "sticky": "sticky"
     },
     "naevis": {
         "done": "done",
@@ -1170,7 +1208,8 @@
         "naughty": "naughty",
         "naughty remix": "naughty (demicat remix)",
         "irresistible": "irresistible",
-        "tilt": "tilt"
+        "tilt": "tilt",
+        "whats your problem": "what's your problem? (feat. 쥴리 of kiss of life)"
     },
     "riize": {
         "9 days": "9 days",
@@ -1208,7 +1247,13 @@
         "show me love": "show me love",
         "same key": "same key",
         "siren": "siren",
-        "talk saxy": "talk saxy"
+        "talk saxy": "talk saxy",
+        "somethings in the water": "something's in the water",
+        "something is in the water": "something's in the water",
+        "the end of the day": "모든 하루의 끝 (the end of the day)",
+        "end of the day": "모든 하루의 끝 (the end of the day)",
+        "sticky like": "sticky like",
+        "do your dance": "do your dance"
     },
     "ryeowook": {
         "bluebird": "bluebird",
@@ -1236,7 +1281,8 @@
         "anywhere but home": "anywhere but home",
         "baby not baby": "baby, not baby",
         "better dayz": "better dayz",
-        "better days": "better dayz"
+        "better days": "better dayz",
+        "whatever": "whatever"
     },
     "shinee": {
         "1 of 1": "1 of 1",
@@ -1322,7 +1368,8 @@
         "beautiful life": "한마디 (beautiful life)",
         "한마디": "한마디 (beautiful life)",
         "hitchhiking": "히치하이킹 (hitchhiking)",
-        "히치하이킹": "히치하이킹 (hitchhiking)"
+        "히치하이킹": "히치하이킹 (hitchhiking)",
+        "atmos": "atmos"
     },
     "station": {
         "123": "1,2,3 (sung by f(x)",
@@ -1408,7 +1455,8 @@
         "who are you": "who are you",
         "사랑하자": "사랑, 하자 (let’s love)",
         "사랑 하자": "사랑, 하자 (let’s love)",
-        "lets love": "사랑, 하자 (let’s love)"
+        "lets love": "사랑, 하자 (let’s love)",
+        "medicine": "medicine"
     },
     "super junior": {
         "acha": "a-cha",
@@ -1537,7 +1585,10 @@
         "more days with you": "같이 걸을까 (more days with you)",
         "같이 걸을까": "같이 걸을까 (more days with you)",
         "the melody": "우리에게 (the melody)",
-        "우리에게": "우리에게 (the melody)"
+        "우리에게": "우리에게 (the melody)",
+        "haircut": "haircut",
+        "air": "air",
+        "finale": "finale"
     },
     "superm": {
         "100": "100",
@@ -1641,14 +1692,19 @@
         "four seasons": "사계 (four seasons)",
         "사계": "사계 (four seasons)",
         "stress": "스트레스 (stress)",
-        "스트레스": "스트레스 (stress)"
+        "스트레스": "스트레스 (stress)",
+        "panorama": "인사 (panorama)",
+        "panorama v2": "인사 (panorama) [verse 2]",
+        "v2 panorama": "인사 (panorama) [verse 2]"
     },
     "taeyong": {
         "gwando": "gwando",
         "moon tour": "moon tour",
         "tap": "tap",
         "shalala": "샤랄라 (shalala)",
-        "샤랄라": "샤랄라 (shalala)"
+        "샤랄라": "샤랄라 (shalala)",
+        "rock solid": "rock solid (feat. anderson .paak)",
+        "wyld": "wyld"
     },
     "ten": {
         "bambola": "bambola",
@@ -1746,7 +1802,8 @@
         "give me that": "give me that",
         "high five": "high five",
         "ice tea": "ice tea",
-        "she a wolf": "she a wolf"
+        "she a wolf": "she a wolf",
+        "eternal white": "白色定格 （eternal white）"
     },
     "wayv-kun&xiaojun": {
         "back to you": "back to you"
@@ -1767,7 +1824,8 @@
     "xnghan&xoul": {
         "waste no time": "waste no time",
         "wastenotime": "waste no time",
-        "wnt": "waste no time"
+        "wnt": "waste no time",
+        "glow": "glow"
     },
     "yesung": {
         "butterfly": "butterfly",
@@ -1795,9 +1853,14 @@
     "yoona": {
         "promise": "promise",
         "when the wind blows (chinese ver.)": "when the wind blows (chinese ver.)",
-        "너에게 (to you)": "너에게 (to you)",
-        "바람이 불면 (when the wind blows)": "바람이 불면 (when the wind blows)",
-        "여름밤 (feat. 스무살) (summer night)": "여름밤 (feat. 스무살) (summer night)"
+        "when the wind blows cn": "when the wind blows (chinese ver.)",
+        "to you": "너에게 (to you)",
+        "너에게": "너에게 (to you)",
+        "when the wind blows": "바람이 불면 (when the wind blows)",
+        "바람이 불면": "바람이 불면 (when the wind blows)",
+        "여름밤": "여름밤 (feat. 스무살) (summer night)",
+        "summer night": "여름밤 (feat. 스무살) (summer night)",
+        "wish to wish": "wish to wish"
     },
     "yuri": {
         "c'est la vie (that's life!)": "c'est la vie (that's life!)",
@@ -1887,6 +1950,25 @@
         "yeppi yeppi": "yeppi yeppi",
         "yeppi yeppi v2": "yeppi yeppi [verse 2]",
         "v2 yeppi yeppi": "yeppi yeppi [verse 2]",
-        "you": "you"
+        "you": "you",
+        "live my life v2": "live my life [verse 2]",
+        "v2 live my life": "live my life [verse 2]",
+        "trick or trick v2": "trick or trick [verse 2]",
+        "v2 trick or trick": "trick or trick [verse 2]",
+        "yolo": "yolo",
+        "목소리": "목소리 (melody)",
+        "melody": "목소리 (melody)",
+        "whole different animal": "wda (whole different animal) (feat. g-dragon)",
+        "wda": "wda (whole different animal) (feat. g-dragon)"
+    },
+    "exo (reverxe)": {
+        "crown": "crown",
+        "back it up": "back it up",
+        "suffocate": "suffocate",
+        "moonlight shadows": "moonlight shadows"
+    },
+    "nct jnjm": {
+        "both sides": "both sides",
+        "wind up": "wind up"
     }
 }

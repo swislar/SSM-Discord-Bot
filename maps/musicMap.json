@@ -733,6 +733,14 @@
             "id": "1130",
             "bonus_from": "11-03",
             "bonus_to": "11-09"
+        },
+        "늦은 말 (promise)": {
+            "artist": "DOYOUNG",
+            "title": "늦은 말 (Promise)",
+            "album": "promise",
+            "id": "1245",
+            "bonus_from": "12-06",
+            "bonus_to": "12-12"
         }
     },
     "eunhyuk": {
@@ -2691,6 +2699,38 @@
             "id": "1201",
             "bonus_from": "06-15",
             "bonus_to": "06-21"
+        },
+        "blue moon": {
+            "artist": "Hearts2Hearts",
+            "title": "Blue Moon",
+            "album": "focus",
+            "id": "1254",
+            "bonus_from": "10-17",
+            "bonus_to": "10-23"
+        },
+        "rude!": {
+            "artist": "Hearts2Hearts",
+            "title": "RUDE!",
+            "album": "rude!",
+            "id": "1260",
+            "bonus_from": "02-17",
+            "bonus_to": "02-23"
+        },
+        "rude! [verse 2]": {
+            "artist": "Hearts2Hearts",
+            "title": "RUDE! [Verse 2]",
+            "album": "rude!",
+            "id": "1270",
+            "bonus_from": "02-17",
+            "bonus_to": "02-23"
+        },
+        "rude! [full]": {
+            "artist": "Hearts2Hearts",
+            "title": "RUDE! [Full]",
+            "album": "rude!",
+            "id": "1282",
+            "bonus_from": "02-17",
+            "bonus_to": "02-23"
         }
     },
     "henry": {
@@ -2879,6 +2919,14 @@
             "id": "1205",
             "bonus_from": "07-13",
             "bonus_to": "07-19"
+        },
+        "moveurbody (춤춰)": {
+            "artist": "HYO",
+            "title": "MOVEURBODY (춤춰)",
+            "album": "moveurbody",
+            "id": "1271",
+            "bonus_from": "03-20",
+            "bonus_to": "03-26"
         }
     },
     "irene": {
@@ -2905,6 +2953,30 @@
             "id": "1157",
             "bonus_from": "11-23",
             "bonus_to": "11-29"
+        },
+        "biggest fan": {
+            "artist": "IRENE",
+            "title": "Biggest Fan",
+            "album": "biggest_fan",
+            "id": "1269",
+            "bonus_from": "03-27",
+            "bonus_to": "04-02"
+        },
+        "million miles away": {
+            "artist": "IRENE",
+            "title": "Million Miles Away",
+            "album": "biggest_fan",
+            "id": "1286",
+            "bonus_from": "03-27",
+            "bonus_to": "04-02"
+        },
+        "best believe": {
+            "artist": "IRENE",
+            "title": "Best Believe",
+            "album": "biggest_fan",
+            "id": "1291",
+            "bonus_from": "03-27",
+            "bonus_to": "04-02"
         }
     },
     "jaehyun": {
@@ -3831,6 +3903,22 @@
             "id": "1043",
             "bonus_from": "01-03",
             "bonus_to": "01-09"
+        },
+        "tempo": {
+            "artist": "MINHO",
+            "title": "TEMPO",
+            "album": "tempo",
+            "id": "1247",
+            "bonus_from": "12-12",
+            "bonus_to": "12-18"
+        },
+        "you're right": {
+            "artist": "MINHO",
+            "title": "You're Right",
+            "album": "tempo",
+            "id": "1257",
+            "bonus_from": "12-12",
+            "bonus_to": "12-18"
         }
     },
     "nct 127 (fact check)": {
@@ -4177,6 +4265,14 @@
             "id": "502",
             "bonus_from": "05-21",
             "bonus_to": "05-27"
+        },
+        "be there for me [verse 2]": {
+            "artist": "NCT 127 (Fact Check)",
+            "title": "Be There For Me [Verse 2]",
+            "album": "be_there_for_me",
+            "id": "1242",
+            "bonus_from": "12-19",
+            "bonus_to": "12-25"
         }
     },
     "nct 127 (fire truck)": {
@@ -4813,6 +4909,38 @@
             "id": "1037",
             "bonus_from": "07-14",
             "bonus_to": "07-20"
+        },
+        "rush": {
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "title": "Rush",
+            "album": "beat_it_up",
+            "id": "1240",
+            "bonus_from": "11-14",
+            "bonus_to": "11-20"
+        },
+        "butterflies": {
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "title": "Butterflies",
+            "album": "beat_it_up",
+            "id": "1250",
+            "bonus_from": "11-14",
+            "bonus_to": "11-20"
+        },
+        "cold coffee": {
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "title": "Cold Coffee",
+            "album": "beat_it_up",
+            "id": "1262",
+            "bonus_from": "11-14",
+            "bonus_to": "11-20"
+        },
+        "tempo (0에 서 100)": {
+            "artist": "NCT DREAM (Go Back To The Future)",
+            "title": "Tempo (0에 서 100)",
+            "album": "beat_it_up",
+            "id": "1264",
+            "bonus_from": "11-14",
+            "bonus_to": "11-20"
         }
     },
     "nct dream (my first)": {
@@ -5275,6 +5403,62 @@
             "id": "1216",
             "bonus_from": "04-11",
             "bonus_to": "04-17"
+        },
+        "surf [verse 2]": {
+            "artist": "NCT WISH",
+            "title": "Surf [Verse 2]",
+            "album": "surf",
+            "id": "1244",
+            "bonus_from": "08-09",
+            "bonus_to": "08-15"
+        },
+        "3분까진 필요 없어 (3 minutes) [verse 2]": {
+            "artist": "NCT WISH",
+            "title": "3분까진 필요 없어 (3 Minutes) [Verse 2]",
+            "album": "steady",
+            "id": "1256",
+            "bonus_from": "09-21",
+            "bonus_to": "09-27"
+        },
+        "silly dance": {
+            "artist": "NCT Wish",
+            "title": "Silly Dance",
+            "album": "poppop",
+            "id": "1265",
+            "bonus_from": "04-11",
+            "bonus_to": "04-17"
+        },
+        "ode to love": {
+            "artist": "NCT WISH",
+            "title": "Ode to Love",
+            "album": "ode_to_love",
+            "id": "1274",
+            "bonus_from": "04-17",
+            "bonus_to": "04-23"
+        },
+        "ode to love [verse 2]": {
+            "artist": "NCT WISH",
+            "title": "Ode to Love [Verse 2]",
+            "album": "ode_to_love",
+            "id": "1281",
+            "bonus_from": "04-17",
+            "bonus_to": "04-23"
+        },
+        "2.0 (two point o)": {
+            "artist": "NCT WISH",
+            "title": "2.0 (TWO POINT O)",
+            "album": "ode_to_love",
+            "id": "1280",
+            "bonus_from": "04-17",
+            "bonus_to": "04-23"
+        },
+        "sticky": {
+            "artist": "NCT WISH",
+            "title": "Sticky",
+            "album": "ode_to_love",
+            "id": "1290",
+            "bonus_from": "04-17",
+            "bonus_to": "04-23"
         }
     },
     "naevis": {
@@ -6051,6 +6235,14 @@
             "id": "1178",
             "bonus_from": "05-23",
             "bonus_to": "05-29"
+        },
+        "what's your problem? (feat. 쥴리 of kiss of life)": {
+            "artist": "Red Velvet - IRENE & SEULGI",
+            "title": "What's Your Problem? (Feat. 쥴리 of KISS OF LIFE)",
+            "album": "tilt",
+            "id": "1259",
+            "bonus_from": "05-23",
+            "bonus_to": "05-29"
         }
     },
     "riize": {
@@ -6277,6 +6469,38 @@
             "id": "1215",
             "bonus_from": "05-16",
             "bonus_to": "05-22"
+        },
+        "something's in the water": {
+            "artist": "RIIZE",
+            "title": "Something's in the Water",
+            "album": "fame",
+            "id": "1248",
+            "bonus_from": "11-21",
+            "bonus_to": "11-27"
+        },
+        "모든 하루의 끝 (the end of the day)": {
+            "artist": "RIIZE",
+            "title": "모든 하루의 끝 (The End of the Day)",
+            "album": "odyssey",
+            "id": "1267",
+            "bonus_from": "05-16",
+            "bonus_to": "05-22"
+        },
+        "sticky like": {
+            "artist": "RIIZE",
+            "title": "Sticky Like",
+            "album": "fame",
+            "id": "1278",
+            "bonus_from": "11-21",
+            "bonus_to": "11-27"
+        },
+        "do your dance": {
+            "artist": "RIIZE",
+            "title": "Do your dance",
+            "album": "ⅱ",
+            "id": "1289",
+            "bonus_from": "06-12",
+            "bonus_to": "06-18"
         }
     },
     "ryeowook": {
@@ -6401,6 +6625,14 @@
             "title": "Better Dayz",
             "album": "accidentally_on_purpose",
             "id": "1171",
+            "bonus_from": "03-07",
+            "bonus_to": "03-13"
+        },
+        "whatever": {
+            "artist": "Seulgi",
+            "title": "Whatever",
+            "album": "accidentally_on_purpose",
+            "id": "1288",
             "bonus_from": "03-07",
             "bonus_to": "03-13"
         }
@@ -6885,6 +7117,14 @@
             "id": "45",
             "bonus_from": "02-16",
             "bonus_to": "02-22"
+        },
+        "atmos": {
+            "artist": "SHINEE",
+            "title": "Atmos",
+            "album": "atmos",
+            "id": "1285",
+            "bonus_from": "05-29",
+            "bonus_to": "06-04"
         }
     },
     "station": {
@@ -7329,6 +7569,14 @@
             "id": "543",
             "bonus_from": "03-27",
             "bonus_to": "04-02"
+        },
+        "medicine": {
+            "artist": "SUHO",
+            "title": "Medicine",
+            "album": "who_are_you",
+            "id": "1249",
+            "bonus_from": "09-19",
+            "bonus_to": "09-25"
         }
     },
     "super junior": {
@@ -8001,6 +8249,30 @@
             "id": "606",
             "bonus_from": "11-03",
             "bonus_to": "11-09"
+        },
+        "haircut": {
+            "artist": "SUPER JUNIOR (Super Junior25)",
+            "title": "Haircut",
+            "album": "super_junior25",
+            "id": "1253",
+            "bonus_from": "07-05",
+            "bonus_to": "07-11"
+        },
+        "air": {
+            "artist": "SUPER JUNIOR (Super Junior25)",
+            "title": "Air",
+            "album": "super_junior25",
+            "id": "1266",
+            "bonus_from": "07-05",
+            "bonus_to": "07-11"
+        },
+        "finale": {
+            "artist": "SUPER JUNIOR (Super Junior25)",
+            "title": "Finale",
+            "album": "super_junior25",
+            "id": "1287",
+            "bonus_from": "07-05",
+            "bonus_to": "07-11"
         }
     },
     "superm": {
@@ -8681,6 +8953,22 @@
             "id": "300",
             "bonus_from": "10-04",
             "bonus_to": "10-10"
+        },
+        "인사 (panorama)": {
+            "artist": "Taeyeon",
+            "title": "인사 (Panorama)",
+            "album": "panorama_:_the_best_of_taeyeon",
+            "id": "1243",
+            "bonus_from": "11-28",
+            "bonus_to": "12-04"
+        },
+        "인사 (panorama) [verse 2]": {
+            "artist": "TAEYEON",
+            "title": "인사 (Panorama) [Verse 2]",
+            "album": "panorama_:_the_best_of_taeyeon",
+            "id": "1275",
+            "bonus_from": "11-28",
+            "bonus_to": "12-04"
         }
     },
     "taeyong": {
@@ -8715,6 +9003,22 @@
             "id": "950",
             "bonus_from": "06-02",
             "bonus_to": "06-08"
+        },
+        "rock solid (feat. anderson .paak)": {
+            "artist": "TAEYONG",
+            "title": "Rock Solid (Feat. Anderson .Paak)",
+            "album": "rock_solid_(feat._anderson_.paak)",
+            "id": "1279",
+            "bonus_from": "04-14",
+            "bonus_to": "04-20"
+        },
+        "wyld": {
+            "artist": "TAEYONG",
+            "title": "WYLD",
+            "album": "wyld",
+            "id": "1284",
+            "bonus_from": "05-15",
+            "bonus_to": "05-21"
         }
     },
     "ten": {
@@ -9279,6 +9583,14 @@
             "id": "1086",
             "bonus_from": "05-31",
             "bonus_to": "06-06"
+        },
+        "白色定格 （eternal white）": {
+            "artist": "WayV (Big Bands)",
+            "title": "白色定格 （Eternal White）",
+            "album": "eternal_white",
+            "id": "1241",
+            "bonus_from": "12-05",
+            "bonus_to": "12-11"
         }
     },
     "wayv-kun&xiaojun": {
@@ -9375,6 +9687,14 @@
             "id": "1209",
             "bonus_from": "07-28",
             "bonus_to": "08-03"
+        },
+        "glow": {
+            "artist": "XngHan&Xoul",
+            "title": "Glow",
+            "album": "glow",
+            "id": "1277",
+            "bonus_from": "04-24",
+            "bonus_to": "04-30"
         }
     },
     "yesung": {
@@ -9539,6 +9859,14 @@
             "id": "485",
             "bonus_from": "05-27",
             "bonus_to": "06-02"
+        },
+        "wish to wish": {
+            "artist": "YOONA",
+            "title": "Wish To Wish",
+            "album": "wish_to_wish",
+            "id": "1255",
+            "bonus_from": "12-16",
+            "bonus_to": "12-22"
         }
     },
     "yuri": {
@@ -10097,6 +10425,98 @@
             "id": "1050",
             "bonus_from": "11-07",
             "bonus_to": "11-13"
+        },
+        "live my life [verse 2]": {
+            "artist": "Aespa",
+            "title": "Live My Life [Verse 2]",
+            "album": "armageddon",
+            "id": "1246",
+            "bonus_from": "05-24",
+            "bonus_to": "05-30"
+        },
+        "trick or trick [verse 2]": {
+            "artist": "Aespa",
+            "title": "Trick or Trick [Verse 2]",
+            "album": "drama",
+            "id": "1252",
+            "bonus_from": "11-07",
+            "bonus_to": "11-13"
+        },
+        "yolo": {
+            "artist": "Aespa",
+            "title": "YOLO",
+            "album": "drama",
+            "id": "1263",
+            "bonus_from": "11-07",
+            "bonus_to": "11-13"
+        },
+        "목소리 (melody)": {
+            "artist": "Aespa",
+            "title": "목소리 (Melody)",
+            "album": "armageddon",
+            "id": "1273",
+            "bonus_from": "05-24",
+            "bonus_to": "05-30"
+        },
+        "wda (whole different animal) (feat. g-dragon)": {
+            "artist": "Aespa",
+            "title": "WDA (Whole Different Animal) (Feat. G-Dragon)",
+            "album": "lemonade",
+            "id": "1283",
+            "bonus_from": "05-26",
+            "bonus_to": "05-31"
+        }
+    },
+    "exo (reverxe)": {
+        "crown": {
+            "artist": "EXO (REVERXE)",
+            "title": "Crown",
+            "album": "reverxe",
+            "id": "1251",
+            "bonus_from": "01-16",
+            "bonus_to": "01-22"
+        },
+        "back it up": {
+            "artist": "EXO (REVERXE)",
+            "title": "Back It Up",
+            "album": "reverxe",
+            "id": "1258",
+            "bonus_from": "01-16",
+            "bonus_to": "01-22"
+        },
+        "suffocate": {
+            "artist": "EXO (REVERXE)",
+            "title": "Suffocate",
+            "album": "reverxe",
+            "id": "1268",
+            "bonus_from": "01-16",
+            "bonus_to": "01-22"
+        },
+        "moonlight shadows": {
+            "artist": "EXO (REVERXE)",
+            "title": "Moonlight Shadows",
+            "album": "reverxe",
+            "id": "1276",
+            "bonus_from": "01-16",
+            "bonus_to": "01-22"
+        }
+    },
+    "nct jnjm": {
+        "both sides": {
+            "artist": "NCT JNJM",
+            "title": "BOTH SIDES",
+            "album": "both_sides",
+            "id": "1261",
+            "bonus_from": "02-20",
+            "bonus_to": "02-26"
+        },
+        "wind up": {
+            "artist": "NCT JNJM",
+            "title": "WIND UP",
+            "album": "both_sides",
+            "id": "1272",
+            "bonus_from": "02-20",
+            "bonus_to": "02-26"
         }
     }
 }
