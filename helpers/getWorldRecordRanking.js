@@ -2,7 +2,12 @@ import { musicMappings } from "../maps/index.js";
 import axios from "axios";
 
 export const getWorldRecordRanking = async (artist, title) => {
-    const now = Date.now();
+    const timezone = process.env.TZ || "UTC";
+
+    const localizedString = new Date().toLocaleString("en-US", {
+        timeZone: timezone,
+    });
+    const now = new Date(localizedString).getTime();
     const wrEndPoint = process.env.WR_ENDPOINT;
     const musicEntry = musicMappings[artist]?.[title];
     const musicTitle = typeof musicEntry === "object" ? musicEntry.title : null;
@@ -14,12 +19,12 @@ export const getWorldRecordRanking = async (artist, title) => {
     try {
         if (!musicId) {
             throw new Error(
-                `No music ID found for artist: ${artist}, title: ${title}`
+                `No music ID found for artist: ${artist}, title: ${title}`,
             );
         }
 
         const response = await axios.get(
-            `${wrEndPoint}${musicId}/latest.json?t=${now}`
+            `${wrEndPoint}${musicId}/latest.json?t=${now}`,
         );
         const jsonRanking = response.data;
 

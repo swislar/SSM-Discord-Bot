@@ -1,6 +1,11 @@
 export class FormatDate {
     constructor() {
-        this.today = new Date();
+        const timezone = process.env.TZ || "UTC";
+
+        const localizedString = new Date().toLocaleString("en-US", {
+            timeZone: timezone,
+        });
+        this.today = new Date(localizedString);
         this.currentYear = this.today.getFullYear();
     }
 
