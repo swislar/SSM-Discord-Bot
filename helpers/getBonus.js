@@ -1,7 +1,12 @@
 import { bonusMappings } from "../maps/index.js";
 
 export const getBonus = () => {
-    const today = new Date();
+    const timezone = process.env.TZ || "UTC";
+
+    const localizedString = new Date().toLocaleString("en-US", {
+        timeZone: timezone,
+    });
+    const today = new Date(localizedString);
 
     const startDate = new Date(today);
     const dayOfWeek = today.getDay();
@@ -12,7 +17,7 @@ export const getBonus = () => {
     endDate.setDate(startDate.getDate() + 14);
 
     console.log(
-        `Checking for bonuses between ${startDate.toDateString()} (Mon) and ${endDate.toDateString()} (Mon)`
+        `Checking for bonuses between ${startDate.toDateString()} (Mon) and ${endDate.toDateString()} (Mon)`,
     );
 
     const upcomingBonuses = [];
