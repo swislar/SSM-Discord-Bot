@@ -1,4 +1,7 @@
 {
+    "25": "super junior (super junior25)",
+    "90": "nct u (90's love)",
+    "127": "nct 127 (fact check)",
     "aespa": "aespa",
     "amber": "amber",
     "baekhyun": "baekhyun",
@@ -76,7 +79,6 @@
     "md": "m&d",
     "minho": "minho",
     "naevis": "naevis",
-    "127": "nct 127 (fact check)",
     "nct127": "nct 127 (fact check)",
     "fact check": "nct 127 (fact check)",
     "nct walk": "nct 127 (walk)",
@@ -97,7 +99,6 @@
     "my first": "nct dream (my first)",
     "reload": "nct dream (reload)",
     "dream reload": "nct dream (reload)",
-    "90": "nct u (90's love)",
     "90 love": "nct u (90's love)",
     "90s love": "nct u (90's love)",
     "dbs": "nct u (baby don't stop)",
@@ -151,7 +152,6 @@
     "one more time": "super junior (one more time)",
     "play": "super junior (play)",
     "sj play": "super junior (play)",
-    "25": "super junior (super junior25)",
     "sj25": "super junior (super junior25)",
     "sj 25": "super junior (super junior25)",
     "super junior 25": "super junior (super junior25)",
@@ -193,5 +193,9 @@
     "exo rev": "exo (reverxe)",
     "exo r": "exo (reverxe)",
     "nct jnjm": "nct jnjm",
-    "jnjm": "nct jnjm"
+    "jnjm": "nct jnjm",
+    "hearts2hearts": "hearts2hearts",
+    "seulgi": "seulgi",
+    "exo (reverxe)": "exo (reverxe)",
+    "exo reverxe": "exo (reverxe)"
 }

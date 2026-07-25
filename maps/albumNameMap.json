@@ -187,7 +187,8 @@
         "focus": "FOCUS",
         "the_chase": "The Chase",
         "style": "Style",
-        "rude!": "RUDE!"
+        "rude!": "RUDE!",
+        "lemon_tang": "Lemon Tang"
     },
     "hyo": {
         "badster": "Badster",
@@ -282,8 +283,8 @@
         "goody_bag": "Goody Bag"
     },
     "mark": {
-        "the_firstfruit": "The First Fruit",
         "200": "200%",
+        "the_firstfruit": "The First Fruit",
         "child": "Child",
         "fraktsiya": "Fraktsiya",
         "golden_hour": "Golden Hour"
@@ -458,7 +459,7 @@
         "lucky": "Lucky",
         "siren": "Siren",
         "talk_saxy": "Talk Saxy",
-        "ⅱ": "Ⅱ"
+        "ii": "II"
     },
     "ryeowook": {
         "a_wild_rose": "A Wild Rose",
@@ -466,7 +467,8 @@
         "the_little_prince": "The Little Prince",
         "drunk_on_love": "Drunk On Love",
         "lingering": "Lingering",
-        "one_and_only": "One and Only"
+        "one_and_only": "One and Only",
+        "runaway": "Runaway"
     },
     "seohyun": {
         "dont_say_no": "Don't Say No"
@@ -739,6 +741,7 @@
         "dirty_work": "Dirty Work",
         "drama": "Drama",
         "smcu_express": "SMCU Express",
+        "wda": "WDA",
         "whiplash": "Whiplash",
         "forever": "Forever",
         "girls": "Girls",

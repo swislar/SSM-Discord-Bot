@@ -2731,6 +2731,14 @@
             "id": "1282",
             "bonus_from": "02-17",
             "bonus_to": "02-23"
+        },
+        "lemon tang": {
+            "artist": "Hearts2Hearts",
+            "title": "Lemon Tang",
+            "album": "lemon_tang",
+            "id": "1292",
+            "bonus_from": "06-19",
+            "bonus_to": "06-25"
         }
     },
     "henry": {
@@ -3732,13 +3740,13 @@
         }
     },
     "mark": {
-        "+82 pressin'": {
+        "200": {
             "artist": "MARK",
-            "title": "+82 Pressin'",
-            "album": "the_firstfruit",
-            "id": "1175",
-            "bonus_from": "04-04",
-            "bonus_to": "04-10"
+            "title": "200",
+            "album": "200",
+            "id": "1073",
+            "bonus_from": "05-12",
+            "bonus_to": "05-18"
         },
         "1999": {
             "artist": "MARK",
@@ -3748,13 +3756,13 @@
             "bonus_from": "04-04",
             "bonus_to": "04-10"
         },
-        "200": {
+        "+82 pressin'": {
             "artist": "MARK",
-            "title": "200",
-            "album": "200",
-            "id": "1073",
-            "bonus_from": "05-12",
-            "bonus_to": "05-18"
+            "title": "+82 Pressin'",
+            "album": "the_firstfruit",
+            "id": "1175",
+            "bonus_from": "04-04",
+            "bonus_to": "04-10"
         },
         "child": {
             "artist": "MARK",
@@ -5459,6 +5467,14 @@
             "id": "1290",
             "bonus_from": "04-17",
             "bonus_to": "04-23"
+        },
+        "여우비 (crush)": {
+            "artist": "NCT WISH",
+            "title": "여우비 (Crush)",
+            "album": "ode_to_love",
+            "id": "1298",
+            "bonus_from": "04-17",
+            "bonus_to": "04-23"
         }
     },
     "naevis": {
@@ -6497,8 +6513,16 @@
         "do your dance": {
             "artist": "RIIZE",
             "title": "Do your dance",
-            "album": "ⅱ",
+            "album": "ii",
             "id": "1289",
+            "bonus_from": "06-12",
+            "bonus_to": "06-18"
+        },
+        "soar": {
+            "artist": "RIIZE",
+            "title": "SOAR",
+            "album": "ii",
+            "id": "1296",
             "bonus_from": "06-12",
             "bonus_to": "06-18"
         }
@@ -6567,6 +6591,14 @@
             "id": "456",
             "bonus_from": "11-25",
             "bonus_to": "12-01"
+        },
+        "runaway": {
+            "artist": "RYEOWOOK",
+            "title": "Runaway",
+            "album": "runaway",
+            "id": "1297",
+            "bonus_from": "06-20",
+            "bonus_to": "06-26"
         }
     },
     "seohyun": {
@@ -6633,6 +6665,14 @@
             "title": "Whatever",
             "album": "accidentally_on_purpose",
             "id": "1288",
+            "bonus_from": "03-07",
+            "bonus_to": "03-13"
+        },
+        "praying": {
+            "artist": "Seulgi",
+            "title": "Praying",
+            "album": "accidentally_on_purpose",
+            "id": "1295",
             "bonus_from": "03-07",
             "bonus_to": "03-13"
         }
@@ -10461,8 +10501,16 @@
         "wda (whole different animal) (feat. g-dragon)": {
             "artist": "Aespa",
             "title": "WDA (Whole Different Animal) (Feat. G-Dragon)",
-            "album": "lemonade",
+            "album": "wda",
             "id": "1283",
+            "bonus_from": "05-26",
+            "bonus_to": "05-31"
+        },
+        "lemonade": {
+            "artist": "Aespa",
+            "title": "LEMONADE",
+            "album": "lemonade",
+            "id": "1293",
             "bonus_from": "05-26",
             "bonus_to": "05-31"
         }
@@ -10499,6 +10547,14 @@
             "id": "1276",
             "bonus_from": "01-16",
             "bonus_to": "01-22"
+        },
+        "i'm home": {
+            "artist": "EXO (REVERXE)",
+            "title": "I'm Home",
+            "album": "reverxe",
+            "id": "1294",
+            "bonus_from": "01-16",
+            "bonus_to": "01-22"
         }
     },
     "nct jnjm": {
@@ -10515,6 +10571,14 @@
             "title": "WIND UP",
             "album": "both_sides",
             "id": "1272",
+            "bonus_from": "02-20",
+            "bonus_to": "02-26"
+        },
+        "hashtag": {
+            "artist": "NCT JNJM",
+            "title": "HASHTAG",
+            "album": "both_sides",
+            "id": "1299",
             "bonus_from": "02-20",
             "bonus_to": "02-26"
         }

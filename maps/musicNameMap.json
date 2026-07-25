@@ -149,8 +149,8 @@
         "be": "be"
     },
     "exo": {
-        "24/7": "24/7",
         "247": "24/7",
+        "24/7": "24/7",
         "24-7": "24/7",
         "24 7": "24/7",
         "beyond": "beyond",
@@ -531,11 +531,13 @@
         "rude": "rude!",
         "v2 rude": "rude! [verse 2]",
         "rude v2": "rude! [verse 2]",
-        "rude full": "rude! [full]"
+        "rude full": "rude! [full]",
+        "lemon tang": "lemon tang",
+        "lemontang": "lemon tang"
     },
     "henry": {
-        "1 4 3": "1 4 3 (i love you)",
         "143": "1 4 3 (i love you)",
+        "1 4 3": "1 4 3 (i love you)",
         "i love you": "1 4 3 (i love you)",
         "bad girl": "bad girl (feat. chanyeol 찬열 of exo)",
         "butterfly": "butterfly (feat. seulgi 슬기 of smrookies)",
@@ -737,9 +739,9 @@
         "i wish": "하고 싶어 (i wish)"
     },
     "mark": {
-        "82 pressin": "+82 pressin'",
-        "1999": "1999",
         "200": "200",
+        "1999": "1999",
+        "82 pressin": "+82 pressin'",
         "child": "child",
         "fraktsiya": "fraktsiya (feat. 이영지)",
         "golden hour": "golden hour",
@@ -868,8 +870,8 @@
         "perfume": "perfume"
     },
     "nct dream (go back to the future)": {
-        "1 2 3": "1, 2, 3",
         "123": "1, 2, 3",
+        "1 2 3": "1, 2, 3",
         "anl": "anl",
         "arcade": "arcade",
         "beatbox": "beatbox",
@@ -1035,6 +1037,7 @@
         "yestoday": "yestoday"
     },
     "nct wish": {
+        "20": "2.0 (two point o)",
         "3 minutes": "3 minutes",
         "3minutes": "3 minutes",
         "baby blue": "baby blue",
@@ -1078,10 +1081,12 @@
         "ode to love v2": "ode to love [verse 2]",
         "v2 ode to love": "ode to love [verse 2]",
         "2.0": "2.0 (two point o)",
-        "20": "2.0 (two point o)",
         "2 0": "2.0 (two point o)",
         "two point o": "2.0 (two point o)",
-        "sticky": "sticky"
+        "sticky": "sticky",
+        "여우비 (crush)": "여우비 (crush)",
+        "여우비": "여우비 (crush)",
+        "crush": "여우비 (crush)"
     },
     "naevis": {
         "done": "done",
@@ -1253,7 +1258,8 @@
         "the end of the day": "모든 하루의 끝 (the end of the day)",
         "end of the day": "모든 하루의 끝 (the end of the day)",
         "sticky like": "sticky like",
-        "do your dance": "do your dance"
+        "do your dance": "do your dance",
+        "soar": "soar"
     },
     "ryeowook": {
         "bluebird": "bluebird",
@@ -1268,7 +1274,8 @@
         "the little prince": "어린왕자 (the little prince)",
         "어린왕자": "어린왕자 (the little prince)",
         "one and only": "우리의 거리 (one and only)",
-        "우리의 거리": "우리의 거리 (one and only)"
+        "우리의 거리": "우리의 거리 (one and only)",
+        "runaway": "runaway"
     },
     "seohyun": {
         "dont say no": "don't say no",
@@ -1282,7 +1289,8 @@
         "baby not baby": "baby, not baby",
         "better dayz": "better dayz",
         "better days": "better dayz",
-        "whatever": "whatever"
+        "whatever": "whatever",
+        "praying": "praying"
     },
     "shinee": {
         "1 of 1": "1 of 1",
@@ -1372,9 +1380,9 @@
         "atmos": "atmos"
     },
     "station": {
+        "11": "11 (eleven) (hitchhiker)",
         "123": "1,2,3 (sung by f(x)",
         "1 2 3": "1,2,3 (sung by f(x)",
-        "11": "11 (eleven) (hitchhiker)",
         "eleven": "11 (eleven) (hitchhiker)",
         "around": "around (hitchhiker x taeyong)",
         "beautiful christmas": "beautiful christmas (red velvet, æspa)",
@@ -1640,9 +1648,9 @@
         "소나타": "소나타 (play me)"
     },
     "taeyeon": {
-        "11 11": "11:11",
         "11": "11:11",
         "1111": "11:11",
+        "11 11": "11:11",
         "all for nothing": "all for nothing",
         "better babe": "better babe",
         "blue": "blue",
@@ -1959,16 +1967,20 @@
         "목소리": "목소리 (melody)",
         "melody": "목소리 (melody)",
         "whole different animal": "wda (whole different animal) (feat. g-dragon)",
-        "wda": "wda (whole different animal) (feat. g-dragon)"
+        "wda": "wda (whole different animal) (feat. g-dragon)",
+        "lemonade": "lemonade"
     },
     "exo (reverxe)": {
         "crown": "crown",
         "back it up": "back it up",
         "suffocate": "suffocate",
-        "moonlight shadows": "moonlight shadows"
+        "moonlight shadows": "moonlight shadows",
+        "i'm home": "i'm home",
+        "im home": "i'm home"
     },
     "nct jnjm": {
         "both sides": "both sides",
-        "wind up": "wind up"
+        "wind up": "wind up",
+        "hashtag": "hashtag"
     }
 }

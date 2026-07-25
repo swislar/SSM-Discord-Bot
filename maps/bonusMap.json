@@ -70,6 +70,13 @@
                 "bonus": 3,
                 "bonusTo": "05-31",
                 "type": "album"
+            },
+            {
+                "album": "wda",
+                "artist": "æspa",
+                "bonus": 3,
+                "bonusTo": "05-31",
+                "type": "album"
             }
         ],
         "06-24": [
@@ -1842,6 +1849,15 @@
                 "bonusTo": "06-21",
                 "date": "06-18",
                 "type": "birthday + album"
+            }
+        ],
+        "06-19": [
+            {
+                "album": "lemon_tang",
+                "artist": "Hearts2Hearts",
+                "bonus": 3,
+                "bonusTo": "06-25",
+                "type": "album"
             }
         ],
         "09-04": [
@@ -5061,7 +5077,7 @@
         ],
         "06-12": [
             {
-                "album": "ⅱ",
+                "album": "ii",
                 "artist": "RIIZE",
                 "bonus": 3,
                 "bonusTo": "06-18",
@@ -5193,6 +5209,15 @@
                 "bonusTo": "06-24",
                 "date": "06-21",
                 "type": "birthday"
+            }
+        ],
+        "06-20": [
+            {
+                "album": "runaway",
+                "artist": "RYEOWOOK",
+                "bonus": 3,
+                "bonusTo": "06-26",
+                "type": "album"
             }
         ],
         "11-17": [
