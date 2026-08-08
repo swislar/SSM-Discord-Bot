@@ -68,7 +68,7 @@
                 "album": "lemonade",
                 "artist": "æspa",
                 "bonus": 3,
-                "bonusTo": "05-31",
+                "bonusTo": "06-01",
                 "type": "album"
             },
             {
@@ -2125,6 +2125,15 @@
                 "artist": "JAEHYUN",
                 "bonus": 3,
                 "bonusTo": "10-27",
+                "type": "album"
+            }
+        ],
+        "07-07": [
+            {
+                "album": "99_degrees",
+                "artist": "JAEHYUN",
+                "bonus": 3,
+                "bonusTo": "07-13",
                 "type": "album"
             }
         ]
