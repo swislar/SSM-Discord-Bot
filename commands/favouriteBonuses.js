@@ -2,9 +2,9 @@ import { getBonus } from "../helpers/index.js";
 import { userBonusFav } from "../data/index.js";
 import { favBonusMessage } from "../messages/index.js";
 
-export const favouriteBonuses = async (message, favourite) => {
+export const favouriteBonuses = async (message, favourite, offsetDays = 0) => {
     const userId = message.author.id;
-    const bonus = getBonus();
+    const bonus = getBonus(offsetDays);
     const groups = userBonusFav[userId] ?? [];
 
     if (!favourite || !Array.isArray(groups) || groups.length === 0) {

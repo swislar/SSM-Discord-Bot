@@ -81,6 +81,14 @@ const commands = [
         name: "bonusall",
         description: "View all artist bonuses for this week.",
     },
+    {
+        name: "bn",
+        description: "View favourite artist bonuses for next week.",
+    },
+    {
+        name: "bonusnext",
+        description: "View favourite artist bonuses for next week.",
+    },
 ];
 
 const rest = new REST({ version: "10" }).setToken(process.env.LOGIN_TOKEN);

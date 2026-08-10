@@ -160,9 +160,13 @@ client.on("interactionCreate", async (interaction) => {
     } else if (commandName === "favgroups") {
         await favGroups(interaction);
     } else if (commandName === "bonus") {
-        await interactiveFavouriteBonuses(interaction, true);
+        const week = interaction.options.getString("week");
+        const offsetDays = week === "next" ? 7 : 0;
+        await interactiveFavouriteBonuses(interaction, true, offsetDays);
     } else if (commandName === "bonusall") {
         await interactiveFavouriteBonuses(interaction, false);
+    } else if (commandName === "bn") {
+        await interactiveFavouriteBonuses(interaction, true, 7);
     }
 });
 
@@ -181,9 +185,13 @@ client.on("messageCreate", async (message) => {
     } else if (command === "lb") {
         worldRecordRanking(message, args);
     } else if (command === "bonus") {
-        favouriteBonuses(message, true);
-    } else if (command === "bonus") {
-        favouriteBonuses(message, false);
+        const isNext = args[0]?.toLowerCase() === "next";
+        favouriteBonuses(message, true, isNext ? 7 : 0);
+    } else if (command === "bonusall") {
+        const isNext = args[0]?.toLowerCase() === "next";
+        favouriteBonuses(message, false, isNext ? 7 : 0);
+    } else if (command === "bn") {
+        favouriteBonuses(message, true, 7);
     }
 });
 

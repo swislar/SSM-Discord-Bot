@@ -2,9 +2,9 @@ import { getBonus } from "../helpers/index.js";
 import { userBonusFav } from "../data/index.js";
 import { favBonusMessage } from "../messages/index.js";
 
-export const interactiveFavouriteBonuses = async (interaction, favourite) => {
+export const interactiveFavouriteBonuses = async (interaction, favourite, offsetDays = 0) => {
     const userId = interaction.user.id;
-    const bonus = getBonus();
+    const bonus = getBonus(offsetDays);
     const groups = userBonusFav[userId] ?? [];
 
     await interaction.deferReply({ ephemeral: false });

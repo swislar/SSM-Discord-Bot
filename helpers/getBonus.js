@@ -1,6 +1,6 @@
 import { bonusMappings } from "../maps/index.js";
 
-export const getBonus = () => {
+export const getBonus = (offsetDays = 0) => {
     const timezone = process.env.TZ || "UTC";
 
     const localizedString = new Date().toLocaleString("en-US", {
@@ -11,7 +11,7 @@ export const getBonus = () => {
     const startDate = new Date(today);
     const dayOfWeek = today.getDay();
     const diffToMonday = dayOfWeek === 0 ? 6 : dayOfWeek - 1;
-    startDate.setDate(today.getDate() - diffToMonday - 7);
+    startDate.setDate(today.getDate() - diffToMonday - 7 + offsetDays);
 
     const endDate = new Date(startDate);
     endDate.setDate(startDate.getDate() + 14);

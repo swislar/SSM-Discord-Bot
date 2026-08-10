@@ -46,7 +46,7 @@ export class FormatDate {
             this.today.getMonth() === 0 &&
             end.getMonth() === 11
         ) {
-            end = this.parseDate(to, currentYear - 1);
+            end = this.parseDate(to, this.currentYear - 1);
         }
         const diff = Math.ceil((end - this.today) / (1000 * 60 * 60 * 24));
         return diff;
