@@ -76,6 +76,18 @@ const commands = [
     {
         name: "bonus",
         description: "View favourite artist bonuses for this week.",
+        options: [
+            {
+                name: "week",
+                description: "Week to view (this or next)",
+                type: ApplicationCommandOptionType.String,
+                required: false,
+                choices: [
+                    { name: "this", value: "this" },
+                    { name: "next", value: "next" },
+                ],
+            },
+        ],
     },
     {
         name: "bonusall",
@@ -83,10 +95,6 @@ const commands = [
     },
     {
         name: "bn",
-        description: "View favourite artist bonuses for next week.",
-    },
-    {
-        name: "bonusnext",
         description: "View favourite artist bonuses for next week.",
     },
 ];

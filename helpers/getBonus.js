@@ -1,12 +1,8 @@
 import { bonusMappings } from "../maps/index.js";
+import { getKoreaDate } from "./getKoreaDate.js";
 
 export const getBonus = (offsetDays = 0) => {
-    const timezone = process.env.TZ || "UTC";
-
-    const localizedString = new Date().toLocaleString("en-US", {
-        timeZone: timezone,
-    });
-    const today = new Date(localizedString);
+    const today = getKoreaDate();
 
     const startDate = new Date(today);
     const dayOfWeek = today.getDay();

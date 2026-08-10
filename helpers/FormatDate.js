@@ -1,11 +1,8 @@
+import { getKoreaDate } from "./getKoreaDate.js";
+
 export class FormatDate {
     constructor() {
-        const timezone = process.env.TZ || "UTC";
-
-        const localizedString = new Date().toLocaleString("en-US", {
-            timeZone: timezone,
-        });
-        this.today = new Date(localizedString);
+        this.today = getKoreaDate();
         this.currentYear = this.today.getFullYear();
     }
 

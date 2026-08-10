@@ -1,13 +1,9 @@
 import { musicMappings } from "../maps/index.js";
 import axios from "axios";
+import { getKoreaDate } from "./getKoreaDate.js";
 
 export const getWorldRecordRanking = async (artist, title) => {
-    const timezone = process.env.TZ || "UTC";
-
-    const localizedString = new Date().toLocaleString("en-US", {
-        timeZone: timezone,
-    });
-    const now = new Date(localizedString).getTime();
+    const now = getKoreaDate().getTime();
     const wrEndPoint = process.env.WR_ENDPOINT;
     const musicEntry = musicMappings[artist]?.[title];
     const musicTitle = typeof musicEntry === "object" ? musicEntry.title : null;
@@ -34,6 +30,7 @@ export const getWorldRecordRanking = async (artist, title) => {
             score: user.highscore,
             cards: user.cards.length,
             time: new Date(user.updatedAt).toLocaleString("ko-KR", {
+                timeZone: "Asia/Seoul",
                 year: "2-digit",
                 month: "2-digit",
                 day: "2-digit",
