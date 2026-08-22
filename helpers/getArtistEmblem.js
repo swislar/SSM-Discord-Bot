@@ -6,11 +6,13 @@ import fs from "fs";
 import path from "path";
 
 export const getArtistEmblem = async (artist) => {
+    if (!artist) return null;
     const emblemEndPoint = process.env.EMBLEM_ENDPOINT;
     const emblemPath = emblemMappings[artist.toLowerCase()];
 
     if (!emblemPath) {
         console.log(`Emblem not found for ${artist}`);
+        return null;
     }
 
     const filename = `${sanitizeFilename(artist.toLowerCase())}.png`;
@@ -43,6 +45,6 @@ export const getArtistEmblem = async (artist) => {
         return localPath;
     } catch (error) {
         console.error(`Error downloading emblem for ${artist}:`, error.message);
-        throw new Error(`Failed to download emblem for ${artist}`);
+        return null;
     }
 };

@@ -5,6 +5,7 @@ import axios from "axios";
 import path from "path";
 
 export const getAlbumCover = async (artist, album) => {
+    if (!artist || !album) return null;
     const albumCoverEndPoint = process.env.ALBUM_COVER_ENDPOINT;
     const artistKey = artist.toLowerCase();
     const albumKey = album.toLowerCase();

@@ -14,12 +14,13 @@ export const interactiveWorldRecordRanking = async (interaction) => {
     const artistOriginal = artistRaw.toLowerCase();
     const titleOriginal = songTitleRaw.toLowerCase();
 
-    const artist = artistMappings[artistOriginal] ?? artistOriginal;
-    const songTitle = musicNameMappings[artist][titleOriginal] ?? titleOriginal;
-
     await interaction.deferReply({ ephemeral: true });
 
     try {
+        const artist = artistMappings[artistOriginal] ?? artistOriginal;
+        const songTitle =
+            musicNameMappings[artist]?.[titleOriginal] ?? titleOriginal;
+
         const { ranking, albumKey, musicTitle, artistName } =
             await getWorldRecordRanking(artist, songTitle);
 
@@ -35,7 +36,9 @@ export const interactiveWorldRecordRanking = async (interaction) => {
 
         try {
             const artistEmblem = await getArtistEmblem(artist);
-            emblemPath = await resizeAuthorImage(artistEmblem);
+            if (artistEmblem) {
+                emblemPath = await resizeAuthorImage(artistEmblem);
+            }
         } catch (error) {
             console.error(
                 `Error preparing emblem for ${artist}:`,
@@ -45,7 +48,9 @@ export const interactiveWorldRecordRanking = async (interaction) => {
 
         try {
             const albumCover = await getAlbumCover(artist, albumKey);
-            albumCoverPath = await resizeThumbnail(albumCover);
+            if (albumCover) {
+                albumCoverPath = await resizeThumbnail(albumCover);
+            }
         } catch (error) {
             console.error(
                 `Error preparing album cover for ${artist} - ${songTitle}:`,

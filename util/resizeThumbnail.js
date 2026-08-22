@@ -11,6 +11,10 @@ import os from "os";
  * @returns {Promise<string|null>} The path to the thumbnail file, or null if an error occurs.
  */
 export const resizeThumbnail = async (originalPath, size = 128) => {
+    if (!originalPath || typeof originalPath !== "string") {
+        return null;
+    }
+
     try {
         // --- NEW LOGIC START ---
 

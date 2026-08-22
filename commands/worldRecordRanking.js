@@ -33,13 +33,14 @@ export const worldRecordRanking = async (message, args) => {
         return;
     }
 
-    const artistOriginal = artistRaw.toLowerCase();
-    const titleOriginal = songTitleRaw.toLowerCase();
-
-    const artist = artistMappings[artistOriginal] ?? artistOriginal;
-    const songTitle = musicNameMappings[artist][titleOriginal] ?? titleOriginal;
-
     try {
+        const artistOriginal = artistRaw.toLowerCase();
+        const titleOriginal = songTitleRaw.toLowerCase();
+
+        const artist = artistMappings[artistOriginal] ?? artistOriginal;
+        const songTitle =
+            musicNameMappings[artist]?.[titleOriginal] ?? titleOriginal;
+
         const { ranking, albumKey, musicTitle, artistName } =
             await getWorldRecordRanking(artist, songTitle);
 
@@ -57,7 +58,9 @@ export const worldRecordRanking = async (message, args) => {
         // EMBLEM img
         try {
             const originalEmblemPath = await getArtistEmblem(artist);
-            emblemPath = await resizeAuthorImage(originalEmblemPath);
+            if (originalEmblemPath) {
+                emblemPath = await resizeAuthorImage(originalEmblemPath);
+            }
         } catch (error) {
             console.error(
                 `Error preparing emblem for ${artist}:`,
@@ -68,7 +71,9 @@ export const worldRecordRanking = async (message, args) => {
         // ALBUM img
         try {
             const originalAlbumCover = await getAlbumCover(artist, albumKey);
-            albumCoverPath = await resizeThumbnail(originalAlbumCover);
+            if (originalAlbumCover) {
+                albumCoverPath = await resizeThumbnail(originalAlbumCover);
+            }
         } catch (error) {
             console.error(
                 `Error preparing album cover for ${artist} - ${songTitle}:`,
@@ -87,7 +92,7 @@ export const worldRecordRanking = async (message, args) => {
     } catch (error) {
         console.error("Error getting ranking:", error);
         message.channel.send(
-            `Sorry, I couldn't get the ranking for ${songTitle} by ${artist}. Make sure the song exists in the database.`
+            `Sorry, I couldn't get the ranking for ${songTitleRaw} by ${artistRaw}. Make sure the song exists in the database.`
         );
     }
 };

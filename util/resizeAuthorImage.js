@@ -16,6 +16,10 @@ const sanitizeFilename = (filename) => {
  * @returns {Promise<string|null>} The path to the icon file, or null if an error occurs.
  */
 export const resizeAuthorImage = async (originalPath, size = 64) => {
+    if (!originalPath || typeof originalPath !== "string") {
+        return null;
+    }
+
     try {
         // 1. Determine the expected path for the icon based on a predictable, sanitized name.
         const originalNameOnly = path.basename(
