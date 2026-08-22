@@ -579,6 +579,14 @@
             "id": "53",
             "bonus_from": "05-28",
             "bonus_to": "06-03"
+        },
+        "아틀란티스 소녀 (atlantis princess)(ver.2)": {
+            "artist": "BoA",
+            "title": "아틀란티스 소녀 (Atlantis Princess)(Ver.2)",
+            "album": "atlantis_princess",
+            "id": "1315",
+            "bonus_from": "05-28",
+            "bonus_to": "06-03"
         }
     },
     "chanyeol": {
@@ -2745,6 +2753,14 @@
             "title": "Lemon Tang",
             "album": "lemon_tang",
             "id": "1292",
+            "bonus_from": "06-19",
+            "bonus_to": "06-25"
+        },
+        "처음투성이 (baby steps)": {
+            "artist": "Hearts2Hearts",
+            "title": "처음투성이 (Baby Steps)",
+            "album": "lemon_tang",
+            "id": "1309",
             "bonus_from": "06-19",
             "bonus_to": "06-25"
         }
@@ -5499,6 +5515,14 @@
             "id": "1298",
             "bonus_from": "04-17",
             "bonus_to": "04-23"
+        },
+        "don't say you love me": {
+            "artist": "NCT WISH",
+            "title": "Don't Say You Love Me",
+            "album": "ode_to_love",
+            "id": "1308",
+            "bonus_from": "04-17",
+            "bonus_to": "04-23"
         }
     },
     "naevis": {
@@ -7205,6 +7229,14 @@
             "id": "1300",
             "bonus_from": "05-29",
             "bonus_to": "06-04"
+        },
+        "view (ver.2)": {
+            "artist": "SHINee",
+            "title": "View (Ver.2)",
+            "album": "odd",
+            "id": "1310",
+            "bonus_from": "05-15",
+            "bonus_to": "05-21"
         }
     },
     "station": {
@@ -7583,6 +7615,14 @@
             "id": "484",
             "bonus_from": "05-06",
             "bonus_to": "05-12"
+        },
+        "thank you": {
+            "artist": "STATION",
+            "title": "Thank You",
+            "album": "2025_smtown",
+            "id": "1311",
+            "bonus_from": "02-11",
+            "bonus_to": "02-17"
         }
     },
     "suho": {
@@ -8351,6 +8391,14 @@
             "title": "Finale",
             "album": "super_junior25",
             "id": "1287",
+            "bonus_from": "07-05",
+            "bonus_to": "07-11"
+        },
+        "delight": {
+            "artist": "SUPER JUNIOR (Super Junior25)",
+            "title": "Delight",
+            "album": "super_junior25",
+            "id": "1312",
             "bonus_from": "07-05",
             "bonus_to": "07-11"
         }
@@ -9441,6 +9489,14 @@
             "id": "48",
             "bonus_from": "12-31",
             "bonus_to": "01-06"
+        },
+        "the way u are (unplugged ver.)": {
+            "artist": "TVXQ!",
+            "title": "The Way U Are (Unplugged Ver.)",
+            "album": "20&2",
+            "id": "1307",
+            "bonus_from": "12-23",
+            "bonus_to": "12-29"
         }
     },
     "u-know": {
@@ -9773,6 +9829,14 @@
             "title": "Glow",
             "album": "glow",
             "id": "1277",
+            "bonus_from": "04-24",
+            "bonus_to": "04-30"
+        },
+        "dancing anyway": {
+            "artist": "XngHan&Xoul",
+            "title": "Dancing Anyway",
+            "album": "glow",
+            "id": "1314",
             "bonus_from": "04-24",
             "bonus_to": "04-30"
         }
@@ -10559,6 +10623,14 @@
             "title": "SHAKIN'",
             "album": "lemonade",
             "id": "1305",
+            "bonus_from": "05-26",
+            "bonus_to": "06-01"
+        },
+        "camouflage": {
+            "artist": "aespa",
+            "title": "Camouflage",
+            "album": "lemonade",
+            "id": "1313",
             "bonus_from": "05-26",
             "bonus_to": "06-01"
         }

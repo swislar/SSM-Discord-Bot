@@ -105,7 +105,15 @@
         "spring rain": "봄비 (spring rain)",
         "아틀란티스소녀": "아틀란티스 소녀 (atlantis princess)",
         "아틀란티스 소녀": "아틀란티스 소녀 (atlantis princess)",
-        "atlantis princess": "아틀란티스 소녀 (atlantis princess)"
+        "atlantis princess": "아틀란티스 소녀 (atlantis princess)",
+        "아틀란티스 소녀 v2": "아틀란티스 소녀 (atlantis princess)(ver.2)",
+        "아틀란티스소녀 v2": "아틀란티스 소녀 (atlantis princess)(ver.2)",
+        "v2 아틀란티스 소녀": "아틀란티스 소녀 (atlantis princess)(ver.2)",
+        "v2 아틀란티스소녀": "아틀란티스 소녀 (atlantis princess)(ver.2)",
+        "atlantis princess v2": "아틀란티스 소녀 (atlantis princess)(ver.2)",
+        "v2 atlantis princess": "아틀란티스 소녀 (atlantis princess)(ver.2)",
+        "atlantis princess ver 2": "아틀란티스 소녀 (atlantis princess)(ver.2)",
+        "atlantis princess ver.2": "아틀란티스 소녀 (atlantis princess)(ver.2)"
     },
     "chanyeol": {
         "black out": "black out",
@@ -535,7 +543,10 @@
         "rude v2": "rude! [verse 2]",
         "rude full": "rude! [full]",
         "lemon tang": "lemon tang",
-        "lemontang": "lemon tang"
+        "lemontang": "lemon tang",
+        "처음투성이": "처음투성이 (baby steps)",
+        "baby steps": "처음투성이 (baby steps)",
+        "babysteps": "처음투성이 (baby steps)"
     },
     "henry": {
         "143": "1 4 3 (i love you)",
@@ -1091,7 +1102,10 @@
         "sticky": "sticky",
         "여우비 (crush)": "여우비 (crush)",
         "여우비": "여우비 (crush)",
-        "crush": "여우비 (crush)"
+        "crush": "여우비 (crush)",
+        "dont say you love me": "don't say you love me",
+        "dont say u love me": "don't say you love me",
+        "dsylm": "don't say you love me"
     },
     "naevis": {
         "done": "done",
@@ -1384,7 +1398,10 @@
         "hitchhiking": "히치하이킹 (hitchhiking)",
         "히치하이킹": "히치하이킹 (hitchhiking)",
         "atmos": "atmos",
-        "hours": "hours"
+        "hours": "hours",
+        "view v2": "view (ver.2)",
+        "v2 view": "view (ver.2)",
+        "view ver 2": "view (ver.2)"
     },
     "station": {
         "11": "11 (eleven) (hitchhiker)",
@@ -1457,7 +1474,8 @@
         "a day without you": "하루 (a day without you)",
         "하루": "하루 (a day without you)",
         "you": "이유 (You)",
-        "이유": "이유 (You)"
+        "이유": "이유 (You)",
+        "thank you": "thank you"
     },
     "suho": {
         "1 to 3": "1 to 3",
@@ -1603,7 +1621,8 @@
         "우리에게": "우리에게 (the melody)",
         "haircut": "haircut",
         "air": "air",
-        "finale": "finale"
+        "finale": "finale",
+        "delight": "delight"
     },
     "superm": {
         "100": "100",
@@ -1783,7 +1802,9 @@
         "항상 곁에 있을게": "항상 곁에 있을게 (always with you)",
         "always with you": "항상 곁에 있을게 (always with you)",
         "keep your head down": "왜 (keep your head down)",
-        "왜": "왜 (keep your head down)"
+        "왜": "왜 (keep your head down)",
+        "the way u are": "the way u are (unplugged ver.)",
+        "the way you are": "the way u are (unplugged ver.)"
     },
     "u-know": {
         "eeny meeny": "eeny meeny",
@@ -1840,7 +1861,8 @@
         "waste no time": "waste no time",
         "wastenotime": "waste no time",
         "wnt": "waste no time",
-        "glow": "glow"
+        "glow": "glow",
+        "dancing anyway": "dancing anyway"
     },
     "yesung": {
         "butterfly": "butterfly",
@@ -1977,7 +1999,8 @@
         "wda": "wda (whole different animal) (feat. g-dragon)",
         "lemonade": "lemonade",
         "shakin'": "shakin'",
-        "shakin": "shakin'"
+        "shakin": "shakin'",
+        "camouflage": "camouflage"
     },
     "exo (reverxe)": {
         "crown": "crown",

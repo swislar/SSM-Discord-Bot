@@ -5377,6 +5377,13 @@
                 "bonus": 3,
                 "bonusTo": "05-21",
                 "type": "album"
+            },
+            {
+                "album": "odd",
+                "artist": "SHINee",
+                "bonus": 3,
+                "bonusTo": "05-21",
+                "type": "album"
             }
         ],
         "05-19": [
@@ -5576,6 +5583,15 @@
                 "artist": "STATION",
                 "bonus": 3,
                 "bonusTo": "02-16",
+                "type": "album"
+            }
+        ],
+        "02-11": [
+            {
+                "album": "2025_smtown",
+                "artist": "STATION",
+                "bonus": 3,
+                "bonusTo": "02-17",
                 "type": "album"
             }
         ],
@@ -7147,6 +7163,13 @@
         "12-23": [
             {
                 "album": "the_truth_of_love",
+                "artist": "TVXQ!",
+                "bonus": 3,
+                "bonusTo": "12-29",
+                "type": "album"
+            },
+            {
+                "album": "20&2",
                 "artist": "TVXQ!",
                 "bonus": 3,
                 "bonusTo": "12-29",
