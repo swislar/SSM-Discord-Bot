@@ -2473,6 +2473,14 @@
             "id": "96",
             "bonus_from": "10-16",
             "bonus_to": "10-22"
+        },
+        "gee (ver.2)": {
+            "artist": "Girls' Generation",
+            "title": "Gee (Ver.2)",
+            "album": "gee",
+            "id": "1319",
+            "bonus_from": "01-02",
+            "bonus_to": "01-08"
         }
     },
     "girls' generation-oh!gg": {
@@ -6257,6 +6265,14 @@
             "id": "1303",
             "bonus_from": "11-10",
             "bonus_to": "11-16"
+        },
+        "surfin' boy": {
+            "artist": "Red Velvet",
+            "title": "Surfin' Boy",
+            "album": "velvet_summer",
+            "id": "1320",
+            "bonus_from": "07-31",
+            "bonus_to": "08-06"
         }
     },
     "red velvet - irene & seulgi": {
@@ -6581,6 +6597,14 @@
             "id": "1296",
             "bonus_from": "06-12",
             "bonus_to": "06-18"
+        },
+        "another life": {
+            "artist": "RIIZE",
+            "title": "Another Life",
+            "album": "odyssey",
+            "id": "1318",
+            "bonus_from": "05-16",
+            "bonus_to": "05-22"
         }
     },
     "ryeowook": {
@@ -7237,6 +7261,14 @@
             "id": "1310",
             "bonus_from": "05-15",
             "bonus_to": "05-21"
+        },
+        "possibility": {
+            "artist": "SHINee",
+            "title": "Possibility",
+            "album": "atmos",
+            "id": "1316",
+            "bonus_from": "05-29",
+            "bonus_to": "06-04"
         }
     },
     "station": {
@@ -9669,6 +9701,14 @@
             "id": "561",
             "bonus_from": "06-15",
             "bonus_to": "06-21"
+        },
+        "new ride": {
+            "artist": "WayV",
+            "title": "New Ride",
+            "album": "give_me_that",
+            "id": "1317",
+            "bonus_from": "05-31",
+            "bonus_to": "06-06"
         }
     },
     "wayv (big bands)": {
@@ -10709,6 +10749,16 @@
             "id": "1299",
             "bonus_from": "02-20",
             "bonus_to": "02-26"
+        }
+    },
+    "super junior-83z": {
+        "너를 위한 약속(promise)": {
+            "artist": "Super Junior-83z",
+            "title": "너를 위한 약속(Promise)",
+            "album": "promise",
+            "id": "1321",
+            "bonus_from": "07-10",
+            "bonus_to": "07-16"
         }
     }
 }

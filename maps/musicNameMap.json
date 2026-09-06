@@ -486,7 +486,9 @@
         "snowy wish": "첫눈에… (snowy wish)",
         "첫눈에": "첫눈에… (snowy wish)",
         "vitamin": "비타민 (vitamin)",
-        "비타민": "비타민 (vitamin)"
+        "비타민": "비타민 (vitamin)",
+        "gee v2": "gee (ver.2)",
+        "v2 gee": "gee (ver.2)"
     },
     "girls' generation-oh!gg": {
         "lil touch v2": "lil' touch (verse 2)",
@@ -545,8 +547,7 @@
         "lemon tang": "lemon tang",
         "lemontang": "lemon tang",
         "처음투성이": "처음투성이 (baby steps)",
-        "baby steps": "처음투성이 (baby steps)",
-        "babysteps": "처음투성이 (baby steps)"
+        "baby steps": "처음투성이 (baby steps)"
     },
     "henry": {
         "143": "1 4 3 (i love you)",
@@ -1225,7 +1226,9 @@
         "행복": "행복(happiness)",
         "one of these nights": "7월 7일 (one of these nights)",
         "7월 7일": "7월 7일 (one of these nights)",
-        "underwater": "underwater"
+        "underwater": "underwater",
+        "surfin boy": "surfin' boy",
+        "surfing boy": "surfin' boy"
     },
     "red velvet - irene & seulgi": {
         "diamond": "diamond",
@@ -1279,7 +1282,8 @@
         "end of the day": "모든 하루의 끝 (the end of the day)",
         "sticky like": "sticky like",
         "do your dance": "do your dance",
-        "soar": "soar"
+        "soar": "soar",
+        "another life": "another life"
     },
     "ryeowook": {
         "bluebird": "bluebird",
@@ -1401,7 +1405,7 @@
         "hours": "hours",
         "view v2": "view (ver.2)",
         "v2 view": "view (ver.2)",
-        "view ver 2": "view (ver.2)"
+        "possibility": "possibility"
     },
     "station": {
         "11": "11 (eleven) (hitchhiker)",
@@ -1830,7 +1834,8 @@
         "phantom": "phantom",
         "poppin love": "poppin' love",
         "turn back time": "turn back time (超时空 回)",
-        "turn back time kr": "turn back time (korean ver.)"
+        "turn back time kr": "turn back time (korean ver.)",
+        "new ride": "new ride"
     },
     "wayv (big bands)": {
         "big bands": "big bands (狂想曲)",
@@ -2015,5 +2020,10 @@
         "both sides": "both sides",
         "wind up": "wind up",
         "hashtag": "hashtag"
+    },
+    "super junior-83z": {
+        "너를 위한 약속": "너를 위한 약속(promise)",
+        "너를위한약속": "너를 위한 약속(promise)",
+        "promise": "너를 위한 약속(promise)"
     }
 }

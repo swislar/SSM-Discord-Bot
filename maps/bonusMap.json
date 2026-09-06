@@ -4819,6 +4819,15 @@
                 "type": "album"
             }
         ],
+        "07-31": [
+            {
+                "album": "velvet_summer",
+                "artist": "Red Velvet",
+                "bonus": 3,
+                "bonusTo": "08-06",
+                "type": "album"
+            }
+        ],
         "08-01": [
             {
                 "album": "happiness",
@@ -7261,6 +7270,15 @@
                 "type": "album"
             }
         ],
+        "05-31": [
+            {
+                "album": "give_me_that",
+                "artist": "WayV",
+                "bonus": 3,
+                "bonusTo": "06-06",
+                "type": "album"
+            }
+        ],
         "06-06": [
             {
                 "album": "awaken_the_world",
@@ -7869,6 +7887,35 @@
                 "bonusTo": "10-05",
                 "date": "10-02",
                 "type": "birthday"
+            }
+        ]
+    },
+    "super junior-83z": {
+        "06-28": [
+            {
+                "artist": "Leeteuk",
+                "bonus": 4,
+                "bonusTo": "07-04",
+                "date": "07-01",
+                "type": "birthday"
+            }
+        ],
+        "07-07": [
+            {
+                "artist": "Heechul",
+                "bonus": 4,
+                "bonusTo": "07-13",
+                "date": "07-10",
+                "type": "birthday"
+            }
+        ],
+        "07-10": [
+            {
+                "album": "promise",
+                "artist": "Super Junior-83z",
+                "bonus": 3,
+                "bonusTo": "07-16",
+                "type": "album"
             }
         ]
     }

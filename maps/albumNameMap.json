@@ -441,7 +441,8 @@
         "would_u": "Would U",
         "the_red_summer": "The Red Summer",
         "wish_tree": "Wish Tree",
-        "happiness": "Happiness"
+        "happiness": "Happiness",
+        "velvet_summer": "Velvet Summer"
     },
     "red velvet - irene & seulgi": {
         "monster": "Monster",
@@ -685,7 +686,8 @@
         "kick_back": "Kick Back",
         "awaken_the_world": "Awaken The World",
         "on_my_youth": "On My Youth",
-        "phantom": "Phantom"
+        "phantom": "Phantom",
+        "give_me_that": "Give Me That"
     },
     "wayv (big bands)": {
         "big_bands": "BIG BANDS",
@@ -760,5 +762,8 @@
     },
     "nct jnjm": {
         "both_sides": "BOTH SIDES"
+    },
+    "super junior-83z": {
+        "promise": "Promise"
     }
 }
